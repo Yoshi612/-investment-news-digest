@@ -70,6 +70,15 @@ export default function Home() {
       </header>
 
       <section className={styles.section}>
+        <h2>開発の背景</h2>
+        <p className={styles.bodyText}>
+          毎日、経済・株式ニュースをチェックするようにしていますが、忙しい日はすべてに目を通す時間が取れず、重要なニュースを見逃してしまうことがありました。
+          そこで、日本株・米国株・グローバル市場のニュースをRSSで収集し、AIに重要度順で選定・要約させたうえで、毎朝6時にLINEへ自動配信する仕組みを開発しました。
+          限られた時間でも、重要なニュースから優先的に把握できることを目指しています。
+        </p>
+      </section>
+
+      <section className={styles.section}>
         <h2>仕組み</h2>
         <ol className={styles.steps}>
           {STEPS.map((step, i) => (

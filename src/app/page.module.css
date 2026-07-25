@@ -87,6 +87,13 @@
   margin-bottom: 20px;
 }
 
+.bodyText {
+  font-size: 15px;
+  line-height: 1.9;
+  color: var(--text-secondary);
+  max-width: 620px;
+}
+
 .steps {
   list-style: none;
   display: flex;
