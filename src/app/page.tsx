@@ -60,7 +60,7 @@ export default function Home() {
         <div className={styles.ctas}>
           <a
             className={styles.primary}
-            href="https://github.com/"
+            href="https://github.com/Yoshi612/-investment-news-digest"
             target="_blank"
             rel="noopener noreferrer"
           >
