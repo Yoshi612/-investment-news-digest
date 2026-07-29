@@ -44,17 +44,24 @@ export interface NewsPick {
   article: Article;
 }
 
-// 1回の呼び出しでGateway側が複数の無料モデルにフォールバックするため、外側のリトライ回数・待機時間は
-// 短めにしても十分な冗長性が得られる（maxDuration=300秒に収まるよう調整）
+// Vercel(Hobby)のmaxDuration=300秒は引き上げ不可のハード上限。それに強制終了されると
+// catchブロックが実行されず失敗通知すら送れなくなるため、AI呼び出し全体にこれより十分短い
+// 自前のタイムアウトを設け、RSS収集・LINE配信・失敗通知の時間を必ず残すようにする。
+const OVERALL_AI_BUDGET_MS = 200_000;
+const PER_ATTEMPT_TIMEOUT_MS = 100_000;
 const MAX_ATTEMPTS = 2;
-const RETRY_DELAY_MS = 15_000;
+const RETRY_DELAY_MS = 10_000;
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 /** 1回分のAI呼び出し。無料枠モデルはたまに空振り（0件選定）することがあるため、呼び出し元でリトライする */
-async function attemptPickImportantNews(articles: Article[], maxPicks: number): Promise<NewsPick[]> {
+async function attemptPickImportantNews(
+  articles: Article[],
+  maxPicks: number,
+  timeoutMs: number,
+): Promise<NewsPick[]> {
   const listing = articles
     .map((a, i) => `[${i}] (${a.source}) ${a.title}\n${a.snippet.slice(0, 200)}`)
     .join("\n\n");
@@ -99,6 +106,9 @@ ${listing}
         models: FALLBACK_MODELS,
       },
     },
+    // フォールバック連鎖（最大3モデル）が長引いてVercelの関数タイムアウトに巻き込まれるのを防ぐため、
+    // この呼び出し単体に上限を設ける
+    abortSignal: AbortSignal.timeout(timeoutMs),
   });
 
   const call = toolCalls.find((c) => c.toolName === "submit_picks");
@@ -129,10 +139,20 @@ ${listing}
 export async function pickImportantNews(articles: Article[], maxPicks: number): Promise<NewsPick[]> {
   if (articles.length === 0) return [];
 
+  const startedAt = Date.now();
   let lastError: unknown;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    const remainingBudgetMs = OVERALL_AI_BUDGET_MS - (Date.now() - startedAt);
+    if (remainingBudgetMs <= 0) {
+      console.warn(`[summarize] 時間予算(${OVERALL_AI_BUDGET_MS}ms)を使い切ったためリトライを打ち切り`);
+      break;
+    }
     try {
-      const picks = await attemptPickImportantNews(articles, maxPicks);
+      const picks = await attemptPickImportantNews(
+        articles,
+        maxPicks,
+        Math.min(PER_ATTEMPT_TIMEOUT_MS, remainingBudgetMs),
+      );
       if (picks.length > 0) return picks;
       console.warn(`[summarize] ${attempt}回目: 0件選定のためリトライ`);
     } catch (error) {
@@ -140,7 +160,10 @@ export async function pickImportantNews(articles: Article[], maxPicks: number): 
       console.warn(`[summarize] ${attempt}回目失敗:`, error instanceof Error ? error.message : String(error));
     }
     // 無料枠のレート制限クールダウンを待ってから次を試す（最終試行後は待たない）
-    if (attempt < MAX_ATTEMPTS) await sleep(RETRY_DELAY_MS * attempt);
+    const remainingAfterAttempt = OVERALL_AI_BUDGET_MS - (Date.now() - startedAt);
+    if (attempt < MAX_ATTEMPTS && remainingAfterAttempt > RETRY_DELAY_MS) {
+      await sleep(RETRY_DELAY_MS);
+    }
   }
 
   if (lastError) throw lastError;
