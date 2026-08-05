@@ -47,8 +47,10 @@ export interface NewsPick {
 // Vercel(Hobby)のmaxDuration=300秒は引き上げ不可のハード上限。それに強制終了されると
 // catchブロックが実行されず失敗通知すら送れなくなるため、AI呼び出し全体にこれより十分短い
 // 自前のタイムアウトを設け、RSS収集・LINE配信・失敗通知の時間を必ず残すようにする。
-const OVERALL_AI_BUDGET_MS = 200_000;
-const PER_ATTEMPT_TIMEOUT_MS = 100_000;
+// 無料枠モデルは応答が遅いことがあるため、1回あたりの上限で早期に打ち切りすぎないよう、
+// 1回目の呼び出しが全体予算のほぼ全てを使えるようにする（小刻みな分割は逆効果になりやすい）。
+const OVERALL_AI_BUDGET_MS = 235_000;
+const PER_ATTEMPT_TIMEOUT_MS = 235_000;
 const MAX_ATTEMPTS = 2;
 const RETRY_DELAY_MS = 10_000;
 
