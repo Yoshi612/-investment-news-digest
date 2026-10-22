@@ -1,0 +1,2891 @@
+[
+ {
+  "status": "list",
+  "name": "株式会社リバティ",
+  "count": 26,
+  "stores": [
+   {
+    "name": "久御山店",
+    "pref": "京都府"
+   },
+   {
+    "name": "R171店",
+    "pref": "京都府"
+   },
+   {
+    "name": "精華店",
+    "pref": "京都府"
+   },
+   {
+    "name": "ドリーム福知山店",
+    "pref": "京都府"
+   },
+   {
+    "name": "ドリーム舞鶴店",
+    "pref": "京都府"
+   },
+   {
+    "name": "大津店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "栗東店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "彦根店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "高槻店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "堺大泉緑地前店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "松原天美店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "貝塚店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "神戸店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ドリーム加古川店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ドリーム長田店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "尼崎店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "西大和店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "イオンモール橿原West Village店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "津店",
+    "pref": "三重県"
+   },
+   {
+    "name": "イオンタウン松阪船江店",
+    "pref": "三重県"
+   },
+   {
+    "name": "リバティ鯖江店",
+    "pref": "福井県"
+   },
+   {
+    "name": "久米窪田店",
+    "pref": "愛媛県"
+   },
+   {
+    "name": "北久米店",
+    "pref": "愛媛県"
+   },
+   {
+    "name": "高知高須店",
+    "pref": "高知県"
+   },
+   {
+    "name": "ドリーム熊本インター店",
+    "pref": "熊本県"
+   }
+  ],
+  "hq": "京都府京都市伏見区横大路芝生30番地8",
+  "rep": "代表取締役社長 蓮尾耕司",
+  "url": "https://www.libertynet.jp/",
+  "form": "https://www.libertynet.jp/reserve/（来店予約フォーム）",
+  "sns": [
+   "https://www.facebook.com/libertynet.jp/",
+   "https://www.instagram.com/libertyinsta/",
+   "https://www.youtube.com/channel/UC3zPucNvmh1stpfQtgoMJVw"
+  ],
+  "employees": "1,103名（グループ連結、2026年2月）",
+  "sources": [
+   "https://www.libertynet.jp/company/",
+   "https://www.libertynet.jp/store/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "公式の店舗ページは29件（「西日本30店舗」と表記）。そこからBYD AUTO滋賀（新車ディーラー）1件と、子会社ガレージフィックス（石川県、2店舗）を除いて、リバティ本体の26店舗とした。子会社を含めると28店舗。本社の電話番号は会社概要に記載がない。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ロードカー",
+  "count": 18,
+  "stores": [
+   {
+    "name": "ユーポス2号西淀川店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス羽曳野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス茨木店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス和泉店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス泉佐野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス守口店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス堺浜寺店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス堺泉北店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス外環寝屋川店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス外環東大阪店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス内環生野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス外環八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス2号姫路店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス伊丹店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス生駒店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "ユーポス奈良店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "ユーポス大津店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "ユーポス新堀川伏見店",
+    "pref": "京都府"
+   }
+  ],
+  "hq": "大阪府大阪市西区新町1-28-3 四ツ橋グランスクエア3F",
+  "tel": "06-6534-6500",
+  "rep": "代表取締役 柏原隆宏",
+  "url": "https://www.roadcar.jp/",
+  "form": "https://www.roadcar.jp/contact_form/",
+  "sns": [
+   "https://www.instagram.com/roadcar_upohs_volvo/"
+  ],
+  "dept": "ユーポス事業（車買取）。代表が出演するYouTube公式チャンネルあり",
+  "employees": "250名",
+  "sources": [
+   "https://www.roadcar.jp/about/company/",
+   "https://www.roadcar.jp/upohs/",
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスFCの最大の加盟店。店舗数はユーポス本部の店舗ページで「FCオーナー：株式会社ロードカー」と表示された18店舗。自社サイトのユーポス一覧は16店舗で、芦屋店があり、堺泉北店・内環生野店・姫路店がない。ほかにボルボ正規ディーラー（新車、6拠点程度）と高級輸入車販売（MARVELOUS）を営む。代表者がユーポス本部（株式会社ユーポス）と同じ人物。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ジョブカーズ",
+  "count": 10,
+  "stores": [
+   {
+    "name": "ジョブカーズ本店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "南港店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方東店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方南店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方北店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方インポート店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "守口店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "COOL店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "バイパス店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府枚方市茄子作2-33-25",
+  "tel": "072-852-8500",
+  "fax": "072-852-8501",
+  "rep": "吉村浩二",
+  "url": "https://jobcars.net/",
+  "form": "https://jobcars.net/contact/",
+  "employees": "70名",
+  "sources": [
+   "https://jobcars.net/company/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "同じ名前の別会社に注意：jobcars.jp は札幌の「ジョブカーズ株式会社」で別会社。枚方の会社の公式サイトは jobcars.net。枚方北店は大型トラック・バス、COOL店とバイパス店は会社概要に住所の記載がない。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社シースペース",
+  "count": 9,
+  "stores": [
+   {
+    "name": "ユーポス25号柏原店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス25号八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス和泉中央店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス310号河内長野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス仁和寺店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス内環豊中店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス171尼崎店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス久御山店",
+    "pref": "京都府"
+   },
+   {
+    "name": "本社（C-SPACE. 中古車販売）",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府柏原市国分市場2丁目13番1号",
+  "tel": "072-978-1263",
+  "fax": "072-978-1283",
+  "rep": "代表取締役社長 平松宗彦",
+  "url": "https://www.c-space.co.jp/",
+  "form": "https://www.c-space.co.jp/contact/",
+  "sns": [
+   "https://twitter.com/C_SPACE_U_POHS"
+  ],
+  "dept": "ユーポス事業（車買取）",
+  "sources": [
+   "https://www.c-space.co.jp/company/",
+   "https://www.c-space.co.jp/shop/",
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "会社概要に「ユーポス（関西にて現在8店舗）」とある。ユーポス本部のサイトでシースペース運営と表示されるのは7店舗で、久御山店は表示されていない。本社のC-SPACE.（中古車販売）を1店舗として数え、合計9店舗。ほかにニコニコレンタカー5店舗とコバック1店舗（いずれも対象外）を運営。X(Twitter)のURLは検索結果から取得。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ヨシダオートサービス",
+  "count": 7,
+  "stores": [
+   {
+    "name": "軽の森 なかもず店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 泉北店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 富田林店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 泉大津店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 堺鉄砲町店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森アウトレット",
+    "pref": "大阪府"
+   },
+   {
+    "name": "車の森 なかもず店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府堺市北区百舌鳥西之町3-541",
+  "tel": "072-246-0301",
+  "fax": "072-246-0302",
+  "rep": "吉田宜史",
+  "url": "https://kurumanomori.com/ / https://keinomori.com/",
+  "form": "https://kurumanomori.com/contact/",
+  "employees": "218名（2025年1月）",
+  "sources": [
+   "https://kurumanomori.com/company/",
+   "https://keinomori.com/（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "ブランドは「軽の森」「車の森」。会社名は車の森サイトの会社概要で確認した。軽の森の公式サイト keinomori.com はアクセス制限（403）で読めなかったため、軽の森の6店舗は検索結果の抜粋に頼っている。堺鉄砲町店は求人では「マッハ堺鉄砲町店」（車検）と表記されており、販売店かどうか要確認。"
+ },
+ {
+  "status": "over30",
+  "name": "フレックス株式会社",
+  "count": 57,
+  "hq": "東京都港区北青山2-5-8 青山OMスクエア6階",
+  "tel": "03-3470-0111",
+  "rep": "代表取締役 藤崎孝行",
+  "url": "https://www.flexnet.co.jp/",
+  "stores": [
+   {
+    "name": "ハイエース大阪店・ランクル大阪店・ハイエース南大阪店 ほか",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.flexnet.co.jp/shop",
+   "https://flex.jp/corporate/info"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "FLEXの店舗ページ43件と、アップル加盟店14店舗（アップル本部の店舗ページで確認）の合計。"
+ },
+ {
+  "status": "excluded_type",
+  "reason": "業態要確認（燃料会社）",
+  "name": "エネクスフリート株式会社",
+  "count": 15,
+  "stores": [
+   {
+    "name": "アップル泉大津店ほか（アップル15店舗）",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0274/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルFCの加盟店で、9府県に15店舗。本業は燃料・SS事業とみられ、「中古車の販売・買取が主業」の条件に合わない可能性がある。リストに入れるかどうか判断をお願いしたい。"
+ },
+ {
+  "status": "excluded_type",
+  "reason": "FC本部",
+  "name": "株式会社ユーポス",
+  "count": 3,
+  "stores": [
+   {
+    "name": "ユーポス外環河内長野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス高石店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス岸和田南店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府大阪市西区新町1-28-3 四ツ橋グランスクエア3F",
+  "tel": "06-6532-6532",
+  "rep": "代表取締役 柏原隆宏",
+  "url": "https://www.u-pohs.co.jp/",
+  "sources": [
+   "https://www.u-pohs.co.jp/about/company_info",
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "FC本部。大阪府内でFCオーナーの表示がない3店舗を直営と推定した。ロードカーと代表者が同じ。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社カミタケモータース",
+  "count": 3,
+  "stores": [
+   {
+    "name": "枚方本店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "奈良店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "大分店",
+    "pref": "大分県"
+   }
+  ],
+  "hq": "大阪府枚方市池之宮2丁目30-6",
+  "rep": "代表取締役 上武英輝",
+  "url": "https://www.kamitake.net/",
+  "sources": [
+   "https://www.kamitake.net/company/",
+   "https://www.kamitake.net/shop/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社フロンティアモータース",
+  "count": 3,
+  "stores": [
+   {
+    "name": "ユーポス東大阪若江店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス171西宮店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス神戸西店",
+    "pref": "兵庫県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス以外の事業は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社イトー",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル岸和田店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "アップル河内長野中央店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0258/",
+   "https://www.applenet.co.jp/shop/0278/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップル以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "タイガー石油株式会社",
+  "count": 2,
+  "stores": [
+   {
+    "name": "ユーポス香里ヶ丘店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス高槻上牧店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "高槻上牧店のページには「タイガーエナジー株式会社」の表記もあり、名寄せに迷った。燃料会社とみられる。"
+ },
+ {
+  "status": "under5",
+  "name": "大谷自動車株式会社",
+  "count": 2,
+  "stores": [
+   {
+    "name": "大阪本店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "和歌山店",
+    "pref": "和歌山県"
+   }
+  ],
+  "hq": "大阪府泉佐野市長滝753",
+  "tel": "072-465-0492",
+  "fax": "072-465-3109",
+  "url": "https://www.otani-j.co.jp/",
+  "employees": "81名",
+  "sources": [
+   "https://www.otani-j.co.jp/company"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社関西オート",
+  "count": 2,
+  "stores": [
+   {
+    "name": "八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "平野店",
+    "pref": "大阪府"
+   }
+  ],
+  "rep": "代表取締役社長 大川純平",
+  "url": "https://www.kansai-auto.jp/",
+  "sources": [
+   "https://www.kansai-auto.jp/company/outline/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "北摂オート株式会社",
+  "count": 1,
+  "stores": [
+   {
+    "name": "本社",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府箕面市桜井2-16-17",
+  "fax": "072-723-1102",
+  "rep": "代表取締役 喜多克之",
+  "url": "https://hokusetu-auto.com/",
+  "sources": [
+   "https://hokusetu-auto.com/company.php"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ポロ",
+  "count": 1,
+  "stores": [
+   {
+    "name": "本社",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府高槻市富田町6丁目15-13",
+  "tel": "072-694-6641",
+  "fax": "072-694-9913",
+  "url": "https://www.polojp.com/",
+  "sources": [
+   "https://www.polojp.com/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "Re-BOOT株式会社",
+  "count": 1,
+  "stores": [
+   {
+    "name": "アップル大阪平野店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0284/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社プロンザ",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス枚方店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社We Car CORE",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス貝塚店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "有限会社タイヨウ",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス富田林店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社cantera",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス外環四條畷店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "豊栄モータース",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス寝屋川店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。（法人格の表示なし）"
+ },
+ {
+  "status": "list",
+  "name": "株式会社軽自動車館",
+  "stores": [
+   {
+    "name": "札幌本店",
+    "pref": "北海道"
+   },
+   {
+    "name": "札幌東店",
+    "pref": "北海道"
+   },
+   {
+    "name": "新さっぽろ店",
+    "pref": "北海道"
+   },
+   {
+    "name": "札幌清田店",
+    "pref": "北海道"
+   },
+   {
+    "name": "北見店",
+    "pref": "北海道"
+   },
+   {
+    "name": "旭川店",
+    "pref": "北海道"
+   },
+   {
+    "name": "函館店",
+    "pref": "北海道"
+   },
+   {
+    "name": "苫小牧店",
+    "pref": "北海道"
+   },
+   {
+    "name": "帯広店",
+    "pref": "北海道"
+   },
+   {
+    "name": "釧路店",
+    "pref": "北海道"
+   },
+   {
+    "name": "せんだい店",
+    "pref": "宮城県"
+   }
+  ],
+  "hq": "北海道札幌市中央区北5条西6丁目2-2",
+  "tel": "011-200-0312",
+  "fax": "011-200-0357",
+  "rep": "代表取締役社長 阿部章一",
+  "url": "https://keijidousyakan.com/",
+  "form": "https://keijidousyakan.com/contact/（現在お問い合わせ見合わせ中の表示あり）",
+  "sns": [
+   "https://www.youtube.com/channel/UCtYVtXtEHCIxOCia6QF0nBw"
+  ],
+  "dept": "自動車の買取（事業内容に記載）",
+  "employees": "117名（2026年1月）",
+  "sources": [
+   "https://keijidousyakan.com/about/company/",
+   "https://keijidousyakan.com/shops/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "店舗名は公式の店舗ページから。札幌本店と札幌東店はURL（sapporo / satsuhigashi）から推定した店舗名。",
+  "count": 11
+ },
+ {
+  "status": "list",
+  "name": "株式会社NIIZAWA",
+  "stores": [
+   {
+    "name": "軽マーケット 廿日市店",
+    "pref": "広島県"
+   },
+   {
+    "name": "軽マーケット 大竹店",
+    "pref": "広島県"
+   },
+   {
+    "name": "軽マーケット バン・トラック専門店",
+    "pref": "広島県"
+   },
+   {
+    "name": "ケイマーケット ハイブリッドカー&コンパクトカー専門店",
+    "pref": "山口県"
+   },
+   {
+    "name": "フラット7 岩国店",
+    "pref": "山口県"
+   }
+  ],
+  "hq": "広島県廿日市市大野原1丁目2-20",
+  "tel": "0829-30-8103",
+  "fax": "0829-30-8104",
+  "rep": "代表取締役会長 新沢亮二／代表取締役社長 栗原亮太",
+  "url": "https://www.kei-market.co.jp/",
+  "form": "https://www.kei-market.co.jp/contact/",
+  "sns": [
+   "https://www.instagram.com/keimarket.k",
+   "https://www.facebook.com/share/1AhR49eysR",
+   "https://youtube.com/@keimarket398"
+  ],
+  "employees": "95名（パート含む）",
+  "sources": [
+   "https://www.kei-market.co.jp/company/",
+   "https://www.kei-market.co.jp/store/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ブランドは軽マーケット。公式サイトの「6店舗」には車検のコバック廿日市大野店が含まれるため、販売店は5店舗とした。フラット7はFCブランド。",
+  "count": 5
+ },
+ {
+  "status": "list",
+  "name": "T.U.C.GROUP（株式会社ティーユーシーほかグループ8社）",
+  "stores": [
+   {
+    "name": "メルセデスベンツ専門 葛西本店",
+    "pref": "東京都"
+   },
+   {
+    "name": "BMW専門 船橋店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "メルセデスベンツ専門 千葉北インター店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "メルセデスベンツ専門 市川",
+    "pref": "千葉県"
+   },
+   {
+    "name": "メルセデスベンツ専門 八潮",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "ポルシェ専門 横浜三ツ沢",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "SUV専門 戸田",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "プレミアムスポーツ専門 東葛西",
+    "pref": "東京都"
+   },
+   {
+    "name": "輸入車買取直販専門 柏インター",
+    "pref": "千葉県"
+   },
+   {
+    "name": "輸入車専門 横浜港南",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アメリカ車専門 ファイヤーボールズ",
+    "pref": "東京都"
+   },
+   {
+    "name": "BMW専門 八王子店",
+    "pref": "東京都"
+   },
+   {
+    "name": "輸入車専門 川崎",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "レクサス専門 シンドバッド船橋中央店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アルファード ヴェルファイア SUV専門 シンドバッド船橋店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "輸入車買取専門 買取事業部（松戸）",
+    "pref": "千葉県"
+   },
+   {
+    "name": "輸入車買取専門 買取事業部 千葉中央",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "東京都江戸川区中葛西3-27-20",
+  "tel": "03-3687-6363",
+  "fax": "03-3878-0723",
+  "rep": "長嶋重登",
+  "url": "https://www.tucgroup.co.jp/",
+  "dept": "買取事業部あり（松戸・千葉中央）",
+  "employees": "186名（2025年、グループ計）",
+  "sources": [
+   "https://www.tucgroup.co.jp/company/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "会社概要の商号は「T.U.C.GROUP」で、グループ企業はティーユーシー・シーリーフ・ヘリックス・リガル・バーディット・ファイヤー・ボールズ・アプレ・日動自販の8社。どの店舗をどの法人が運営しているかは記載がないため、グループ全体を1行にまとめた。法人ごとに分けるかは要判断。本社住所・電話は葛西本店のもの。",
+  "count": 17
+ },
+ {
+  "status": "list",
+  "name": "株式会社あっぷる",
+  "stores": [
+   {
+    "name": "あっぷる神戸西店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "あっぷる神戸有馬店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "あっぷる東加古川店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "あっぷる姫路太子店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "あっぷる徳島藍住店",
+    "pref": "徳島県"
+   },
+   {
+    "name": "あっぷる西宮夙川店",
+    "pref": "兵庫県"
+   }
+  ],
+  "rep": "代表取締役 石戸宏樹",
+  "url": "https://www.apple-car.jp/",
+  "form": "https://www.apple-car.jp/inquiry",
+  "dept": "自動車買取サービス（事業内容に記載）",
+  "employees": "26名",
+  "sources": [
+   "https://www.apple-car.jp/company"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ブランドは「あっぷる関西」。FCの「アップル」（アップルオートネットワーク）とは別の会社。本社所在地は会社概要に記載がない。",
+  "count": 6
+ },
+ {
+  "status": "under5",
+  "name": "株式会社AG",
+  "count": 3,
+  "stores": [
+   {
+    "name": "オートギャラリー東京",
+    "pref": "東京都"
+   },
+   {
+    "name": "オートギャラリー大阪",
+    "pref": "大阪府"
+   },
+   {
+    "name": "オートギャラリー福岡",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "大阪府大阪市西区北堀江2-11-18",
+  "tel": "06-6538-8844",
+  "url": "https://www.autogallery.co.jp/",
+  "sources": [
+   "https://www.autogallery.co.jp/company",
+   "https://www.autogallery.co.jp/shopinfo"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ブランドはオートギャラリーグループ（輸入車）。"
+ },
+ {
+  "status": "list",
+  "name": "human joint株式会社",
+  "stores": [
+   {
+    "name": "COCOCAR 盛岡店",
+    "pref": "岩手県"
+   },
+   {
+    "name": "COCOCAR 仙台店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "COCOCAR 加須店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "COCOCAR 酒々井店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "COCOCAR 名古屋店",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "東京都品川区西五反田2-24-4 THE CROSS GOTANDA 3階",
+  "tel": "03-4446-7735",
+  "fax": "03-5422-8006",
+  "rep": "代表取締役 齊藤博行",
+  "url": "https://cococar-hp.net/",
+  "sns": [
+   "https://youtube.com/channel/UCCe2kjmg9P0sksXmeF1LiMw"
+  ],
+  "dept": "中古自動車の販売および買取（事業内容）",
+  "employees": "32名",
+  "sources": [
+   "https://cococar-hp.net/company/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ブランドはCOCOCAR（自社ローン専門）。「店」は5店舗。ほかに札幌・長野・静岡の営業所と福島納車センターがあり、営業所を含めると8拠点。FC1号店ORCAR横浜本店（加盟店）は含めていない。",
+  "count": 5
+ },
+ {
+  "status": "list",
+  "name": "株式会社KSファクトリー",
+  "stores": [
+   {
+    "name": "仙台店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "ランクル宇都宮店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "アップル宇都宮外環若草店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "前橋インター店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "アップル前橋店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "アップルつくば学園店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "つくば店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "アップル土浦学園東大通り店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "千葉北店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "ハイエース名古屋店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "ハイエース福岡店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "アップル福岡南バイパス店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "福岡須恵インター店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "アップル福岡久留米店",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "千葉県佐倉市ユーカリが丘7-21-3",
+  "fax": "043-376-9195",
+  "rep": "代表取締役社長 遠藤和広",
+  "url": "https://ksfactory.jp/",
+  "form": "https://ksfactory.jp/contact/",
+  "sns": [
+   "https://www.instagram.com/ksfactory_carshop/",
+   "https://www.youtube.com/@KS_factory",
+   "https://www.tiktok.com/@ksfactory4wd"
+  ],
+  "employees": "77名",
+  "sources": [
+   "https://ksfactory.jp/company/",
+   "https://ksfactory.jp/shop/head-office/",
+   "https://www.applenet.co.jp/shop/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ランクル・ハイエース専門店とアップル加盟店を運営。公式サイトの店舗一覧13件に、アップル本部サイトでKSファクトリー運営と表示される「アップル福岡久留米店」（公式サイトの一覧には無し）を加えて14店舗。本社ページの電話番号欄は空欄。",
+  "count": 14
+ },
+ {
+  "status": "list",
+  "name": "株式会社TRUCK-ONE",
+  "stores": [
+   {
+    "name": "本社・山口支店",
+    "pref": "山口県"
+   },
+   {
+    "name": "岡山支店",
+    "pref": "岡山県"
+   },
+   {
+    "name": "大阪支店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "名古屋支店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "東京支店",
+    "pref": "東京都"
+   },
+   {
+    "name": "福岡支店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "千葉営業所",
+    "pref": "千葉県"
+   },
+   {
+    "name": "沖縄営業所",
+    "pref": "沖縄県"
+   }
+  ],
+  "hq": "山口県下松市生野屋南3-3-40",
+  "tel": "0833-44-1100",
+  "fax": "0833-44-5660",
+  "url": "https://www.truck-one.com/",
+  "sns": [
+   "https://www.instagram.com/truckone_official/"
+  ],
+  "dept": "買取専用窓口あり（0120-751-519）",
+  "sources": [
+   "https://www.truck-one.com/officelist/",
+   "https://www.truck-one.com/company/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古トラックの販売会社。サイトの表記は「全国7拠点」だが、拠点一覧には支店・営業所が8件ある。都道府県はページ上の拠点名から判断しており、支店ごとの住所は一部未確認。",
+  "count": 8
+ },
+ {
+  "status": "list",
+  "name": "株式会社リトラス",
+  "stores": [
+   {
+    "name": "北海道支店",
+    "pref": "北海道"
+   },
+   {
+    "name": "東北支店",
+    "pref": ""
+   },
+   {
+    "name": "福井支店",
+    "pref": "福井県"
+   },
+   {
+    "name": "埼玉支店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "群馬支店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "名古屋支店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "福岡支店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "熊本支店",
+    "pref": "熊本県"
+   },
+   {
+    "name": "沖縄支店",
+    "pref": "沖縄県"
+   }
+  ],
+  "hq": "東京都港区高輪2-18-10 高輪泉岳寺駅前ビル11F",
+  "rep": "代表取締役社長 津田猛",
+  "url": "https://www.retrus.co.jp/",
+  "sources": [
+   "https://www.retrus.co.jp/about/office.asp",
+   "https://www.retrus.co.jp/about/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "中古トラック販売。「グループ全国9拠点」の表記で、業務提携の企業が集まって設立した経緯がある。沿革によると一部の支店は旧別法人（群馬・千葉・熊本）がリトラスの支店になったもの。全支店が同じ法人かどうかは未確認。東北支店の所在県は未確認。",
+  "count": 9
+ },
+ {
+  "status": "under5",
+  "name": "株式会社CSオートディーラー",
+  "count": 3,
+  "stores": [
+   {
+    "name": "千葉 柏インター 第一展示場",
+    "pref": "千葉県"
+   },
+   {
+    "name": "千葉 柏インター 第二展示場",
+    "pref": "千葉県"
+   },
+   {
+    "name": "埼玉 岩槻インター 展示場",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "東京都渋谷区幡ヶ谷2-21-4",
+  "rep": "代表取締役 河野修一",
+  "url": "https://www.csauto.jp/",
+  "sources": [
+   "https://www.csauto.jp/company",
+   "https://www.csauto.jp/shop"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "店舗案内には車種別の「専門店」が多数並ぶが、住所は柏インター（野田市）2か所と岩槻インター1か所に集約される。販売協力店フラットオートは別会社とみられ、含めていない。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社アップルコーポレーション",
+  "count": 6,
+  "stores": [
+   {
+    "name": "アップル天白店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル横須賀佐原インター店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル東郷店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル御器所店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル日進竹の山店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル千種竹越店",
+    "pref": "愛知県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0001/",
+   "https://www.applenet.co.jp/shop/0020/",
+   "https://www.applenet.co.jp/shop/0040/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ゴトウスバル",
+  "count": 20,
+  "stores": [
+   {
+    "name": "アップル春日井店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル尾張旭店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル小牧店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル多治見店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル世田谷店",
+    "pref": "東京都"
+   },
+   {
+    "name": "アップル大垣インター南店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル可児店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル瀬戸店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル恵那店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル春日井中央店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル各務原店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル一宮22号店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップルかしわ沼南店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アップル岐阜21号店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル碧南店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル名岐バイパス春日店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル常滑店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル岐大バイパス大垣店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル岩倉店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル春日部店",
+    "pref": "埼玉県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0002/",
+   "https://www.applenet.co.jp/shop/0003/",
+   "https://www.applenet.co.jp/shop/0005/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。社名にスバルとあるが、アップル1号店を開業した会社と紹介されている（春日井市）。トラック専門店も運営。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社アップルカーセールス",
+  "count": 7,
+  "stores": [
+   {
+    "name": "アップル刈谷店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル鳴海店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル知立インター店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル新安城店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル法人営業部店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル豊田153通店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル新野並店",
+    "pref": "愛知県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0004/",
+   "https://www.applenet.co.jp/shop/0007/",
+   "https://www.applenet.co.jp/shop/0046/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。本社は愛知県豊明市（検索結果による）。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社アタックス",
+  "count": 12,
+  "stores": [
+   {
+    "name": "アップル津島中央道店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル厚木・北129号店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル富田302号店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル小田原飯泉店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル昭和橋通店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル桑名七和店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル中村畑江通店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル稲沢店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル西・康生通店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル南23号店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル桑名大桑店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル黒川北41号店",
+    "pref": "愛知県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0008/",
+   "https://www.applenet.co.jp/shop/0021/",
+   "https://www.applenet.co.jp/shop/0022/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。"
+ },
+ {
+  "status": "list",
+  "name": "高橋自動車販売株式会社",
+  "count": 12,
+  "stores": [
+   {
+    "name": "アップル江田駅前店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル江戸川環七店",
+    "pref": "東京都"
+   },
+   {
+    "name": "アップル豊橋佐藤店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル248岡崎店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル平塚田村店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル中山宮の下店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル町田南店",
+    "pref": "東京都"
+   },
+   {
+    "name": "アップル岡崎六ッ美店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル東戸塚店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル蒲郡店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル豊川インター店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル岡崎緑丘店",
+    "pref": "愛知県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0013/",
+   "https://www.applenet.co.jp/shop/0014/",
+   "https://www.applenet.co.jp/shop/0024/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。軽四専門「メガタウン」（豊田市）も運営しており、実際の店舗数はこれより多い可能性。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ジェイ・ピー",
+  "count": 12,
+  "stores": [
+   {
+    "name": "アップル坂戸鶴ヶ島インター店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル太田店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "アップル川越16号店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル郡山インター店",
+    "pref": "福島県"
+   },
+   {
+    "name": "アップル深谷17号店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル西那須野店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "アップル朝霞店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル仙台六丁目店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "アップル東松山店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル白河店",
+    "pref": "福島県"
+   },
+   {
+    "name": "アップル所沢店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル鴻巣店",
+    "pref": "埼玉県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0015/",
+   "https://www.applenet.co.jp/shop/0037/",
+   "https://www.applenet.co.jp/shop/0044/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社原ホンダ",
+  "count": 9,
+  "stores": [
+   {
+    "name": "アップル塩尻北インター店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル諏訪インター店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル飯田バイパス店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル箕輪バイパス店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル松本店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル上田18号店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル長野南店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル駒ヶ根店",
+    "pref": "長野県"
+   },
+   {
+    "name": "アップル須坂店",
+    "pref": "長野県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0031/",
+   "https://www.applenet.co.jp/shop/0033/",
+   "https://www.applenet.co.jp/shop/0042/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。創業1918年。四輪・二輪の販売・整備を行う長野の会社で、ホンダ販売店の可能性がある（新車ディーラーなら除外対象）。業態要確認。"
+ },
+ {
+  "status": "excluded_type",
+  "reason": "FC本部",
+  "name": "アップルオートネットワーク株式会社（直営事業部）",
+  "count": 12,
+  "stores": [
+   {
+    "name": "アップル黒埼インター店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "アップル水戸インター店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "アップル藤沢辻堂店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル四日市ときわ店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル千葉南店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アップル四日市南店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル鈴鹿中央通り店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル流山あおぞら店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アップル浜松小豆餅店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "アップル大森西口駅前店",
+    "pref": "東京都"
+   },
+   {
+    "name": "アップル四日市インター店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル横浜店",
+    "pref": "神奈川県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0041/",
+   "https://www.applenet.co.jp/shop/0060/",
+   "https://www.applenet.co.jp/shop/0118/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルFC本部の直営店。"
+ },
+ {
+  "status": "list",
+  "name": "カーネクスト北海道株式会社",
+  "count": 6,
+  "stores": [
+   {
+    "name": "アップル札幌篠路店",
+    "pref": "北海道"
+   },
+   {
+    "name": "アップル札幌白石店",
+    "pref": "北海道"
+   },
+   {
+    "name": "アップル小山店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "アップル札幌藻岩店",
+    "pref": "北海道"
+   },
+   {
+    "name": "アップル釧路星が浦店",
+    "pref": "北海道"
+   },
+   {
+    "name": "アップル香取佐原店",
+    "pref": "千葉県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/",
+   "https://www.applenet.co.jp/shop/0246/",
+   "https://www.applenet.co.jp/shop/0268/",
+   "https://www.applenet.co.jp/shop/0281/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。社名が御社（株式会社カーネクスト）と似ているが、関係は未確認。アップルの加盟店。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社九州ユーポス",
+  "count": 9,
+  "stores": [
+   {
+    "name": "ユーポス光の森",
+    "pref": "熊本県"
+   },
+   {
+    "name": "ユーポス鹿児島",
+    "pref": "鹿児島県"
+   },
+   {
+    "name": "ユーポス熊本南",
+    "pref": "熊本県"
+   },
+   {
+    "name": "ユーポス大分",
+    "pref": "大分県"
+   },
+   {
+    "name": "ユーポス大村",
+    "pref": "長崎県"
+   },
+   {
+    "name": "ユーポス折尾",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ユーポス佐賀",
+    "pref": "佐賀県"
+   },
+   {
+    "name": "ユーポス時津",
+    "pref": "長崎県"
+   },
+   {
+    "name": "ユーポス山口",
+    "pref": "山口県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop",
+   "https://www.u-pohs.co.jp/hikarinomori/",
+   "https://www.u-pohs.co.jp/kagoshima",
+   "https://www.u-pohs.co.jp/kumamotominami"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。九州各店のページに系列店として13店舗前後が並ぶが、本部の店舗一覧で運営会社を確認できたのは9店舗。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社横浜ユーポス",
+  "count": 5,
+  "stores": [
+   {
+    "name": "ユーポス港北店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "ユーポス湘南平塚支店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "ユーポス都筑支店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "ユーポス宇都宮支店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "",
+    "pref": ""
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop",
+   "https://www.u-pohs.co.jp/kouhoku",
+   "https://www.u-pohs.co.jp/shonanhiratsuka",
+   "https://www.u-pohs.co.jp/tsuzuki"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスの加盟店。店舗数は本部サイトの店舗ページで運営会社として表示された店舗の数で、自社ブランドなど他の店舗は未確認（実数はこれ以上の可能性）。公式サイト・本社情報は未取得。1店舗は所在県を取得できなかった。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ファイントラスト",
+  "stores": [
+   {
+    "name": "エアポート店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "春日井店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "高蔵寺店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "小牧店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "小牧南インター店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "稲沢店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "昭和店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "西区浄心店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "岡崎店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "守山店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "一宮店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "名古屋中川店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "東海店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "各務原店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "各務原インター店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "可児店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "土岐店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "浜松店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "オートローンプラス 小牧",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "愛知県春日井市味美西本町1872",
+  "tel": "0568-29-6681",
+  "rep": "代表取締役 林竜史",
+  "url": "https://fine-trust.com/",
+  "dept": "自動車買取（事業内容に記載）",
+  "employees": "300名（2026年7月）",
+  "sources": [
+   "https://fine-trust.com/about-us/",
+   "https://fine-trust.com/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "公式サイトの店舗リンクは19件（ファイントラスト18店舗＋オートローンプラス小牧）。都道府県は店舗名から判断（守山店＝名古屋市守山区と推定）。沿革にアップル4店舗をファイントラストへ名称変更とあり、元アップル加盟店。",
+  "count": 19
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ビッグワン",
+  "count": 4,
+  "stores": [
+   {
+    "name": "販売店（千葉市内4店舗）",
+    "pref": "千葉県"
+   }
+  ],
+  "sources": [
+   "https://en-gage.net/bigone-web_saiyo/（求人ページ、検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "求人ページの記載で、千葉市内に販売店4店舗と自社工場2か所（車検場・板金塗装）。同名の別会社が多いので注意（木更津のビッグワンオートは別会社）。公式サイト未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ファインソレイユ",
+  "count": 6,
+  "stores": [
+   {
+    "name": "フレスカー 本店（みやき町）",
+    "pref": "佐賀県"
+   },
+   {
+    "name": "フレスカー 東脊振インター店",
+    "pref": "佐賀県"
+   },
+   {
+    "name": "フレスカー 福岡インター店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ほか3店舗（佐賀・長崎・福岡）",
+    "pref": "長崎県"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://www.goo-net.com/usedcar_shop/0802654/showroom.html（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "ブランドはフレスカー。「佐賀・長崎・福岡に6店舗」は検索結果に表示された店舗紹介文による。公式サイトは見つからず、6店舗すべての店舗名は確認できていない。"
+ },
+ {
+  "status": "list",
+  "name": "アイワ自動車販売株式会社",
+  "count": 6,
+  "stores": [
+   {
+    "name": "浜松市内6店舗",
+    "pref": "静岡県"
+   }
+  ],
+  "hq": "静岡県浜松市中央区宮竹町237-1",
+  "sources": [
+   "https://www.goo-net.com/usedcar_shop/0210070/group.html（検索結果の抜粋）",
+   "https://mapfan.com/genres/556/22/138"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "輸入車専門店（輸入車センター）。「浜松市内に6店舗」は検索結果の店舗紹介文、別の掲載では5拠点。本社住所は地図サイトの掲載。輸入車の正規ディーラーを兼ねていれば対象外の可能性あり。公式サイト未確認。"
+ },
+ {
+  "status": "list",
+  "name": "オトロンカーズ株式会社",
+  "count": 21,
+  "stores": [
+   {
+    "name": "オトロン所沢インター店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "オトロン土浦店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "ほか（関東・東北・中部を中心に展開）",
+    "pref": ""
+   }
+  ],
+  "url": "https://www.otoron.jp/",
+  "sources": [
+   "https://www.otoron.jp/（503で取得不可。検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "自社ローン専門店「オトロン」。店舗数21は公式サイトの古い表記（検索結果による）で最新値は未確認。2024年にオートバックスセブンの完全子会社化が発表されている。公式サイトが503でアクセスできない。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社インデックス",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル美女木バイパス店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル水戸バイパス店",
+    "pref": "茨城県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0018/",
+   "https://www.applenet.co.jp/shop/0029/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社イーグルオートサービス",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル木更津長須賀店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アップル千葉桜木店",
+    "pref": "千葉県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0032/",
+   "https://www.applenet.co.jp/shop/0063/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社エムエフノースジャパン",
+  "count": 2,
+  "stores": [
+   {
+    "name": "",
+    "pref": "青森県"
+   },
+   {
+    "name": "",
+    "pref": "青森県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0035/",
+   "https://www.applenet.co.jp/shop/0043/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "アップル宮崎有限会社",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル宮崎新名爪店",
+    "pref": "宮崎県"
+   },
+   {
+    "name": "アップル宮崎空港店",
+    "pref": "宮崎県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0056/",
+   "https://www.applenet.co.jp/shop/0149/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社スズキアリーナ瑞穂",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル青梅店",
+    "pref": "東京都"
+   },
+   {
+    "name": "アップル西東京店",
+    "pref": "東京都"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0057/",
+   "https://www.applenet.co.jp/shop/0100/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社鈴木モータース",
+  "count": 4,
+  "stores": [
+   {
+    "name": "アップル草津店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "アップル彦根インター店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "アップル守山店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "アップル大津店",
+    "pref": "滋賀県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0065/",
+   "https://www.applenet.co.jp/shop/0071/",
+   "https://www.applenet.co.jp/shop/0080/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社トップワン",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル豊田梅坪店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル豊田南店",
+    "pref": "愛知県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0075/",
+   "https://www.applenet.co.jp/shop/0126/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社アップルグローバルマネージメント",
+  "count": 3,
+  "stores": [
+   {
+    "name": "アップル大府店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル東海ふきしま店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル半田店",
+    "pref": "愛知県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0076/",
+   "https://www.applenet.co.jp/shop/0077/",
+   "https://www.applenet.co.jp/shop/0105/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として3店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社中州自動車",
+  "count": 3,
+  "stores": [
+   {
+    "name": "アップル大分中央店",
+    "pref": "大分県"
+   },
+   {
+    "name": "アップル大分高城店",
+    "pref": "大分県"
+   },
+   {
+    "name": "アップル別府店",
+    "pref": "大分県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0099/",
+   "https://www.applenet.co.jp/shop/0111/",
+   "https://www.applenet.co.jp/shop/0218/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として3店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ミヤチ",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル岐阜長良店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "アップル関店",
+    "pref": "岐阜県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0101/",
+   "https://www.applenet.co.jp/shop/0155/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社リフトオフ",
+  "count": 3,
+  "stores": [
+   {
+    "name": "アップル龍ヶ崎店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "アップル葛飾店",
+    "pref": "東京都"
+   },
+   {
+    "name": "アップル成田店",
+    "pref": "千葉県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0108/",
+   "https://www.applenet.co.jp/shop/0150/",
+   "https://www.applenet.co.jp/shop/0237/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として3店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社シマダオート商事",
+  "count": 3,
+  "stores": [
+   {
+    "name": "アップル四日市金場店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル鈴鹿店",
+    "pref": "三重県"
+   },
+   {
+    "name": "アップル名張店",
+    "pref": "三重県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0114/",
+   "https://www.applenet.co.jp/shop/0115/",
+   "https://www.applenet.co.jp/shop/0116/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として3店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社WinWinサービス",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル盛岡盛南店",
+    "pref": "岩手県"
+   },
+   {
+    "name": "アップル盛岡北店",
+    "pref": "岩手県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0117/",
+   "https://www.applenet.co.jp/shop/0137/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社PlusOne",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル安城南店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル弥富1号線店",
+    "pref": "愛知県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0129/",
+   "https://www.applenet.co.jp/shop/0219/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社オリンピア",
+  "count": 4,
+  "stores": [
+   {
+    "name": "アップル羽生122号バイパス店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アップル宇都宮新4号店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "アップル伊勢崎西店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "アップル館林店",
+    "pref": "群馬県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0138/",
+   "https://www.applenet.co.jp/shop/0141/",
+   "https://www.applenet.co.jp/shop/0143/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社B&F",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル古河4号店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "アップル守谷店",
+    "pref": "茨城県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0140/",
+   "https://www.applenet.co.jp/shop/0146/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "平岩石油販売株式会社",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル練馬関町店",
+    "pref": "東京都"
+   },
+   {
+    "name": "アップル板橋環8店",
+    "pref": "東京都"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0175/",
+   "https://www.applenet.co.jp/shop/0247/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ベネフィット",
+  "count": 3,
+  "stores": [
+   {
+    "name": "アップル我孫子6号店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アップル柏中央店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アップル東京中央店",
+    "pref": "東京都"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0187/",
+   "https://www.applenet.co.jp/shop/0191/",
+   "https://www.applenet.co.jp/shop/0217/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として3店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社オリンピアオート",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップルひたちなか店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "アップル那珂中央店",
+    "pref": "茨城県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0208/",
+   "https://www.applenet.co.jp/shop/0280/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ビーインプレスト",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル宇都宮北店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "アップル大田原店",
+    "pref": "栃木県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0211/",
+   "https://www.applenet.co.jp/shop/0303/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社メーカーズ",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル福岡東店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "アップル福岡八幡店",
+    "pref": "福岡県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0238/",
+   "https://www.applenet.co.jp/shop/0255/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社シブヤエネックスホールディングス",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル相模原城山店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル大井松田インター店",
+    "pref": "神奈川県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0266/",
+   "https://www.applenet.co.jp/shop/0292/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "昭和礦油株式会社",
+  "count": 4,
+  "stores": [
+   {
+    "name": "アップル川崎木月店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル横浜鶴見店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル横浜港南台店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル横浜根岸店",
+    "pref": "神奈川県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0282/",
+   "https://www.applenet.co.jp/shop/0290/",
+   "https://www.applenet.co.jp/shop/0291/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社湯浅",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル白井店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "アップル松戸本店",
+    "pref": "千葉県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0287/",
+   "https://www.applenet.co.jp/shop/0293/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ダブルツリー",
+  "count": 4,
+  "stores": [
+   {
+    "name": "アップル岡山店",
+    "pref": "岡山県"
+   },
+   {
+    "name": "アップル東岡山店",
+    "pref": "岡山県"
+   },
+   {
+    "name": "アップル高松店",
+    "pref": "香川県"
+   },
+   {
+    "name": "アップル丸亀店",
+    "pref": "香川県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0288/",
+   "https://www.applenet.co.jp/shop/0300/",
+   "https://www.applenet.co.jp/shop/0309/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社MARE",
+  "count": 4,
+  "stores": [
+   {
+    "name": "アップル広島廿日市店",
+    "pref": "広島県"
+   },
+   {
+    "name": "アップル愛知一宮西店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アップル広島福山店",
+    "pref": "広島県"
+   },
+   {
+    "name": "アップル神戸西店",
+    "pref": "兵庫県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0289/",
+   "https://www.applenet.co.jp/shop/0296/",
+   "https://www.applenet.co.jp/shop/0308/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社サコダ車輛",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル海田店",
+    "pref": "広島県"
+   },
+   {
+    "name": "アップル東広島店",
+    "pref": "広島県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0297/",
+   "https://www.applenet.co.jp/shop/0298/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社トータス",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル大和店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "アップル相模原店",
+    "pref": "神奈川県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0306/",
+   "https://www.applenet.co.jp/shop/0340/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社オカモト",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル西帯広店",
+    "pref": "北海道"
+   },
+   {
+    "name": "アップル帯広店",
+    "pref": "北海道"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0307/",
+   "https://www.applenet.co.jp/shop/0334/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社SHIMAカーライフコネクテッド",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル金沢店",
+    "pref": "石川県"
+   },
+   {
+    "name": "アップル高岡店",
+    "pref": "富山県"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0313/",
+   "https://www.applenet.co.jp/shop/0339/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社クインオート",
+  "count": 2,
+  "stores": [
+   {
+    "name": "ユーポス亀岡店",
+    "pref": "京都府"
+   },
+   {
+    "name": "ユーポス三田店",
+    "pref": "兵庫県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/kameoka",
+   "https://www.u-pohs.co.jp/sanda/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ミナミシマ自動車販売",
+  "count": 4,
+  "stores": [
+   {
+    "name": "ユーポス香芝店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "ユーポス橿原店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "ユーポス葛城店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "ユーポス大和郡山店",
+    "pref": "奈良県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/kashiba/",
+   "https://www.u-pohs.co.jp/kashihara/",
+   "https://www.u-pohs.co.jp/katuragi/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社NEXTモビィ",
+  "count": 2,
+  "stores": [
+   {
+    "name": "ユーポス福岡インター店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ユーポス小倉東インター店",
+    "pref": "福岡県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/fukuoka-inter",
+   "https://www.u-pohs.co.jp/kokurahigashi-inter"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社オートグローリー",
+  "count": 2,
+  "stores": [
+   {
+    "name": "ユーポス福重店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ユーポス直方店",
+    "pref": "福岡県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/fukushige",
+   "https://www.u-pohs.co.jp/nogata"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社沖縄ユーポス",
+  "count": 4,
+  "stores": [
+   {
+    "name": "ユーポス美里店",
+    "pref": "沖縄県"
+   },
+   {
+    "name": "ユーポス那覇新都心店",
+    "pref": "沖縄県"
+   },
+   {
+    "name": "ユーポス登川店",
+    "pref": "沖縄県"
+   },
+   {
+    "name": "ユーポス豊見城店",
+    "pref": "沖縄県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/misato/",
+   "https://www.u-pohs.co.jp/naha-shintoshin",
+   "https://www.u-pohs.co.jp/noborikawa/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+ },
+ {
+  "status": "list",
+  "name": "松下モータース",
+  "count": 6,
+  "stores": [
+   {
+    "name": "本店（掛川市菊浜）",
+    "pref": "静岡県"
+   },
+   {
+    "name": "掛川市内ほか4店舗",
+    "pref": "静岡県"
+   },
+   {
+    "name": "磐田店",
+    "pref": "静岡県"
+   }
+  ],
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/0600173（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "未使用車の大型展示場。「静岡県掛川市5店舗、磐田市1店舗」は検索結果に表示された店舗紹介文による。別の掲載では3拠点（本店・掛川店・磐田店）。法人格・会社概要は未確認。"
+ }
+]
