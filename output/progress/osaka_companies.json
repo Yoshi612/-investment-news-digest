@@ -1,0 +1,730 @@
+[
+ {
+  "status": "list",
+  "name": "株式会社リバティ",
+  "count": 26,
+  "stores": [
+   {
+    "name": "久御山店",
+    "pref": "京都府"
+   },
+   {
+    "name": "R171店",
+    "pref": "京都府"
+   },
+   {
+    "name": "精華店",
+    "pref": "京都府"
+   },
+   {
+    "name": "ドリーム福知山店",
+    "pref": "京都府"
+   },
+   {
+    "name": "ドリーム舞鶴店",
+    "pref": "京都府"
+   },
+   {
+    "name": "大津店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "栗東店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "彦根店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "高槻店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "堺大泉緑地前店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "松原天美店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "貝塚店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "神戸店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ドリーム加古川店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ドリーム長田店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "尼崎店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "西大和店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "イオンモール橿原West Village店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "津店",
+    "pref": "三重県"
+   },
+   {
+    "name": "イオンタウン松阪船江店",
+    "pref": "三重県"
+   },
+   {
+    "name": "リバティ鯖江店",
+    "pref": "福井県"
+   },
+   {
+    "name": "久米窪田店",
+    "pref": "愛媛県"
+   },
+   {
+    "name": "北久米店",
+    "pref": "愛媛県"
+   },
+   {
+    "name": "高知高須店",
+    "pref": "高知県"
+   },
+   {
+    "name": "ドリーム熊本インター店",
+    "pref": "熊本県"
+   }
+  ],
+  "hq": "京都府京都市伏見区横大路芝生30番地8",
+  "rep": "代表取締役社長 蓮尾耕司",
+  "url": "https://www.libertynet.jp/",
+  "form": "https://www.libertynet.jp/reserve/（来店予約フォーム）",
+  "sns": [
+   "https://www.facebook.com/libertynet.jp/",
+   "https://www.instagram.com/libertyinsta/",
+   "https://www.youtube.com/channel/UC3zPucNvmh1stpfQtgoMJVw"
+  ],
+  "employees": "1,103名（グループ連結、2026年2月）",
+  "sources": [
+   "https://www.libertynet.jp/company/",
+   "https://www.libertynet.jp/store/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "公式の店舗ページは29件（「西日本30店舗」と表記）。そこからBYD AUTO滋賀（新車ディーラー）1件と、子会社ガレージフィックス（石川県、2店舗）を除いて、リバティ本体の26店舗とした。子会社を含めると28店舗。本社の電話番号は会社概要に記載がない。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ロードカー",
+  "count": 18,
+  "stores": [
+   {
+    "name": "ユーポス2号西淀川店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス羽曳野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス茨木店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス和泉店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス泉佐野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス守口店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス堺浜寺店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス堺泉北店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス外環寝屋川店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス外環東大阪店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス内環生野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス外環八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス2号姫路店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス伊丹店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス生駒店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "ユーポス奈良店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "ユーポス大津店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "ユーポス新堀川伏見店",
+    "pref": "京都府"
+   }
+  ],
+  "hq": "大阪府大阪市西区新町1-28-3 四ツ橋グランスクエア3F",
+  "tel": "06-6534-6500",
+  "rep": "代表取締役 柏原隆宏",
+  "url": "https://www.roadcar.jp/",
+  "form": "https://www.roadcar.jp/contact_form/",
+  "sns": [
+   "https://www.instagram.com/roadcar_upohs_volvo/"
+  ],
+  "dept": "ユーポス事業（車買取）。代表が出演するYouTube公式チャンネルあり",
+  "employees": "250名",
+  "sources": [
+   "https://www.roadcar.jp/about/company/",
+   "https://www.roadcar.jp/upohs/",
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポスFCの最大の加盟店。店舗数はユーポス本部の店舗ページで「FCオーナー：株式会社ロードカー」と表示された18店舗。自社サイトのユーポス一覧は16店舗で、芦屋店があり、堺泉北店・内環生野店・姫路店がない。ほかにボルボ正規ディーラー（新車、6拠点程度）と高級輸入車販売（MARVELOUS）を営む。代表者がユーポス本部（株式会社ユーポス）と同じ人物。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ジョブカーズ",
+  "count": 10,
+  "stores": [
+   {
+    "name": "ジョブカーズ本店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "南港店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方東店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方南店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方北店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "枚方インポート店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "守口店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "COOL店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "バイパス店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府枚方市茄子作2-33-25",
+  "tel": "072-852-8500",
+  "fax": "072-852-8501",
+  "rep": "吉村浩二",
+  "url": "https://jobcars.net/",
+  "form": "https://jobcars.net/contact/",
+  "employees": "70名",
+  "sources": [
+   "https://jobcars.net/company/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "同じ名前の別会社に注意：jobcars.jp は札幌の「ジョブカーズ株式会社」で別会社。枚方の会社の公式サイトは jobcars.net。枚方北店は大型トラック・バス、COOL店とバイパス店は会社概要に住所の記載がない。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社シースペース",
+  "count": 9,
+  "stores": [
+   {
+    "name": "ユーポス25号柏原店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス25号八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス和泉中央店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス310号河内長野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス仁和寺店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス内環豊中店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス171尼崎店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス久御山店",
+    "pref": "京都府"
+   },
+   {
+    "name": "本社（C-SPACE. 中古車販売）",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府柏原市国分市場2丁目13番1号",
+  "tel": "072-978-1263",
+  "fax": "072-978-1283",
+  "rep": "代表取締役社長 平松宗彦",
+  "url": "https://www.c-space.co.jp/",
+  "form": "https://www.c-space.co.jp/contact/",
+  "sns": [
+   "https://twitter.com/C_SPACE_U_POHS"
+  ],
+  "dept": "ユーポス事業（車買取）",
+  "sources": [
+   "https://www.c-space.co.jp/company/",
+   "https://www.c-space.co.jp/shop/",
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "会社概要に「ユーポス（関西にて現在8店舗）」とある。ユーポス本部のサイトでシースペース運営と表示されるのは7店舗で、久御山店は表示されていない。本社のC-SPACE.（中古車販売）を1店舗として数え、合計9店舗。ほかにニコニコレンタカー5店舗とコバック1店舗（いずれも対象外）を運営。X(Twitter)のURLは検索結果から取得。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ヨシダオートサービス",
+  "count": 7,
+  "stores": [
+   {
+    "name": "軽の森 なかもず店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 泉北店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 富田林店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 泉大津店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森 堺鉄砲町店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "軽の森アウトレット",
+    "pref": "大阪府"
+   },
+   {
+    "name": "車の森 なかもず店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府堺市北区百舌鳥西之町3-541",
+  "tel": "072-246-0301",
+  "fax": "072-246-0302",
+  "rep": "吉田宜史",
+  "url": "https://kurumanomori.com/ / https://keinomori.com/",
+  "form": "https://kurumanomori.com/contact/",
+  "employees": "218名（2025年1月）",
+  "sources": [
+   "https://kurumanomori.com/company/",
+   "https://keinomori.com/（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "ブランドは「軽の森」「車の森」。会社名は車の森サイトの会社概要で確認した。軽の森の公式サイト keinomori.com はアクセス制限（403）で読めなかったため、軽の森の6店舗は検索結果の抜粋に頼っている。堺鉄砲町店は求人では「マッハ堺鉄砲町店」（車検）と表記されており、販売店かどうか要確認。"
+ },
+ {
+  "status": "over30",
+  "name": "フレックス株式会社",
+  "count": 57,
+  "hq": "東京都港区北青山2-5-8 青山OMスクエア6階",
+  "tel": "03-3470-0111",
+  "rep": "代表取締役 藤崎孝行",
+  "url": "https://www.flexnet.co.jp/",
+  "stores": [
+   {
+    "name": "ハイエース大阪店・ランクル大阪店・ハイエース南大阪店 ほか",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.flexnet.co.jp/shop",
+   "https://flex.jp/corporate/info"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "FLEXの店舗ページ43件と、アップル加盟店14店舗（アップル本部の店舗ページで確認）の合計。"
+ },
+ {
+  "status": "excluded_type",
+  "reason": "業態要確認（燃料会社）",
+  "name": "エネクスフリート株式会社",
+  "count": 15,
+  "stores": [
+   {
+    "name": "アップル泉大津店ほか（アップル15店舗）",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0274/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップルFCの加盟店で、9府県に15店舗。本業は燃料・SS事業とみられ、「中古車の販売・買取が主業」の条件に合わない可能性がある。リストに入れるかどうか判断をお願いしたい。"
+ },
+ {
+  "status": "excluded_type",
+  "reason": "FC本部",
+  "name": "株式会社ユーポス",
+  "count": 3,
+  "stores": [
+   {
+    "name": "ユーポス外環河内長野店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス高石店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス岸和田南店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府大阪市西区新町1-28-3 四ツ橋グランスクエア3F",
+  "tel": "06-6532-6532",
+  "rep": "代表取締役 柏原隆宏",
+  "url": "https://www.u-pohs.co.jp/",
+  "sources": [
+   "https://www.u-pohs.co.jp/about/company_info",
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "FC本部。大阪府内でFCオーナーの表示がない3店舗を直営と推定した。ロードカーと代表者が同じ。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社カミタケモータース",
+  "count": 3,
+  "stores": [
+   {
+    "name": "枚方本店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "奈良店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "大分店",
+    "pref": "大分県"
+   }
+  ],
+  "hq": "大阪府枚方市池之宮2丁目30-6",
+  "rep": "代表取締役 上武英輝",
+  "url": "https://www.kamitake.net/",
+  "sources": [
+   "https://www.kamitake.net/company/",
+   "https://www.kamitake.net/shop/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社フロンティアモータース",
+  "count": 3,
+  "stores": [
+   {
+    "name": "ユーポス東大阪若江店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス171西宮店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ユーポス神戸西店",
+    "pref": "兵庫県"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス以外の事業は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社イトー",
+  "count": 2,
+  "stores": [
+   {
+    "name": "アップル岸和田店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "アップル河内長野中央店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0258/",
+   "https://www.applenet.co.jp/shop/0278/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "アップル以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "タイガー石油株式会社",
+  "count": 2,
+  "stores": [
+   {
+    "name": "ユーポス香里ヶ丘店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ユーポス高槻上牧店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "高槻上牧店のページには「タイガーエナジー株式会社」の表記もあり、名寄せに迷った。燃料会社とみられる。"
+ },
+ {
+  "status": "under5",
+  "name": "大谷自動車株式会社",
+  "count": 2,
+  "stores": [
+   {
+    "name": "大阪本店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "和歌山店",
+    "pref": "和歌山県"
+   }
+  ],
+  "hq": "大阪府泉佐野市長滝753",
+  "tel": "072-465-0492",
+  "fax": "072-465-3109",
+  "url": "https://www.otani-j.co.jp/",
+  "employees": "81名",
+  "sources": [
+   "https://www.otani-j.co.jp/company"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社関西オート",
+  "count": 2,
+  "stores": [
+   {
+    "name": "八尾店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "平野店",
+    "pref": "大阪府"
+   }
+  ],
+  "rep": "代表取締役社長 大川純平",
+  "url": "https://www.kansai-auto.jp/",
+  "sources": [
+   "https://www.kansai-auto.jp/company/outline/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "北摂オート株式会社",
+  "count": 1,
+  "stores": [
+   {
+    "name": "本社",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府箕面市桜井2-16-17",
+  "fax": "072-723-1102",
+  "rep": "代表取締役 喜多克之",
+  "url": "https://hokusetu-auto.com/",
+  "sources": [
+   "https://hokusetu-auto.com/company.php"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ポロ",
+  "count": 1,
+  "stores": [
+   {
+    "name": "本社",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "大阪府高槻市富田町6丁目15-13",
+  "tel": "072-694-6641",
+  "fax": "072-694-9913",
+  "url": "https://www.polojp.com/",
+  "sources": [
+   "https://www.polojp.com/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "Re-BOOT株式会社",
+  "count": 1,
+  "stores": [
+   {
+    "name": "アップル大阪平野店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.applenet.co.jp/shop/0284/"
+  ],
+  "confidence": "高：運営会社名で確認"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社プロンザ",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス枚方店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社We Car CORE",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス貝塚店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "有限会社タイヨウ",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス富田林店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社cantera",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス外環四條畷店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "豊栄モータース",
+  "count": 1,
+  "stores": [
+   {
+    "name": "ユーポス寝屋川店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://www.u-pohs.co.jp/search_shop_pref?p=osaka"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ユーポス本部の店舗ページによる。ユーポス以外の店舗は未確認。（法人格の表示なし）"
+ }
+]
