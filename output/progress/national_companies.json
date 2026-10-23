@@ -3484,5 +3484,114 @@
   ],
   "confidence": "高：運営会社名で確認",
   "memo": "軽未使用車・39.8万円車専門店。公式の店舗一覧16件で、ラビット（買取FC）2店舗とGarageTricolore（業態未確認）を含む。"
+ },
+ {
+  "status": "list",
+  "name": "ツチヤ自動車株式会社",
+  "count": 7,
+  "stores": [
+   {
+    "name": "本社市川",
+    "pref": "千葉県"
+   },
+   {
+    "name": "千葉北店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "新小岩店&未使用車専門店",
+    "pref": "東京都"
+   },
+   {
+    "name": "茂原店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "ほか3店舗（東京・千葉）",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "千葉県市川市北方町4-1441-8",
+  "sources": [
+   "https://compalyze.co.jp/company/3040001026921（検索結果の抜粋）",
+   "https://car.motor-fan.jp/ucar/shop/0500996（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "1969年創業の中古車専門会社。店舗数は企業情報サイトの「東京・千葉に7店舗」による（別の掲載では10店舗）。確認できた店舗名は4つ。公式サイト未確認。本社住所は「本社市川」店の住所。"
+ },
+ {
+  "status": "under5",
+  "name": "プルミエ（軽届出済未使用車専門店、運営会社未確認）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "豊田",
+    "pref": "愛知県"
+   },
+   {
+    "name": "安城",
+    "pref": "愛知県"
+   },
+   {
+    "name": "豊橋",
+    "pref": "愛知県"
+   },
+   {
+    "name": "四日市",
+    "pref": "三重県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋"
+  ],
+  "confidence": "中：店舗名からの推定"
+ },
+ {
+  "status": "under5",
+  "name": "阿部勝自動車工業株式会社",
+  "count": 3,
+  "stores": [
+   {
+    "name": "アベカツ石巻店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "大崎古川店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "名取岩沼店",
+    "pref": "宮城県"
+   }
+  ],
+  "url": "https://k-mishiyo.abekatu.co.jp/",
+  "sources": [
+   "https://k-mishiyo.abekatu.co.jp/（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定"
+ },
+ {
+  "status": "under5",
+  "name": "古城モータース",
+  "count": 3,
+  "stores": [
+   {
+    "name": "高岡本店",
+    "pref": "富山県"
+   },
+   {
+    "name": "富山店",
+    "pref": "富山県"
+   },
+   {
+    "name": "石川白山店",
+    "pref": "石川県"
+   }
+  ],
+  "url": "https://www.kojyo-motors.com/",
+  "sources": [
+   "https://www.kojyo-motors.com/（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定"
  }
 ]
