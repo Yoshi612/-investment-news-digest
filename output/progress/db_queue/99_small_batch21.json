@@ -1,0 +1,66 @@
+[
+ {
+  "name": "株式会社フェニックス",
+  "url": "https://www.pnx.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.pnx.co.jp/",
+    "https://www.pnx.co.jp/about/",
+    "https://www.pnx.co.jp/shop/",
+    "https://www.pnx.co.jp/company/"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 3,
+    "links": 16,
+    "link_names": [
+     "スズキ二子玉川店",
+     "三重松阪店",
+     "三重津栗真店",
+     "北陸富山店",
+     "北陸高岡店",
+     "山梨甲斐店",
+     "山梨笛吹店",
+     "島根松江店",
+     "新潟上越インター店",
+     "石川小松店",
+     "石川金沢店",
+     "金沢駅西店",
+     "長野篠ノ井店",
+     "静岡清水インター店",
+     "静岡藤枝店",
+     "鳥取米子店"
+    ]
+   },
+   "company": "株式会社フェニックス",
+   "rep": "",
+   "addr": "センター",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.pnx.co.jp/contact",
+    "https://www.pnx.co.jp/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/Phenix.Shinonoi",
+    "https://www.facebook.com/phenix.ekinishi",
+    "https://www.facebook.com/phenix.hakkei",
+    "https://www.facebook.com/phenix.hokurikutakaoka/",
+    "https://www.facebook.com/phenix.hokurikutoyama",
+    "https://www.facebook.com/phenix.honsya",
+    "https://www.facebook.com/phenix.isikawakanazawa",
+    "https://www.facebook.com/phenix.jouetsu"
+   ],
+   "dept": [
+    "フェニックスでは、中古車のご購入から高額買取、レンタカーまで、",
+    "仕入れの特徴",
+    "仕入れバイヤーの専門プロ",
+    "仕入れ専門のプロ",
+    "仕入れ専門のプロによる"
+   ]
+  }
+ }
+]

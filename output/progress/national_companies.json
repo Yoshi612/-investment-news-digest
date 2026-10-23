@@ -4030,21 +4030,33 @@
  {
   "status": "under5",
   "name": "株式会社world of star",
-  "count": 1,
+  "count": 3,
   "stores": [
    {
-    "name": "軽ワールド 和歌山湊店",
+    "name": "軽自動車専門店 軽ワールド（和歌山市湊）",
+    "pref": "和歌山県"
+   },
+   {
+    "name": "ハイブリッドワールド（岩出市）",
+    "pref": "和歌山県"
+   },
+   {
+    "name": "アウトレットワールド（岩出市西野1-1）",
     "pref": "和歌山県"
    }
   ],
   "hq": "和歌山県和歌山市湊1820-160",
   "tel": "073-488-9199",
-  "rep": "中谷和弘",
+  "rep": "中谷 和弘",
   "url": "https://kworld.jp/",
   "sources": [
-   "https://kworld.jp/"
+   "https://kworld.jp/company/",
+   "https://hv-worldofstar.com/",
+   "https://car.motor-fan.jp/ucar/shop/0701226"
   ],
-  "confidence": "中：店舗名からの推定"
+  "confidence": "中：店舗名からの推定",
+  "employees": "50名",
+  "memo": "【2026-10更新】軽ワールドの会社紹介で運営会社（株式会社world of star）を確認。ハイブリッドワールド（hv-worldofstar.com、岩出市、TEL 0736-63-6700）とアウトレットワールド（岩出市西野、中古車情報サイト掲載）も同グループの店舗とみられるが、運営法人が同一かは未確認。"
  },
  {
   "status": "under5",
@@ -4448,9 +4460,9 @@
   "corp_no": "3050001004686"
  },
  {
-  "status": "under5",
+  "status": "list",
   "name": "株式会社ユーリンクス",
-  "count": 3,
+  "count": 20,
   "stores": [
    {
     "name": "アラジン二又瀬店",
@@ -4467,10 +4479,11 @@
   ],
   "sources": [
    "https://autoc-one.jp/ullo/shop/3142/（検索結果の抜粋）",
+   "https://www.fc-hikaku.net/dokuritsu_kaigyo/3139",
    "出典：国税庁法人番号公表サイト（国税庁）（https://www.houjin-bangou.nta.go.jp/download/zenken/）を加工して作成"
   ],
   "confidence": "中：店舗名からの推定",
-  "memo": "車買取りネットワーク「アラジン」の運営会社の一つ。アラジンは九州中心に複数の運営会社がある（久留米南店は株式会社Alive）。他店舗の運営会社は未確認。 本社所在地は法人番号公表サイトの登記上の本店所在地（法人番号1290001023128、〒819-0001）。",
+  "memo": "車買取りネットワーク「アラジン」の運営会社の一つ。アラジンは九州中心に複数の運営会社がある（久留米南店は株式会社Alive）。他店舗の運営会社は未確認。 本社所在地は法人番号公表サイトの登記上の本店所在地（法人番号1290001023128、〒819-0001）。 【2026-10更新】中古車販売・買取店舗数ランキング記事（2025年冬）で株式会社ユーリンクスは20店舗とされているため20で計上（アラジン加盟店を含む数字の可能性あり、確認できた店舗は3）。",
   "hq": "福岡県福岡市西区小戸3丁目54番39号",
   "corp_no": "1290001023128"
  },
@@ -4940,7 +4953,7 @@
  },
  {
   "status": "under5",
-  "name": "KiND OUTLET（カインドアウトレット）",
+  "name": "NEXTGATE MOTORSOLUTIONS株式会社（KiND OUTLET）",
   "count": 4,
   "stores": [
    {
@@ -4960,15 +4973,16 @@
     "pref": "千葉県"
    }
   ],
-  "hq": "",
+  "hq": "千葉県千葉市美浜区中瀬2-6-1 WBGマリブウエスト30F（プライバシーポリシー記載の所在地）",
   "tel": "0436-55-9169",
   "url": "https://kindoutlet.jp/",
   "sources": [
    "https://kindoutlet.jp/shop",
-   "https://kindoutlet.jp/privacypolicy"
+   "https://kindoutlet.jp/privacypolicy",
+   "https://ucar.carview.yahoo.co.jp/shop/chiba/309220005/group/"
   ],
-  "confidence": "中：店舗名からの推定",
-  "memo": "千葉県の軽自動車専門店。サイトのプライバシーポリシー記載はNEXTGATE MOTOR SOLUTIONS株式会社（千葉市美浜区中瀬2-6-1 WBGマリブウエスト30F）だが、運営会社かどうかは未確認。電話は市原店。"
+  "confidence": "高：運営会社名で確認",
+  "memo": "千葉県の軽自動車・コンパクト／ハイブリッド専門店。運営会社は、公式サイトのプライバシーポリシー記載の会社名と、中古車情報サイトの系列店一覧（NEXTGATE MOTORSOLUTIONS株式会社の系列店一覧）で確認。プライバシーポリシー記載の所在地は千葉市美浜区中瀬2-6-1 WBGマリブウエスト30F。電話は市原店。TSCと同一グループの可能性あり（未確認）。"
  },
  {
   "status": "under5",
@@ -6794,5 +6808,383 @@
   ],
   "confidence": "高：運営会社名で確認",
   "memo": "長野県東信地域の中古車販売店。スズキ副代理店・ダイハツスーパーピット店。電話はフリーダイヤル。"
+ },
+ {
+  "status": "list",
+  "name": "日昇自動車株式会社",
+  "count": 9,
+  "stores": [
+   {
+    "name": "武蔵村山店（本店）",
+    "pref": "東京都"
+   },
+   {
+    "name": "八王子店",
+    "pref": "東京都"
+   },
+   {
+    "name": "相模原店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "川越店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "坂戸店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "伊勢崎店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "宇都宮店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "仙台泉店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "浜松店",
+    "pref": "静岡県"
+   }
+  ],
+  "hq": "東京都武蔵村山市神明1丁目99番地3",
+  "tel": "042-564-5555",
+  "fax": "042-562-1222",
+  "url": "https://www.2440.co.jp/",
+  "sources": [
+   "https://www.2440.co.jp/shop/index.html",
+   "https://www.2440.co.jp/about/index.html"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "登録済未使用車・中古車販売。公式サイトの店舗一覧で9店舗（ほかにサービス工場）。1971年設立。"
+ },
+ {
+  "status": "under5",
+  "name": "ウチダオート株式会社",
+  "count": 3,
+  "stores": [
+   {
+    "name": "川口店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "岩槻店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "川越店",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "埼玉県川口市西新井宿117",
+  "tel": "048-284-0321",
+  "fax": "048-283-1190",
+  "rep": "宇野 弘人",
+  "url": "https://www.uchida-auto.co.jp/",
+  "employees": "36名（2021年4月現在）",
+  "sources": [
+   "https://www.uchida-auto.co.jp/",
+   "https://www.uchida-auto.co.jp/info/index.php"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "新車・新古車（未使用車）のディスカウント販売。3展示場で常時400台。新車の扱いが中心の可能性あり。"
+ },
+ {
+  "status": "list",
+  "name": "タウロスジャパン（Tauros Japan、運営会社未確認）",
+  "count": 6,
+  "stores": [
+   {
+    "name": "Tauros Japan IBARAKI（土浦市）",
+    "pref": "茨城県"
+   },
+   {
+    "name": "千葉店（千葉市中央区浜野町218-8）",
+    "pref": "千葉県"
+   },
+   {
+    "name": "埼玉店（さいたま市緑区下野田133-1）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "小山店（小山市城北3-20-3）",
+    "pref": "栃木県"
+   },
+   {
+    "name": "堺店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/0520330",
+   "https://car.motor-fan.jp/ucar/shop/0520619",
+   "https://car.motor-fan.jp/ucar/shop/0520078"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。完全直販型の中古車販売。中古車情報サイトで5店舗を確認、在庫一覧サイトの記載から「全国6店」規模とみられる（6店目は未確認）。法人名は未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社コバタコーポレーション（カーショップコバタ）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "宮崎 ハイブリッド・セダン専門店",
+    "pref": "宮崎県"
+   },
+   {
+    "name": "カーショップコバタ鳥栖店（鳥栖市幡崎町977-1）",
+    "pref": "佐賀県"
+   },
+   {
+    "name": "福岡の店舗（店名未確認）",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://autoc-one.jp/used/shop/980/",
+   "https://page.line.me/804olnjj"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。ミニバン・コンパクト・ハイブリッド専門店。宮崎で創業、中古車情報サイトの紹介に「九州で宮崎・佐賀・福岡など5店舗」。確認できた店舗は2。"
+ },
+ {
+  "status": "list",
+  "name": "楠永自動車株式会社（KS-selection）",
+  "count": 6,
+  "stores": [
+   {
+    "name": "KS-selection 和泉店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "KS-selection 松原店（松原市立部3-455-1）",
+    "pref": "大阪府"
+   },
+   {
+    "name": "KS-selection 堺インター店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "KS-selection 高石店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/0708174",
+   "https://page.line.me/569icpmb",
+   "https://ctn-net.jp/useful/detail/1258/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。2023年の中古車販売店紹介記事に「大阪の堺・和泉を中心にKS-selectionを6店舗展開」。確認できた店舗は4（和泉・松原・堺インター・高石）。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社トップオート（埼玉・福島）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "トップオート越谷（軽自動車専門店）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "TOP AUTO三郷 軽自動車50万円以下専門店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "上尾整備工場（求人情報）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "福島県の店舗（店名未確認）",
+    "pref": "福島県"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://ctn-net.jp/useful/detail/1258/",
+   "https://www.goo-net.com/usedcar_shop/0504836/detail.html"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。2023年の紹介記事に「埼玉県、福島県に計5店舗、ミニバン・ハイエース専門店や軽自動車専門店、4WD専門店など」。確認できた販売店は越谷・三郷の2店（上尾は整備工場）。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社フェニックス",
+  "count": 21,
+  "stores": [
+   {
+    "name": "本社センター",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "中原センター",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "港南台センター",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "野川センター",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "金沢八景センター",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "スズキ二子玉川店",
+    "pref": "東京都"
+   },
+   {
+    "name": "山梨甲斐店",
+    "pref": "山梨県"
+   },
+   {
+    "name": "山梨笛吹店",
+    "pref": "山梨県"
+   },
+   {
+    "name": "長野篠ノ井店",
+    "pref": "長野県"
+   },
+   {
+    "name": "新潟上越インター店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "北陸富山店",
+    "pref": "富山県"
+   },
+   {
+    "name": "北陸高岡店",
+    "pref": "富山県"
+   },
+   {
+    "name": "石川金沢店",
+    "pref": "石川県"
+   },
+   {
+    "name": "金沢駅西店",
+    "pref": "石川県"
+   },
+   {
+    "name": "石川小松店",
+    "pref": "石川県"
+   },
+   {
+    "name": "静岡清水インター店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "静岡藤枝店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "三重松阪店",
+    "pref": "三重県"
+   },
+   {
+    "name": "三重津栗真店",
+    "pref": "三重県"
+   },
+   {
+    "name": "鳥取米子店",
+    "pref": "鳥取県"
+   },
+   {
+    "name": "島根松江店",
+    "pref": "島根県"
+   }
+  ],
+  "hq": "神奈川県川崎市宮前区犬蔵1丁目9番1号",
+  "tel": "044-976-8181",
+  "rep": "永倉 憲孝",
+  "url": "https://www.pnx.co.jp/",
+  "sources": [
+   "https://www.pnx.co.jp/shop/",
+   "https://www.pnx.co.jp/company/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "公式サイトの店舗一覧で21拠点（神奈川の「センター」5、ほか東京・山梨・長野・新潟・富山・石川・静岡・三重・鳥取・島根）。スズキ二子玉川店はスズキの販売店。新車・輸入車・中古パーツ・オークション・レンタカー・輸出も行う。店舗数ランキング記事では25店舗。"
+ },
+ {
+  "status": "list",
+  "name": "中部自動車販売株式会社（チューブ／BCN）",
+  "count": 20,
+  "stores": [
+   {
+    "name": "チューブ 所沢店（所沢市松郷264-7）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "チューブ 蓮田店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "本庄の店舗",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "藤岡の店舗（藤岡市中大塚371-3）",
+    "pref": "群馬県"
+   },
+   {
+    "name": "高崎の店舗",
+    "pref": "群馬県"
+   },
+   {
+    "name": "BCN郡山（郡山市昭和1丁目73-1）",
+    "pref": "福島県"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/0551629",
+   "https://car.rakuten.co.jp/shaken/brand/bcn-chubu/area/saitama/honjoshi/",
+   "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00006617074/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。中古車情報サイトに「全店20店舗、在庫10,000台」。求人情報では本社東京都、売上144億円（2024年3月）、従業員350名、埼玉で「チューブ」9店舗、群馬・福島で「BCN」。確認できた店舗は一部。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社シティライト",
+  "count": 10,
+  "stores": [
+   {
+    "name": "シティライト ジャック店（岡山市南区妹尾）",
+    "pref": "岡山県"
+   },
+   {
+    "name": "車買取専門店シーボーイ 倉敷店",
+    "pref": "岡山県"
+   },
+   {
+    "name": "シーボーイ灘崎店",
+    "pref": "岡山県"
+   }
+  ],
+  "hq": "岡山県岡山市南区妹尾3292番地1",
+  "url": "",
+  "sources": [
+   "https://www.fc-hikaku.net/dokuritsu_kaigyo/3139",
+   "https://careerconnection.jp/review/111916/jobinfo/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。中古車店舗数ランキング記事（2025年冬）で10店舗。中古車ディーラー「シティライト ジャック店」と買取専門店「シーボーイ」（中国地方中心に四国・近畿）を展開、オートオークション（LAA）運営も。本社は求人情報の記載。"
  }
 ]

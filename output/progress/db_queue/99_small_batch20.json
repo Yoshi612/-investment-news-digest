@@ -1,0 +1,146 @@
+[
+ {
+  "name": "ウチダオート",
+  "url": "https://www.uchida-auto.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.uchida-auto.co.jp/",
+    "https://www.uchida-auto.co.jp/shopmovie/index.php",
+    "https://www.uchida-auto.co.jp/info/index.php"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "岩槻店",
+     "川口店",
+     "川越店"
+    ]
+   },
+   "company": "ウチダオート株式会社",
+   "rep": "代表取締役 宇野 弘人",
+   "addr": "埼玉県川口市西新井宿117",
+   "employees": "36名（2021年4月現在）",
+   "tel": "048-284-0321",
+   "fax": "048-283-1190",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.facebook.com/frst.joqr",
+    "https://www.facebook.com/uchidaautoofficial/",
+    "https://www.instagram.com/uchida_auto_official/"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "カーサービスフレンズ",
+  "url": "https://carservicefriends.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://carservicefriends.com/",
+    "https://carservicefriends.com/company/",
+    "https://carservicefriends.com/about/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社カーサービスフレンズ",
+   "rep": "するプリウス",
+   "addr": "兵庫県加古川市加古川町溝之口624",
+   "employees": "",
+   "tel": "079-441-8343",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://carservicefriends.com/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "新車/中古車販売,中古車買取り,修理,鈑金,点検,車検,パーツ取付販売,レンタカー"
+   ]
+  }
+ },
+ {
+  "name": "ワールドオブスター（ハイブリッドワールド）",
+  "url": "https://hv-worldofstar.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://hv-worldofstar.com/",
+    "https://hv-worldofstar.com/about/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0736-63-6700",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://hv-worldofstar.com/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%88%E3%82%99%E3%82%AA%E3%83%95%E3%82%99%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%95%E3%82%99%E3%83%AA%E3%83%83%E3%83%88%E3%82%99%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%88%E3%82%99-592391178109599"
+   ],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！",
+    "大量仕入れ＆薄利多売で格安",
+    "新しく仕入れた厳選中古車情報など随時更新いたしますので、フォロー宜しくお願い致します。"
+   ]
+  }
+ },
+ {
+  "name": "ワールドオブスター（軽ワールド）",
+  "url": "https://kworld.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://kworld.jp/",
+    "https://kworld.jp/about/",
+    "https://kworld.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社world of star",
+   "rep": "中谷 和弘",
+   "addr": "〒640-8404 和歌山市湊1820-160",
+   "employees": "50名",
+   "tel": "073-488-9199",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://kworld.jp/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/398ecott/",
+    "https://www.instagram.com/k_world_wos/"
+   ],
+   "dept": [
+    "■車輌販売・買取業務・修理・点検・車検整備業務",
+    "人気と需要が高いので高価買取が可能となります。買い替え時の下取り価格が普通車よりも割高です。",
+    "仕入れ～展示までの流れ",
+    "仕入～展示までの流れ",
+    "厳選仕入れのクルマをベテランスタッフがしっかり整備。価格はお手頃ですが品質は最高の中古車を集めました。"
+   ]
+  }
+ }
+]

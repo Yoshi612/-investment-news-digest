@@ -1,0 +1,94 @@
+[
+ {
+  "name": "天童自動車商会（カーストーリー）",
+  "url": "https://www.car-story.jp/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.car-story.jp/",
+    "403 https://www.car-story.jp/"
+   ]
+  }
+ },
+ {
+  "name": "2440.co.jp（仙台泉店）",
+  "url": "https://www.2440.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.2440.co.jp/",
+    "https://www.2440.co.jp/shop/index.html",
+    "https://www.2440.co.jp/shop/honten/index.html",
+    "https://www.2440.co.jp/shop/kawagoe/index.html",
+    "https://www.2440.co.jp/shop/hamamatsu/index.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 10,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "042-564-5555",
+   "fax": "042-562-1222",
+   "mail": [
+    "hamamatsu@2440.co.jp",
+    "honbu@2440.co.jp",
+    "kawagoe@2440.co.jp"
+   ],
+   "form": [
+    "https://www.2440.co.jp/contact/index.html"
+   ],
+   "sns": [],
+   "dept": [
+    "■あなたの愛車を高価買取中！"
+   ]
+  }
+ },
+ {
+  "name": "ニーズ（GLOBAL CREST）",
+  "url": "https://www.needs.ne.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.needs.ne.jp/",
+    "https://www.needs.ne.jp/shop-search",
+    "https://www.needs.ne.jp/about",
+    "https://www.needs.ne.jp/shop-search/stock-list/car/88432/",
+    "https://www.needs.ne.jp/shop-search/stock-list/car/88431/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社ニーズ",
+   "rep": "名",
+   "addr": "〒221-0021",
+   "employees": "",
+   "tel": "045-440-3001",
+   "fax": "045-440-3002",
+   "mail": [],
+   "form": [
+    "https://www.needs.ne.jp/contact",
+    "https://www.needs.ne.jp/contact/?carid=88431",
+    "https://www.needs.ne.jp/contact/?carid=88432"
+   ],
+   "sns": [
+    "https://www.facebook.com/needs.gc/",
+    "https://www.instagram.com/needs.gc.koyasu?igsh=dnRjbmF3eG55cDZz"
+   ],
+   "dept": [
+    "03 高額査定！愛車の買取や下取りも大歓迎",
+    "GC横浜新子安店では車の買取も積極的に行っております。",
+    "お車の売却のご相談も大歓迎です。高額査定に自信あり！GC横浜新安店では買取や下取りも積極的に行っております。",
+    "当社は、ワンストップサービスも行っております。販売・買取・車検・板金・保険、レンタカー、全てお任せください♪",
+    "自動車買取査定・廃車引き取り"
+   ]
+  }
+ }
+]
