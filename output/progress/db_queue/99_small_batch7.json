@@ -1,0 +1,235 @@
+[
+ {
+  "name": "アイカー（株式会社SHINE、札幌）",
+  "url": "https://icar-sapporo.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://icar-sapporo.com/",
+    "https://icar-sapporo.com/shop/",
+    "https://icar-sapporo.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社SHINE",
+   "rep": "挨拶",
+   "addr": "",
+   "employees": "26名",
+   "tel": "011-769-0419",
+   "fax": "011-769-0469",
+   "mail": [],
+   "form": [
+    "https://icar-sapporo.com/contact/"
+   ],
+   "sns": [
+    "https://www.youtube.com/@icar-sapporo"
+   ],
+   "dept": [
+    "中古自動車の販売及び買取",
+    "中古車買取"
+   ]
+  }
+ },
+ {
+  "name": "ミニクス（株式会社トータルカーサービス）",
+  "url": "https://minics.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://minics.jp/",
+    "https://minics.jp/shop",
+    "https://minics.jp/about"
+   ],
+   "est": {
+    "postal": 5,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "084-973-1147",
+   "fax": "084-973-1148",
+   "mail": [],
+   "form": [
+    "https://minics.jp/contact",
+    "https://minics.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminics.jp%2Fabout%2F&#038;format=xml",
+    "https://minics.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminics.jp%2Fshop%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.instagram.com/minics_2021/?utm_source=hp",
+    "https://www.youtube.com/channel/UCtdVZXmW98t3g6RypKRTXzg?utm_source=hp"
+   ],
+   "dept": [
+    "ミニクスでは軽トラ・軽バンを高価買取します！",
+    "買取査定やご購入後のアフターサービスもお任せください。"
+   ]
+  }
+ },
+ {
+  "name": "軽ワーク（ガイアスジャパン、上田）",
+  "url": "https://keiwork.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://keiwork.jp/",
+    "https://keiwork.jp/about/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 4,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "岡野 茂春",
+   "addr": "",
+   "employees": "",
+   "tel": "0268-71-0145",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://keiwork.jp/buy#form/",
+    "https://keiwork.jp/contact/",
+    "https://keiwork.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkeiwork.jp%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.youtube.com/@ueda-kwork",
+    "https://x.com/k_workueda"
+   ],
+   "dept": [
+    "専門店だから、買取・販売のための陸送費・運送費不要。高く売れる！",
+    "最短1日で買取成立！"
+   ]
+  }
+ },
+ {
+  "name": "軽マーケット（kei398）",
+  "url": "https://kei398.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://kei398.com/"
+   ],
+   "est": {
+    "postal": 4,
+    "phrase": 6,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.facebook.com/share/1AhR49eysR",
+    "https://www.instagram.com/keimarket.k",
+    "https://www.youtube.com/watch?v=GflsduPXtQg&t=502s",
+    "https://youtube.com/@keimarket398"
+   ],
+   "dept": [
+    "仕入れから点検・修理、"
+   ]
+  }
+ },
+ {
+  "name": "4WD SUV専門店（auto-g）",
+  "url": "https://4wdsuv.auto-g.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://4wdsuv.auto-g.jp/",
+    "https://4wdsuv.auto-g.jp/shop/",
+    "https://4wdsuv.auto-g.jp/about/",
+    "https://4wdsuv.auto-g.jp/shop/?meta_key=furigana&orderby=meta_value&order=ASC",
+    "https://4wdsuv.auto-g.jp/shop/?s=&proshop=1&meta_key=furigana&orderby=meta_value&order=ASC"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0544-52-2112",
+   "fax": "052-774-3777",
+   "mail": [],
+   "form": [
+    "https://4wdsuv.auto-g.jp/contact",
+    "https://4wdsuv.auto-g.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2F4wdsuv.auto-g.jp%2Fabout%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.facebook.com/LG4WD",
+    "https://www.facebook.com/events/162030574190427/"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "ベアーズオート（福祉車両）",
+  "url": "https://bearsauto.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://bearsauto.jp/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "ミニバンらんど（堺）",
+  "url": "https://minibanrando.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://minibanrando.com/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://twitter.com/intent/tweet?text=MiniBanRando.com%20%E2%80%94%20premium%20domain%20for%20sale&url=https://expireddomains.com/domain/minibanrando.com"
+   ],
+   "dept": []
+  }
+ }
+]

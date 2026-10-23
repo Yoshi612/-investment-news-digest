@@ -994,31 +994,50 @@
    "https://www.autogallery.co.jp/shopinfo"
   ],
   "confidence": "高：運営会社名で確認",
-  "memo": "ブランドはオートギャラリーグループ（輸入車）。"
+  "memo": "輸入車（アメ車等）専門店。サイトの見出しは「東京 神奈川 福岡」で、古物商許可も神奈川県を含むが、店舗情報ページに載っているのは東京・大阪・福岡の3店舗。",
+  "fax": "06-6538-8845",
+  "email": "inquiry@autogallery.co.jp",
+  "dept": "中古車の買取・下取りあり"
  },
  {
   "status": "list",
   "name": "human joint株式会社",
   "stores": [
    {
-    "name": "COCOCAR 盛岡店",
-    "pref": "岩手県"
-   },
-   {
-    "name": "COCOCAR 仙台店",
-    "pref": "宮城県"
+    "name": "COCOCAR 酒々井店",
+    "pref": "千葉県"
    },
    {
     "name": "COCOCAR 加須店",
     "pref": "埼玉県"
    },
    {
-    "name": "COCOCAR 酒々井店",
-    "pref": "千葉県"
+    "name": "COCOCAR 仙台店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "COCOCAR 福島納車センター",
+    "pref": "福島県"
+   },
+   {
+    "name": "COCOCAR 盛岡店",
+    "pref": "岩手県"
+   },
+   {
+    "name": "COCOCAR 長野営業所",
+    "pref": "長野県"
    },
    {
     "name": "COCOCAR 名古屋店",
     "pref": "愛知県"
+   },
+   {
+    "name": "COCOCAR 静岡営業所",
+    "pref": "静岡県"
+   },
+   {
+    "name": "COCOCAR 札幌営業所",
+    "pref": "北海道"
    }
   ],
   "hq": "東京都品川区西五反田2-24-4 THE CROSS GOTANDA 3階",
@@ -1035,8 +1054,8 @@
    "https://cococar-hp.net/company/"
   ],
   "confidence": "高：運営会社名で確認",
-  "memo": "ブランドはCOCOCAR（自社ローン専門）。「店」は5店舗。ほかに札幌・長野・静岡の営業所と福島納車センターがあり、営業所を含めると8拠点。FC1号店ORCAR横浜本店（加盟店）は含めていない。",
-  "count": 5
+  "memo": "ブランドはCOCOCAR（自社ローン専門）。会社概要の沿革で第1〜9号店（酒々井・加須・仙台・福島・盛岡・長野・名古屋・静岡・札幌）を確認し、営業所・納車センターを含めて9拠点で計上（2026-10再確認、以前は「店」のみの5で計上）。FC店（ORCAR横浜本店、COCOCAR札幌店）は含めていない。",
+  "count": 9
  },
  {
   "status": "list",
@@ -4025,7 +4044,8 @@
    "求人情報（検索結果の抜粋：カートルズ草加店【株式会社サークルエム】）"
   ],
   "confidence": "中：店舗名からの推定",
-  "memo": "自社ローン専門店「カートルズ」。公式サイトの店舗一覧で販売店9店舗（ほかに整備工場とBlackbunny）。求人では「直営13店舗」とも。運営会社名は草加店の求人表記によるもので、全店が同じ法人かは未確認。"
+  "memo": "自社ローン専門店「カートルズ」。公式サイトの店舗一覧で販売店9店舗（ほかに整備工場とBlackbunny）。求人では「直営13店舗」とも。運営会社名は草加店の求人表記によるもので、全店が同じ法人かは未確認。",
+  "fax": "048-970-2455"
  },
  {
   "status": "list",
@@ -4603,19 +4623,52 @@
  },
  {
   "status": "list",
-  "name": "オニキス千葉（ONIX加盟、運営会社未確認）",
-  "count": 3,
+  "name": "オートコミュニケーションズ株式会社（オニキス）",
+  "count": 17,
   "stores": [
    {
-    "name": "八千代店ほか千葉県内3店舗",
+    "name": "ONIXモビリティタウン千葉（オニキス・フラット7千葉16号／八千代千葉）",
     "pref": "千葉県"
+   },
+   {
+    "name": "オニキス・フラット7松戸",
+    "pref": "千葉県"
+   },
+   {
+    "name": "オニキス・フラット7成田",
+    "pref": "千葉県"
+   },
+   {
+    "name": "オニキス・フラット7市原",
+    "pref": "千葉県"
+   },
+   {
+    "name": "北海道2店舗（店名未確認）",
+    "pref": "北海道"
+   },
+   {
+    "name": "東京1店舗（店名未確認）",
+    "pref": "東京都"
+   },
+   {
+    "name": "埼玉1店舗（店名未確認）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "熊本3店舗（店名未確認）",
+    "pref": "熊本県"
    }
   ],
   "sources": [
+   "https://job.mynavi.jp/27/pc/search/corp269787/outline.html",
    "https://unusedcar.onix-ns.com/"
   ],
-  "confidence": "中：店舗名からの推定",
-  "memo": "未使用車専門店。「千葉県で3店舗、総在庫1000台以上」との掲載による。"
+  "confidence": "高：運営会社名で確認",
+  "memo": "【要判断】事業内容は「新車販売中心（中古車販売も）」で、中古車は販売台数の約2割。オニキス（新車定額リース・未使用車）の直営。拠点数は就職情報サイトの「北海道2店舗、千葉10店舗、東京1店舗、埼玉1店舗、熊本3店舗」の合計17（整備工場を含む可能性あり）。以前は「オニキス千葉（運営会社未確認）3店舗」として掲載していたものを運営会社で更新。売上92億円（2025年9月期）。",
+  "hq": "東京都品川区東五反田2-3-1 損保ジャパン五反田共同ビル6階",
+  "tel": "03-5475-7140",
+  "rep": "玉野 寛明",
+  "employees": "193名（2025年10月現在）"
  },
  {
   "status": "list",
@@ -5083,5 +5136,436 @@
   ],
   "confidence": "中：店舗名からの推定",
   "memo": "公式サイト未確認。求人情報に「埼玉県・茨城県の5-STAR各店舗（越谷・春日部・三郷・土浦）」、中古車情報サイトに阿見店。ランキング記事では「埼玉県中心に6店舗」。越谷店は越谷市大間野町3-146。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社トータルカーサービス（ミニクス）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "ミニクス 福山店",
+    "pref": "広島県"
+   },
+   {
+    "name": "ミニクス 福山中央店",
+    "pref": "広島県"
+   },
+   {
+    "name": "ミニクス アウトレット店",
+    "pref": "広島県"
+   },
+   {
+    "name": "ミニクス 姫路店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "ミニクス 加古川店",
+    "pref": "兵庫県"
+   }
+  ],
+  "hq": "広島県福山市南手城町1丁目14-7",
+  "tel": "084-973-1147",
+  "fax": "084-973-1148",
+  "url": "https://minics.jp/",
+  "form": "https://minics.jp/contact",
+  "sns": [
+   "https://www.instagram.com/minics_2021/",
+   "https://www.youtube.com/channel/UCtdVZXmW98t3g6RypKRTXzg"
+  ],
+  "sources": [
+   "https://minics.jp/shop",
+   "https://minics.jp/about"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "軽トラ・軽バン専門店。サイトに「ミニクス運営：株式会社トータルカーサービス」。所在地は福山中央店と同じ住所の記載（本社かどうかは未確認）。"
+ },
+ {
+  "status": "list",
+  "name": "三共自動車販売株式会社（サンキョウ）",
+  "count": 10,
+  "stores": [
+   {
+    "name": "本社ミニバン館（市川）",
+    "pref": "千葉県"
+   },
+   {
+    "name": "ミニバン専門店 仙台東インター夢創庫",
+    "pref": "宮城県"
+   },
+   {
+    "name": "仙台六丁の目店",
+    "pref": "宮城県"
+   }
+  ],
+  "hq": "千葉県市川市相之川2-7-18（本社ミニバン館の所在地）",
+  "url": "",
+  "sources": [
+   "https://compalyze.co.jp/company/6040001026340",
+   "https://car.motor-fan.jp/ucar/shop/0900491"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。企業情報サイトに「直営10店舗を千葉・宮城・群馬・福島に展開」。確認できた店舗名は3つのみ（群馬・福島の店舗名は不明）。新車販売も扱う。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社GR8（GR8STYLE）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "GR8 STYLE 春日井店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "名古屋大府店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "岡崎店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "名古屋港店",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "愛知県春日井市南下原町6丁目2-1",
+  "tel": "0568-41-8828",
+  "fax": "0568-41-8839",
+  "rep": "入谷 篤",
+  "url": "https://www.gr8style.co.jp/",
+  "form": "https://www.gr8style.co.jp/contact/",
+  "sns": [
+   "https://www.facebook.com/gr8style/",
+   "https://www.instagram.com/gr8style_japan/"
+  ],
+  "sources": [
+   "https://www.gr8style.co.jp/company-profile/",
+   "https://www.gr8style.co.jp/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ハイエース専門店（新車・中古車・カスタム・キャンピング）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社T-SPACE",
+  "count": 4,
+  "stores": [
+   {
+    "name": "SPACE ジムニー館",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "SPACE-ONE",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "SPACE-SE",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "SPACE-ZERO",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "埼玉県春日部市栄町1-431-1",
+  "tel": "048-797-6699",
+  "fax": "048-797-6644",
+  "email": "info@cardealer-space.com",
+  "url": "https://cardealer-space.com/",
+  "sns": [
+   "https://www.instagram.com/space_jimny",
+   "https://www.instagram.com/spaceone661",
+   "https://www.instagram.com/spacese6",
+   "https://www.instagram.com/space.zero.kasukabe/"
+  ],
+  "dept": "買取査定あり",
+  "sources": [
+   "https://cardealer-space.com/company/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "販売店4（春日部市）。ほかに整備（T-SPACE SERVICE）・鈑金（SPACE-Body Lab.）・レンタカー。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ウシジマ（UJグループ・ウシトラ）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "八女本社",
+    "pref": "福岡県"
+   },
+   {
+    "name": "福岡支店（展示場）",
+    "pref": "福岡県"
+   },
+   {
+    "name": "埼玉支店（展示場）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "東京営業所",
+    "pref": "東京都"
+   },
+   {
+    "name": "京都支店",
+    "pref": "京都府"
+   }
+  ],
+  "hq": "福岡県八女市室岡377-10",
+  "tel": "0943-24-1126",
+  "fax": "0943-24-4812",
+  "rep": "牛島 豊晴",
+  "url": "https://www.ushitruck.com/",
+  "employees": "106名（スタッフ数）",
+  "dept": "中古トラック買取あり",
+  "sources": [
+   "https://www.ushitruck.com/truck/corporate"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古トラック販売・買取。拠点数は販売系の本社・支店・営業所で計上（ほかに部品のウシパーツ、レンタル店）。電話・FAXは会社概要記載のもの（本社の番号かは未確認）。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ロペライオ",
+  "count": 6,
+  "stores": [
+   {
+    "name": "ロペライオ練馬",
+    "pref": "東京都"
+   },
+   {
+    "name": "ロペライオさいたま",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "モーターホーム by ロペライオ",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "東日本買取センター",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "中部買取センター",
+    "pref": "愛知県"
+   },
+   {
+    "name": "西日本買取センター",
+    "pref": "京都府"
+   }
+  ],
+  "hq": "東京都世田谷区太子堂4-1-1 キャロットタワー6F",
+  "rep": "早水 彰",
+  "url": "https://loperaio.co.jp/",
+  "dept": "買取センター3拠点（東日本・中部・西日本）",
+  "sources": [
+   "https://loperaio.co.jp/shop_index.html",
+   "https://loperaio.co.jp/shop_head_office.html",
+   "https://loperaio.co.jp/company_index.html"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "輸入中古車専門店。ショップガイドの住所と店舗名の対応はページの画像代替テキストから推定（買取センターの所在県は住所一覧からの推定）。ほかに本社・セントラルベース・ファクトリーセンター（非販売拠点）、ボランタリーチェーンのロペシティ西宮（うかいや運営）・札幌平岸（三愛自動車工業運営）。健康経営優良法人（大規模法人部門）取得。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社サンライズモータース（軽プラザサンライズ）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "軽プラザサンライズ 青森本店",
+    "pref": "青森県"
+   },
+   {
+    "name": "軽プラザサンライズ 弘前本店",
+    "pref": "青森県"
+   },
+   {
+    "name": "軽プラザサンライズ 八戸本店",
+    "pref": "青森県"
+   },
+   {
+    "name": "新車市場 サンライズ青森東バイパス店",
+    "pref": "青森県"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://carbell.jp/partner/search?area_code=10",
+   "https://car.motor-fan.jp/ucar/shop/0904135",
+   "https://www.kurumaerabi.com/shop/detail/40016907/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。軽未使用車専門店。中古車情報サイトの店舗紹介に青森・弘前・八戸の各店と「グループ総在庫800台」。新車市場の加盟店一覧に「新車市場 サンライズ青森東バイパス店 株式会社サンライズモータース」。青森本店は青森市第二問屋町2丁目5-13（車検のコバック併設）、八戸本店は八戸市城下3-8-6。"
+ },
+ {
+  "status": "under5",
+  "name": "カーライフグループ株式会社",
+  "count": 3,
+  "stores": [
+   {
+    "name": "TOKYO店",
+    "pref": "東京都"
+   },
+   {
+    "name": "大阪店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "福岡店",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "福岡県糟屋郡粕屋町戸原西4丁目8-11",
+  "tel": "0120-038-871",
+  "fax": "092-410-5912",
+  "url": "https://loanok.jp/",
+  "employees": "30名",
+  "sources": [
+   "https://loanok.jp/shop000.html",
+   "https://loanok.jp/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "自社ローン専門。所在地はサイト記載の住所（本社かどうかは未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社エコノミー湘南（奇跡査定センター）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "奇跡査定センター 藤沢六会本店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "藤沢橋店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "横浜都筑店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "相模原16号由野台店",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "神奈川県藤沢市亀井野2480-3",
+  "tel": "0466-80-3443",
+  "fax": "0466-80-3445",
+  "rep": "桑名 伸",
+  "url": "https://www.satei.net/",
+  "dept": "買取専門（買取センター）",
+  "sources": [
+   "https://www.satei.net/company-profile/",
+   "https://www.satei.net/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "車買取専門店。会社概要の沿革に「有限会社エコノミーエンタープライズより営業継承し、株式会社エコノミー湘南を設立」「屋号を奇跡査定センターとし」とあるが、現在の社名欄は確認できず。電話は藤沢六会本店。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社コバックインターナショナル（コバックカーズ）",
+  "count": 6,
+  "stores": [
+   {
+    "name": "コバックカーズ岐阜店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "コバックカーズ岐南店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "コバックカーズ軽アウトレット多治見",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "コバックカーズ春日井東野店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "コバックカーズ春日井坂下店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "コバックカーズ四日市インター店",
+    "pref": "三重県"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/0208435",
+   "https://car.motor-fan.jp/ucar/shop/0203980",
+   "https://car.motor-fan.jp/ucar/shop/0208367"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。中古車情報サイト・求人情報の店舗名から6店舗。店舗紹介に「グループ総在庫1500台」「系列店は愛知・岐阜・三重・静岡」とあり静岡の店舗名は不明。運営会社名は求人情報の「株式会社コバックインターナショナル コバックカーズ岐南店」の表記による（全店が同社運営かは未確認）。車検のコバック（FC本部グループ）との関係も未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "鈴木自工株式会社（軽ひろば・くるま広場）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "くるま広場 船橋習志野店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "軽ひろば 佐倉王子台店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "軽ひろば 千葉貝塚店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "軽ひろば 千葉おゆみ店",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "",
+  "tel": "047-406-3259",
+  "url": "https://kei-hiroba.car-yasui.jp/",
+  "sources": [
+   "https://kei-hiroba.car-yasui.jp/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "軽自動車（新車・未使用車・中古車）専門店。サイトに「運営：鈴木自工株式会社」。店舗名はサイトのタイトル・本文から。電話はサイト記載のもの（どの店舗かは未確認）。新車の扱いが中心の可能性あり。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ライズオート（RiSE AUTO）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "RiSE 四日市北店",
+    "pref": "三重県"
+   },
+   {
+    "name": "RiSE 四日市南店",
+    "pref": "三重県"
+   },
+   {
+    "name": "ガリバーアウトレット 四日市緑地店",
+    "pref": "三重県"
+   },
+   {
+    "name": "ガリバー 稲沢店",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "三重県四日市市日永東3-13-5",
+  "tel": "059-329-5553",
+  "rep": "松村 賢治",
+  "url": "https://riseauto.jp/",
+  "dept": "買取あり（ガリバー加盟店を運営）",
+  "sources": [
+   "https://riseauto.jp/company/",
+   "https://riseauto.jp/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "リョウシンホールディングスグループ。自社ブランドRiSE 2店舗＋ガリバー加盟2店舗。会社概要に「三重県に3店舗と愛知県に1店舗」。"
  }
 ]

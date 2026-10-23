@@ -1,0 +1,212 @@
+[
+ {
+  "name": "オートギャラリーグループ",
+  "url": "https://www.autogallery.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.autogallery.co.jp/",
+    "https://www.autogallery.co.jp/shopinfo",
+    "https://www.autogallery.co.jp/shopinfo/shop-osaka",
+    "https://www.autogallery.co.jp/shopinfo/shop-tokyo",
+    "https://www.autogallery.co.jp/shopinfo/shop-fukuoka"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.autogallery.co.jp/latest-information",
+    "https://www.autogallery.co.jp/latest-information/",
+    "https://www.autogallery.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.autogallery.co.jp%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.instagram.com/agtokyo/"
+   ],
+   "dept": [
+    "業販・並行輸入",
+    "買取査定のお申し込みはこちら"
+   ]
+  }
+ },
+ {
+  "name": "株式会社OS（OSINC.）",
+  "url": "https://import.os-inc.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://import.os-inc.jp/",
+    "https://import.os-inc.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "072-289-8070",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://import.os-inc.jp/blog/category/information/",
+    "https://import.os-inc.jp/blog/information/2669/",
+    "https://import.os-inc.jp/blog/information/2673/"
+   ],
+   "sns": [
+    "https://www.instagram.com/osinc.osaka",
+    "https://www.youtube.com/channel/UCow1Lwo5D5VbLsjQNGF3seQ/featured"
+   ],
+   "dept": [
+    "買取",
+    "買取・下取り"
+   ]
+  }
+ },
+ {
+  "name": "ロペライオ",
+  "url": "https://loperaio.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://loperaio.co.jp/",
+    "https://loperaio.co.jp/shop_index.html",
+    "https://loperaio.co.jp/company_index.html",
+    "https://loperaio.co.jp/shop_acquisto.html",
+    "https://loperaio.co.jp/shop_nerima.html"
+   ],
+   "est": {
+    "postal": 9,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "03-3997-3000",
+   "fax": "03-3997-3030",
+   "mail": [],
+   "form": [
+    "https://loperaio.co.jp/contact.php",
+    "https://loperaio.co.jp/inquiry_form.php?car_id[]=29428",
+    "https://loperaio.co.jp/inquiry_form.php?car_id[]=29429"
+   ],
+   "sns": [
+    "https://www.facebook.com/loperaio.co.jp",
+    "https://www.youtube.com/channel/UC9w_N6wxI3H7Uy3KJh-DUEg"
+   ],
+   "dept": [
+    "【受賞報告】販売・買取 合計5部門でNo.1を獲得",
+    "【業販窓口情報】",
+    "【輸入車の高価買取/査定】",
+    "お車の高価買取/査定",
+    "ロペライオ買取センター"
+   ]
+  }
+ },
+ {
+  "name": "ウィード（三木）",
+  "url": "https://weed10.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://weed10.com/",
+    "403 https://weed10.com/"
+   ]
+  }
+ },
+ {
+  "name": "シックスセンス（ランクルパーク・ジムニーパーク）",
+  "url": "https://www.lcpark.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.lcpark.jp/",
+    "https://www.lcpark.jp/company.html",
+    "https://www.lcpark.jp/about.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社 シックスセンス",
+   "rep": "筧 恭啓",
+   "addr": "ショールーム",
+   "employees": "",
+   "tel": "072-330-0007",
+   "fax": "072-330-0080",
+   "mail": [],
+   "form": [
+    "https://www.lcpark.jp/cathand/otoiawase.php?serial=10889"
+   ],
+   "sns": [
+    "https://twitter.com/",
+    "https://twitter.com/share",
+    "https://www.facebook.com/%E3%83%97%E3%83%A9%E3%83%89%E3%83%91%E3%83%BC%E3%82%AF-110752204902800/",
+    "https://www.facebook.com/pradopark/?ref=embed_page",
+    "https://www.instagram.com/lcpark309/",
+    "https://www.youtube.com/user/170MOTORING"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "MANABOON",
+  "url": "https://manaboon.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://manaboon.co.jp/",
+    "https://manaboon.co.jp/access"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "MANABOON株式会社",
+   "rep": "",
+   "addr": "〒252-0325",
+   "employees": "",
+   "tel": "042-767-3331",
+   "fax": "042-767-3332",
+   "mail": [
+    "contact@manaboon.co.jp"
+   ],
+   "form": [
+    "https://manaboon.co.jp/contact",
+    "https://manaboon.co.jp/purchase/onlineform",
+    "https://manaboon.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmanaboon.co.jp%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://twitter.com/MANABOON_SNS?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3AMANABOON_SNS&amp;ref_url=http%3A%2F%2Fartflair6.xsrv.jp%2Fyd14%2Fmanaboon%2F",
+    "https://www.facebook.com/manaboongtr/",
+    "https://www.instagram.com/manaboongtr/",
+    "https://www.youtube.com/channel/UCdRvnscQaOFpGiubNmyzQFg?view_as=subscriber"
+   ],
+   "dept": [
+    "Expensive P urchase 買取・査定強化車種",
+    "スポーツカーの買取・査定・中古車販売のMANABOON（マナブーン）",
+    "買取フォーム",
+    "買取・査定"
+   ]
+  }
+ }
+]

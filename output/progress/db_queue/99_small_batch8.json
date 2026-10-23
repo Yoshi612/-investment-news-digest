@@ -1,0 +1,145 @@
+[
+ {
+  "name": "GR8STYLE（株式会社GR8）",
+  "url": "https://www.gr8style.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.gr8style.co.jp/",
+    "https://www.gr8style.co.jp/about/",
+    "https://www.gr8style.co.jp/stock/cars?store_id=01",
+    "https://www.gr8style.co.jp/stock/cars?store_id=02",
+    "https://www.gr8style.co.jp/stock/cars?store_id=03"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 20,
+    "link_names": [
+     "スタッフ紹介-名古屋大府店",
+     "スタッフ紹介-名古屋港店",
+     "スタッフ紹介-岡崎店",
+     "スタッフ紹介-春日井店",
+     "スタッフ紹介名古屋大府店",
+     "スタッフ紹介名古屋港店",
+     "スタッフ紹介岡崎店",
+     "スタッフ紹介春日井店",
+     "名古屋大府店",
+     "名古屋港店",
+     "岡崎店",
+     "店舗情報-名古屋大府店",
+     "店舗情報-名古屋港店",
+     "店舗情報-岡崎店",
+     "店舗情報-春日井店",
+     "店舗情報名古屋大府店",
+     "店舗情報名古屋港店",
+     "店舗情報岡崎店",
+     "店舗情報春日井店",
+     "春日井店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.gr8style.co.jp/contact/",
+    "https://www.gr8style.co.jp/stock/inquiry?vehicle_id=019d074c-1172-7052-8cf1-f3aadff1c1ab",
+    "https://www.gr8style.co.jp/stock/inquiry?vehicle_id=019d074c-4949-70a9-8240-a0324be1919b"
+   ],
+   "sns": [
+    "https://www.facebook.com/gr8style/",
+    "https://www.instagram.com/gr8style_japan/",
+    "https://www.instagram.com/reel/DeTxCKiE0TY/",
+    "https://www.instagram.com/reel/DeWV1K2k_XJ/",
+    "https://www.instagram.com/reel/DeY6qukE08-/",
+    "https://www.instagram.com/reel/DeeEL_xI3-y/",
+    "https://www.instagram.com/reel/DegpDZTExLJ/",
+    "https://www.instagram.com/reel/DelymRlE307/"
+   ],
+   "dept": [
+    "高価買取"
+   ]
+  }
+ },
+ {
+  "name": "T-SPACE（春日部）",
+  "url": "https://cardealer-space.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://cardealer-space.com/",
+    "https://cardealer-space.com/shop01/",
+    "https://cardealer-space.com/shop02/",
+    "https://cardealer-space.com/shop03/",
+    "https://cardealer-space.com/shop05/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "埼玉県春日部市栄町1-316",
+   "employees": "",
+   "tel": "048-796-0202",
+   "fax": "048-796-0201",
+   "mail": [],
+   "form": [
+    "https://cardealer-space.com/category/information/",
+    "https://cardealer-space.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcardealer-space.com%2Fshop01%2F&#038;format=xml",
+    "https://cardealer-space.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcardealer-space.com%2Fshop02%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.instagram.com/space.zero.kasukabe/",
+    "https://www.instagram.com/space_carrental",
+    "https://www.instagram.com/space_jimny?igsh=MWFzOWZwNGV2aDAxbw%3D%3D&utm_source=qr",
+    "https://www.instagram.com/spaceone661?igsh=MWtxYjJ5aXZ1NXNvbQ%3D%3D&utm_source=qr",
+    "https://www.instagram.com/spacese6?igsh=Nzh6OHI2MW81YWY2&utm_source=qr"
+   ],
+   "dept": [
+    "当店では、ただ車両を仕入れてそのまま販売してるだけの普通の販売店ではありません。",
+    "買取専門店",
+    "買取査定"
+   ]
+  }
+ },
+ {
+  "name": "UJグループ（ウシトラ）",
+  "url": "https://www.ushitruck.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.ushitruck.com/",
+    "https://www.ushitruck.com/truck/corporate"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "代表取締役 牛島 豊晴",
+   "addr": "〒834-0121",
+   "employees": "スタッフ106名",
+   "tel": "0943-24-1126",
+   "fax": "0943-24-4812",
+   "mail": [],
+   "form": [],
+   "sns": [],
+   "dept": [
+    "その中で培った高価買取や適正売価、品質管理のノウハウは、多くのお客さまにお喜びいただける水準であると自負しています。",
+    "ウシトラは創業以来、トラックやバス専門の中古買取販売企業として長らくお客さまにご利用いただいてきました。",
+    "中古トラック販売・買取の「ウシトラ」が お客様から愛される 7つの理由とは",
+    "中古トラック販売・買取｜UJグループ（ウシトラ）",
+    "中古トラック高価買取"
+   ]
+  }
+ }
+]

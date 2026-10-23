@@ -1,0 +1,174 @@
+[
+ {
+  "name": "奇跡査定センター（神奈川）",
+  "url": "https://www.satei.net/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.satei.net/",
+    "https://www.satei.net/shoplist/fujisawa_hon/",
+    "https://www.satei.net/shoplist/fujisawabashi/",
+    "https://www.satei.net/shoplist/tsuzuki/",
+    "https://www.satei.net/shoplist/sagamihara/"
+   ],
+   "est": {
+    "postal": 4,
+    "phrase": 0,
+    "links": 4,
+    "link_names": [
+     "▶横浜都筑店",
+     "▶相模原16号由野台店",
+     "▶藤沢六会本店",
+     "▶藤沢橋店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "一同、皆様のカーライフがより充実するよう精一杯尽力させていただきます。",
+   "tel": "0466-80-3443",
+   "fax": "0466-80-3445",
+   "mail": [],
+   "form": [
+    "https://www.satei.net/contact/",
+    "https://www.satei.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.satei.net%2F&#038;format=xml",
+    "https://www.satei.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.satei.net%2Fshoplist%2Ffujisawa_hon%2F&#038;format=xml"
+   ],
+   "sns": [],
+   "dept": [
+    "★奇跡査定センター★神奈川県で昭和60年創業 10万台の実績 お車買取専門店",
+    "【 お車の買取りにおける他店との大きな３つの違いを１分動画でご紹介 】",
+    "主な買取り実績一覧",
+    "他の買取店との違いをもっと見る >>",
+    "国産車、輸入車問わず多くのお車の買取をしております。"
+   ]
+  }
+ },
+ {
+  "name": "イソベモータース（群馬）",
+  "url": "https://inext.isobemotors.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://inext.isobemotors.com/",
+    "https://inext.isobemotors.com/about/",
+    "https://inext.isobemotors.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社イソベ",
+   "rep": "挨拶",
+   "addr": "本社：群馬県高崎市矢島町757-6",
+   "employees": "58名",
+   "tel": "027-353-4611",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://inext.isobemotors.com/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/RotasuZhisuteshon/",
+    "https://www.instagram.com/isobe_inext/"
+   ],
+   "dept": [
+    "レッカーサービス・リユース事業（買取大吉）",
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです)",
+    "新規事業としてリユース部門を開始。買取大吉コープぐんまみさと店オープン。"
+   ]
+  }
+ },
+ {
+  "name": "ソーサン（埼玉）",
+  "url": "https://sousan-amj.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://sousan-amj.com/",
+    "cached-error"
+   ]
+  }
+ },
+ {
+  "name": "アクティブコレクション（横浜）",
+  "url": "https://activecollection.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://activecollection.co.jp/",
+    "https://activecollection.co.jp/about/",
+    "https://activecollection.co.jp/company/",
+    "https://activecollection.co.jp/img/top/corporate_philosophy.pdf?20240422"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "代表取締役社長 長瀬 隆史",
+   "addr": "〒224-0041",
+   "employees": "70名",
+   "tel": "0120-86-3440",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://activecollection.co.jp/contact/"
+   ],
+   "sns": [
+    "https://twitter.com/activecolle_c",
+    "https://www.facebook.com/activecollection",
+    "https://www.facebook.com/activecollection/",
+    "https://www.instagram.com/active_collection/",
+    "https://www.tiktok.com/@active_collection?refer=creator_embed"
+   ],
+   "dept": [
+    "大量仕入れ＆薄利多売"
+   ]
+  }
+ },
+ {
+  "name": "横浜 川崎 大和の未使用車店",
+  "url": "https://kuruma-hanbai-yokohama.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://kuruma-hanbai-yokohama.com/",
+    "https://kuruma-hanbai-yokohama.com/shopinfo.html"
+   ],
+   "est": {
+    "postal": 2,
+    "phrase": 0,
+    "links": 2,
+    "link_names": [
+     "大和店",
+     "横浜本店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "〒224-0041",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://kuruma-hanbai-yokohama.com/#popup_contact",
+    "https://kuruma-hanbai-yokohama.com/yoyaku/#mitsumori_form"
+   ],
+   "sns": [],
+   "dept": [
+    "6 --> 査定・買取も当社で！",
+    "② 人気車種に限定し、大量に仕入れることによって、一台当たりの仕入れ値を抑えることができている",
+    "愛車の買取だけをご希望の場合、買取が成約してから翌日のお振込みが可能です！",
+    "査定・買取も当社で！"
+   ]
+  }
+ }
+]
