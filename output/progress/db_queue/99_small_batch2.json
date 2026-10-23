@@ -1,0 +1,126 @@
+[
+ {
+  "name": "東部オートグループ（群馬）",
+  "url": "https://www.tobu-auto.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.tobu-auto.com/",
+    "https://www.tobu-auto.com/about"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 6,
+    "link_names": [
+     "Rabbit 高前バイパス店",
+     "Rabbit 高崎小鳥店",
+     "ラビット高崎小鳥店",
+     "前橋店",
+     "小鳥店",
+     "高前バイパス店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.tobu-auto.com/contact"
+   ],
+   "sns": [
+    "https://www.facebook.com/tobuauto/",
+    "https://www.instagram.com/tobuauto/",
+    "https://www.tiktok.com/@tobuauto",
+    "https://x.com/tobuautoICT"
+   ],
+   "dept": [
+    "◆ 事 業  内 容 カーライフのトータルサポート自動車販売、買取／車検・点検・整備／鈑金・塗装／保険",
+    "令和 ７年 ３月 「株式会社Links」買取事業ラビットを継承し合併",
+    "平成１０年１２月 車買取専門 ラビット 小鳥店開店",
+    "平成１１年 ４月 車買取専門 ラビット 高前バイパス店開店",
+    "平成１３年 ３月 車買取専門 ラビット 桐生広沢店開店"
+   ]
+  }
+ },
+ {
+  "name": "KiND OUTLET（千葉）",
+  "url": "https://kindoutlet.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://kindoutlet.jp/",
+    "https://kindoutlet.jp/shop",
+    "https://kindoutlet.jp/carlist?searchkey=shop&value=2",
+    "https://kindoutlet.jp/carlist?searchkey=shop&value=3",
+    "https://kindoutlet.jp/carlist?searchkey=shop&value=4"
+   ],
+   "est": {
+    "postal": 4,
+    "phrase": 4,
+    "links": 4,
+    "link_names": [
+     "千葉 蘇我インター店",
+     "千葉コンパクトハイブリッド店",
+     "山武成東店",
+     "市原店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "の対策も徹底しており万全の態勢で運営しております。",
+   "tel": "0436-55-9169",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://kindoutlet.jp/contact",
+    "https://kindoutlet.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkindoutlet.jp%2F&#038;format=xml",
+    "https://kindoutlet.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkindoutlet.jp%2Fcarlist%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.instagram.com/kindoutlet_car/",
+    "https://www.youtube.com/@user-tp6dw5cd1i"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "太陽自動車（群馬）再確認",
+  "url": "https://taiyo-ota.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://taiyo-ota.com/",
+    "https://taiyo-ota.com/access/",
+    "https://taiyo-ota.com/shop/"
+   ],
+   "est": {
+    "postal": 2,
+    "phrase": 0,
+    "links": 2,
+    "link_names": [
+     "前橋店",
+     "太田店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://taiyo-ota.com/contact/",
+    "https://taiyo-ota.com/contact/?id=visit",
+    "https://taiyo-ota.com/information/"
+   ],
+   "sns": [],
+   "dept": []
+  }
+ }
+]

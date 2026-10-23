@@ -1,0 +1,223 @@
+[
+ {
+  "name": "コンチネントグループ（岡山）",
+  "url": "https://conti-nent.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://conti-nent.com/",
+    "https://conti-nent.com/shops/",
+    "https://conti-nent.com/company/",
+    "https://conti-nent.com/stock/"
+   ],
+   "est": {
+    "postal": 2,
+    "phrase": 3,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社コンチネント",
+   "rep": "平松 裕",
+   "addr": "内の鈑金塗装部門で、キズ・ヘコミ修理にも対応します。",
+   "employees": "",
+   "tel": "086-281-5544",
+   "fax": "086-281-1944",
+   "mail": [],
+   "form": [
+    "https://conti-nent.com/contact/"
+   ],
+   "sns": [
+    "https://www.instagram.com/carseven.kurashikinakashima/",
+    "https://www.instagram.com/carseven.okayamasenoo/",
+    "https://www.instagram.com/nyc.continent/"
+   ],
+   "dept": [
+    "中古車販売・買取・車検・整備受付、鈑金塗装受付、自動車保険",
+    "在庫を検索する 買取について",
+    "大切に乗られたお車を安心丁寧に買取し、次のお客様へ繋げます！",
+    "岡山・倉敷の中古車販売・買取・車検・鈑金塗装｜CONTINENT",
+    "新車・中古車販売、車買取、車検・整備、鈑金塗装、自動車保険、ネット通販"
+   ]
+  }
+ },
+ {
+  "name": "ミウラオートサービス（広島）",
+  "url": "http://www.miura-auto.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "http://www.miura-auto.com/",
+    "403 http://www.miura-auto.com/"
+   ]
+  }
+ },
+ {
+  "name": "軽自動車専門店サンクス（宮崎）",
+  "url": "https://thanks398.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://thanks398.com/",
+    "https://thanks398.com/about/",
+    "https://thanks398.com/company/",
+    "https://thanks398.com/access/"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社日の丸タクシー",
+   "rep": "あいさつ",
+   "addr": "",
+   "employees": "",
+   "tel": "0985-67-5555",
+   "fax": "0985-67-5556",
+   "mail": [],
+   "form": [
+    "https://thanks398.com/contact/"
+   ],
+   "sns": [
+    "https://lite.tiktok.com/t/ZS9YSh1uhj2jU-7j0O6/",
+    "https://twitter.com/Thanks38326061",
+    "https://www.facebook.com/thanks398/",
+    "https://www.instagram.com/kei398thanks/"
+   ],
+   "dept": [
+    "プロの仕入れと鑑定！ 全車無事故車！",
+    "仕入れた車は 徹底的にキレイにします",
+    "専門スタッフが厳選した軽自動車を全国から仕入れをしています！",
+    "買取強化中"
+   ]
+  }
+ },
+ {
+  "name": "NAGAIロングオート（新潟）",
+  "url": "https://www.nagailong.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.nagailong.jp/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "NAGAIロングオート",
+   "rep": "",
+   "addr": "",
+   "employees": "20人",
+   "tel": "0254-27-3358",
+   "fax": "0254-27-4522",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/nagailongauto/"
+   ],
+   "dept": [
+    "そして高価買取！"
+   ]
+  }
+ },
+ {
+  "name": "新潟ロビンソン",
+  "url": "https://www.niigata-robinson.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.niigata-robinson.com/",
+    "https://www.niigata-robinson.com/access/",
+    "https://www.niigata-robinson.com/group/",
+    "https://www.niigata-robinson.com/group/ban.html"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "あいさつ",
+   "addr": "〒956-0865",
+   "employees": "8名（グループ総勢38名）",
+   "tel": "0250-24-4455",
+   "fax": "0250-25-2883",
+   "mail": [],
+   "form": [
+    "https://www.niigata-robinson.com/contact/",
+    "https://www.niigata-robinson.com/contact/#mailform",
+    "https://www.niigata-robinson.com/contact/#privacy"
+   ],
+   "sns": [
+    "https://ja-jp.facebook.com/niigata.robinson/",
+    "https://www.facebook.com/niigata.robinson/",
+    "https://www.instagram.com/niigata_robinson/"
+   ],
+   "dept": [
+    "アクセス | 新潟ロビンソン - 新車と中古車販売、買取、車検のことならお任せ｜新潟市",
+    "ロビンソン 鈑金塗装部 | 新潟ロビンソン - 新車と中古車販売、買取、車検のことならお任せ｜新潟市",
+    "会社概要 | 新潟ロビンソン - 新車と中古車販売、買取、車検のことならお任せ｜新潟市",
+    "新潟ロビンソン - 新車と中古車販売、買取、車検のことならお任せ｜新潟市",
+    "買取10"
+   ]
+  }
+ },
+ {
+  "name": "GJcar's（広島）",
+  "url": "https://www.gj-cars.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.gj-cars.com/",
+    "https://www.gj-cars.com/company/",
+    "https://www.gj-cars.com/stockdetail?shopNo=828-1&carNo=598",
+    "https://www.gj-cars.com/stockdetail?shopNo=828-1&carNo=597",
+    "https://www.gj-cars.com/stockdetail?shopNo=828-2&carNo=185"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社アイドゥーパートナー",
+   "rep": "新開 教将",
+   "addr": "店舗",
+   "employees": "",
+   "tel": "082-555-8133",
+   "fax": "082-555-8134",
+   "mail": [],
+   "form": [
+    "https://www.gj-cars.com/contact/",
+    "https://www.gj-cars.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gj-cars.com%2Fcompany&#038;format=xml",
+    "https://www.gj-cars.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gj-cars.com%2Fstockdetail&#038;format=xml"
+   ],
+   "sns": [
+    "http://twitter.com/share",
+    "https://www.instagram.com/gjcars_hiroshima/",
+    "https://www.instagram.com/p/DdTwKWbT2OZ/",
+    "https://www.instagram.com/p/DdVxgvFRtY5/",
+    "https://www.instagram.com/p/DdnGlG4TDdS/",
+    "https://www.instagram.com/p/DeGVm7oTuJq/",
+    "https://www.instagram.com/p/DeHRK32TE76/",
+    "https://www.instagram.com/p/DeLJFcQTcAe/"
+   ],
+   "dept": [
+    "GJcar’s ジージェイカーズ 高級車・希少車の中古車販売買取整備 【広島】",
+    "Trade in 買取査定",
+    "会社紹介 | GJcar’s ジージェイカーズ 高級車・希少車の中古車販売買取整備 【広島】",
+    "買取フォームへ",
+    "買取・下取りサービス"
+   ]
+  }
+ },
+ {
+  "name": "映クラ株式会社（ラビットFC岡山）",
+  "url": "",
+  "status": "no_url",
+  "evidence": {}
+ }
+]

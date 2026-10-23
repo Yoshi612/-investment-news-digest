@@ -4186,35 +4186,6 @@
   "memo": "車買取専門店KOYAMA。店舗数は公式サイトの店舗一覧12件。LINE公式アカウントあり。"
  },
  {
-  "status": "under5",
-  "name": "カーライフステーション（埼玉）",
-  "count": 3,
-  "stores": [
-   {
-    "name": "上尾店",
-    "pref": "埼玉県"
-   },
-   {
-    "name": "久喜店",
-    "pref": "埼玉県"
-   },
-   {
-    "name": "岩槻インター店",
-    "pref": "埼玉県"
-   }
-  ],
-  "hq": "埼玉県さいたま市見沼区宮ケ谷塔91-1",
-  "tel": "0120-344-713",
-  "fax": "048-681-5088",
-  "url": "https://344860.net/",
-  "employees": "158人（2019年度）",
-  "sources": [
-   "https://344860.net/"
-  ],
-  "confidence": "中：店舗名からの推定",
-  "memo": "軽・普通車の未使用車専門店。従業員158人の規模から、ほかの業態の店舗がある可能性。運営会社名未確認。"
- },
- {
   "status": "list",
   "name": "株式会社オートベル",
   "count": 14,
@@ -4453,5 +4424,664 @@
   "confidence": "高：運営会社名で確認",
   "memo": "車買取専門店ジーアフター（MEGA店など）。店舗数は公式サイトの店舗一覧9件。都道府県は店舗名から判断。",
   "count": 9
+ },
+ {
+  "status": "list",
+  "name": "良質車専門店ネクスト（運営会社未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "会津若松店",
+    "pref": "福島県"
+   },
+   {
+    "name": "いわき店",
+    "pref": "福島県"
+   },
+   {
+    "name": "白河店",
+    "pref": "福島県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（店舗の在庫掲載）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "届出済未使用車も扱う中古車店。3市の店舗は検索結果の在庫掲載から確認。運営会社名は未確認。"
+ },
+ {
+  "status": "list",
+  "name": "プチモ軽自動車専門店（株式会社ヒューベストオートの可能性）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "佐賀店",
+    "pref": "佐賀県"
+   },
+   {
+    "name": "唐津店",
+    "pref": "佐賀県"
+   },
+   {
+    "name": "佐世保店",
+    "pref": "佐賀県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（求人・店舗掲載）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "佐世保店は長崎県（2025年12月開店）。運営会社は佐世保店の求人の募集元による推定。"
+ },
+ {
+  "status": "list",
+  "name": "軽ステ（運営会社未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "けんぐん東店",
+    "pref": "熊本県"
+   },
+   {
+    "name": "うと店",
+    "pref": "熊本県"
+   },
+   {
+    "name": "しみず店",
+    "pref": "熊本県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（店舗掲載）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "熊本県最大級の軽届出済未使用車専門店（総在庫1,300台）とのこと。運営会社未確認。"
+ },
+ {
+  "status": "list",
+  "name": "ニシオ自販",
+  "count": 4,
+  "stores": [
+   {
+    "name": "静岡県西部の4店舗",
+    "pref": "静岡県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "「静岡県西部に4店舗展開」との掲載による。店舗名・法人格は未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社クイックモーション（カラーズ）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "カラーズKawagoe（川越）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "ほか2店舗",
+    "pref": "埼玉県"
+   }
+  ],
+  "sources": [
+   "https://ucar.carview.yahoo.co.jp/shop/saitama/214637003/（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "4WD・SUV専門店。「埼玉県を中心に3店舗」との掲載による。"
+ },
+ {
+  "status": "list",
+  "name": "ミスターシャーマン（運営会社未確認）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "長野県内4店舗",
+    "pref": "長野県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（比較記事）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "車買取。比較記事の「県内4店舗」による。"
+ },
+ {
+  "status": "list",
+  "name": "買取マウス（運営会社未確認）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "新潟市内4店舗",
+    "pref": "新潟県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（比較記事）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "車買取。比較記事の「新潟市内に4店舗」による。"
+ },
+ {
+  "status": "list",
+  "name": "ティーバイティーガレージ（TxTGARAGE、運営会社未確認）",
+  "count": 9,
+  "stores": [
+   {
+    "name": "北海道内8店舗",
+    "pref": "北海道"
+   },
+   {
+    "name": "奥州店",
+    "pref": "北海道"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（比較記事・求人）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "比較記事の「道内8店舗」と、岩手県奥州市の店舗の求人による（奥州店は岩手県）。公式の店舗一覧・運営会社は未確認。"
+ },
+ {
+  "status": "list",
+  "name": "ZERO MOTORS（運営会社未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "埼玉県内3店舗",
+    "pref": "埼玉県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（店舗掲載）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "軽自動車・コンパクトカー専門店。「埼玉県3店舗・総在庫700台以上」との掲載による。"
+ },
+ {
+  "status": "list",
+  "name": "オニキス千葉（ONIX加盟、運営会社未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "八千代店ほか千葉県内3店舗",
+    "pref": "千葉県"
+   }
+  ],
+  "sources": [
+   "https://unusedcar.onix-ns.com/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "未使用車専門店。「千葉県で3店舗、総在庫1000台以上」との掲載による。"
+ },
+ {
+  "status": "list",
+  "name": "トーワオート（運営会社未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "宇都宮西店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "宇都宮東店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "宇都宮南店",
+    "pref": "栃木県"
+   }
+  ],
+  "sources": [
+   "検索結果の抜粋（店舗掲載）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "宇都宮市内の3店舗。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社クレタ（北海道軽パーク）",
+  "stores": [
+   {
+    "name": "札幌店",
+    "pref": "北海道"
+   },
+   {
+    "name": "札幌東店",
+    "pref": "北海道"
+   },
+   {
+    "name": "北広島店",
+    "pref": "北海道"
+   },
+   {
+    "name": "苫小牧店",
+    "pref": "北海道"
+   }
+  ],
+  "url": "https://kereta.jp/",
+  "form": "https://kereta.jp/contact/",
+  "sns": [
+   "https://www.instagram.com/hokkaido_k_park/",
+   "https://x.com/hokkaido_k_park",
+   "https://www.facebook.com/hokkaidokeipark/",
+   "https://youtube.com/channel/UC2xk0xmuuww2ocTXFsNghcw",
+   "https://www.tiktok.com/@hokkaido_k_park"
+  ],
+  "sources": [
+   "https://kereta.jp/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "軽自動車専門店「北海道軽パーク」。店舗は公式サイトの4店舗。運営会社名（株式会社クレタ、本社苫小牧市）は検索結果の抜粋による。",
+  "count": 4
+ },
+ {
+  "status": "list",
+  "name": "大久自動車販売株式会社",
+  "stores": [
+   {
+    "name": "ダイキュー飯坂店",
+    "pref": "福島県"
+   },
+   {
+    "name": "ダイキュー郡山店",
+    "pref": "福島県"
+   },
+   {
+    "name": "ダイキュー白河中央インター店",
+    "pref": "福島県"
+   },
+   {
+    "name": "ダイキューいわき店",
+    "pref": "福島県"
+   },
+   {
+    "name": "ダイキュー会津若松店",
+    "pref": "福島県"
+   }
+  ],
+  "hq": "福島県福島市本内字北古舘9",
+  "tel": "024-542-1221",
+  "url": "https://www.daiq-car.jp/",
+  "form": "https://www.daiq-car.jp/contact",
+  "sns": [
+   "https://twitter.com/DaiQ_motors",
+   "https://www.facebook.com/daiq.motors/",
+   "https://www.instagram.com/daiq_motors.official/"
+  ],
+  "sources": [
+   "https://www.daiq-car.jp/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "軽自動車専門店ダイキュー。運営会社名は公式サイトの古物営業法に基づく表示による。店舗は公式サイトの5店舗。",
+  "count": 5
+ },
+ {
+  "status": "list",
+  "name": "株式会社東部オート（東部オートグループ）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "高前バイパス店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "前橋店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "小鳥店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "ラビット高前バイパス店",
+    "pref": "群馬県"
+   },
+   {
+    "name": "ラビット高崎小鳥店",
+    "pref": "群馬県"
+   }
+  ],
+  "hq": "群馬県高崎市小八木町1538",
+  "rep": "田口 治",
+  "url": "https://www.tobu-auto.com/",
+  "employees": "81名",
+  "dept": "買取店（ラビット加盟2店舗、買取事業部をLinksより継承）",
+  "sources": [
+   "https://www.tobu-auto.com/about",
+   "https://www.tobu-auto.com/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "会社概要の事業所数は10店舗（整備・鈑金拠点等を含むとみられる）。中古車販売3店舗＋ラビット2店舗で計上。グループにBMW正規販売のモトーレン群馬・栃木（別法人）あり。年商59億円（会社概要）。"
+ },
+ {
+  "status": "under5",
+  "name": "KiND OUTLET（カインドアウトレット）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "市原店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "千葉蘇我インター軽専門店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "山武成東店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "千葉コンパクトハイブリッド店",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "",
+  "tel": "0436-55-9169",
+  "url": "https://kindoutlet.jp/",
+  "sources": [
+   "https://kindoutlet.jp/shop",
+   "https://kindoutlet.jp/privacypolicy"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "千葉県の軽自動車専門店。サイトのプライバシーポリシー記載はNEXTGATE MOTOR SOLUTIONS株式会社（千葉市美浜区中瀬2-6-1 WBGマリブウエスト30F）だが、運営会社かどうかは未確認。電話は市原店。"
+ },
+ {
+  "status": "under5",
+  "name": "ムラトミ",
+  "count": 4,
+  "stores": [
+   {
+    "name": "相模原本店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "相模原（2店舗目）",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "海老名店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "伊勢原店",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "",
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/0530132"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。中古車情報サイトの店舗紹介に「神奈川県内4店舗（相模原2店、海老名、伊勢原）のロープライスカー専門店」とある。相模原本店は相模原市南区新磯野5-43。運営法人名は未確認。2店舗目の相模原の店名は不明。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社オートスペースアクセル（ASAグループ）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "（有）オートフィールドストリーク",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "",
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/0510254",
+   "https://biz-maps.com/s/cities/142123/m-inds/378"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。中古車情報サイトに「4店舗合計400台」、企業情報サイトに「神奈川県内に4店舗」とある。判明している店舗はオートフィールドストリーク（相模原市中央区東淵野辺5-2-20）のみ。他の3店舗名は不明。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社コンチネント",
+  "count": 3,
+  "stores": [
+   {
+    "name": "岡山本店",
+    "pref": "岡山県"
+   },
+   {
+    "name": "カーセブン倉敷中島店",
+    "pref": "岡山県"
+   },
+   {
+    "name": "カーセブン岡山妹尾店",
+    "pref": "岡山県"
+   }
+  ],
+  "hq": "岡山県岡山市南区妹尾4130-2",
+  "tel": "086-281-5544",
+  "rep": "平松 裕",
+  "url": "https://conti-nent.com/",
+  "dept": "買取（カーセブン加盟店）",
+  "sources": [
+   "https://conti-nent.com/company/",
+   "https://conti-nent.com/shops/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "会社概要に「3店舗展開 岡山本店・倉敷中島店・岡山妹尾店」。ほかに鈑金塗装工場あり。カーセブンFC加盟。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社メディアトラスト（クルオク）",
+  "count": 6,
+  "stores": [
+   {
+    "name": "クルオク 名古屋インター店（本社）",
+    "pref": "愛知県"
+   },
+   {
+    "name": "クルオク レスパ岡崎店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "クルオク 豊田吉原店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "クルオク カーマ21稲沢店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "クルオク カインズホーム半田店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "クルオク カインズモール蒲郡店",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "愛知県名古屋市名東区高針台1-110",
+  "tel": "0564-58-9609",
+  "rep": "鬼頭 宏彰",
+  "url": "https://www.9609.biz/",
+  "form": "https://www.9609.biz/contact/",
+  "email": "info@kuruma094.com",
+  "sns": [
+   "https://twitter.com/kuruma094",
+   "https://www.facebook.com/kuruoku/"
+  ],
+  "dept": "買取あり（事業内容に「国内の中古車の買取り」）",
+  "employees": "正社員4名・パート2名・役員4名（2025年12月現在）",
+  "sources": [
+   "https://www.9609.biz/company/",
+   "https://www.9609.biz/store/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "6拠点のうち5つはショッピングモール・ホームセンターの屋上や駐車場内の常設展示場。従業員は少人数。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社リバーサイド",
+  "count": 12,
+  "stores": [
+   {
+    "name": "本社ショールーム（海老名）",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "RS BASE湘南",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "RS ANEX湘南",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "湘南店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "フルタイム店（SUV・ワゴン専門）",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "RSユーロカーズ（レクサス・輸入車）",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "エルザ藤沢ショールーム",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "RS藤沢バイパス店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "エルザ246号店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "エルザ横浜店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "エルザ町田ショールーム／ANEX町田店",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "神奈川県海老名市門沢橋6-9-29",
+  "tel": "046-233-8000",
+  "fax": "046-237-3223",
+  "rep": "田島 明",
+  "url": "https://www.rs-riverside.com/",
+  "form": "https://www.rs-riverside.com/contact/",
+  "email": "rs101@rs-riverside.com",
+  "employees": "106名（2023年4月現在）",
+  "dept": "",
+  "sources": [
+   "https://www.rs-riverside.com/shop/",
+   "https://job.mynavi.jp/27/pc/search/corp81423/outline.html"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "会社の説明は「神奈川県下12店舗、総在庫850台」。事業所一覧で確認できた販売拠点は11（ほかに車検工場・鈑金・カーコンビニ倶楽部加盟2店舗）。売上76億円（2023年11月期）。公式サイトの会社概要ページは503で取得できず、本社電話・代表者・従業員数は就職情報サイトの会社概要から。FAXは店舗ページ記載。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社アクセス（カーライフステーション）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "岩槻インター店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "上尾店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "久喜店",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "埼玉県さいたま市見沼区宮ケ谷塔91-1",
+  "tel": "0120-344-713",
+  "fax": "048-681-5088",
+  "rep": "黒木 康男",
+  "url": "https://344860.net/",
+  "form": "https://344860.net/contact/",
+  "employees": "158人（2019年度）",
+  "sources": [
+   "https://344860.net/company/",
+   "https://344860.net/shop/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "届出済未使用車・新車専門店。電話はフリーダイヤル（会社概要記載のもの）。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社TSC",
+  "count": 5,
+  "stores": [
+   {
+    "name": "大久保駅前店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "千葉北インター店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "蘇我インター店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "買取直販 つくば店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "北本店",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "千葉県千葉市美浜区中瀬（番地は未確認）",
+  "url": "",
+  "dept": "買取直販（買取車両を展示販売）",
+  "sources": [
+   "https://job.rikunabi.com/job_descriptions/82de25d5815e8620/（検索結果の抜粋。現在は404）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。求人情報の勤務地一覧から5店舗。本社の美浜区中瀬・蘇我インター店の緑区古市場町が、KiND OUTLETのプライバシーポリシー記載会社（NEXTGATE MOTOR SOLUTIONS、美浜区中瀬）・同千葉コンパクトハイブリッド店（緑区古市場町）と近く、同一グループの可能性あり（未確認）。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ケーワン（5-STAR）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "5-STAR 越谷店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "5-STAR 春日部店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "5-STAR 三郷店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "5-STAR 土浦店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "5-STAR 阿見店",
+    "pref": "茨城県"
+   }
+  ],
+  "hq": "",
+  "url": "",
+  "sources": [
+   "https://employment.en-japan.com/comp-66249/",
+   "https://car.motor-fan.jp/ucar/shop/3000451",
+   "https://compalyze.co.jp/company/2030001068305"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "公式サイト未確認。求人情報に「埼玉県・茨城県の5-STAR各店舗（越谷・春日部・三郷・土浦）」、中古車情報サイトに阿見店。ランキング記事では「埼玉県中心に6店舗」。越谷店は越谷市大間野町3-146。"
  }
 ]

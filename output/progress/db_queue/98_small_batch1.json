@@ -1,0 +1,105 @@
+[
+ {
+  "name": "北海道軽パーク（クレタ）",
+  "url": "https://kereta.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://kereta.jp/",
+    "https://kereta.jp/shoplist/",
+    "https://kereta.jp/shoplist/sapporo-store/",
+    "https://kereta.jp/shoplist/sapporo-higashi-store/",
+    "https://kereta.jp/shoplist/kitahiroshima-store/"
+   ],
+   "est": {
+    "postal": 4,
+    "phrase": 0,
+    "links": 4,
+    "link_names": [
+     "北広島店",
+     "札幌店",
+     "札幌東店",
+     "苫小牧店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "〒 006-0005",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://kereta.jp/car_contact/",
+    "https://kereta.jp/contact/",
+    "https://kereta.jp/newcar_contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/hokkaidokeipark/",
+    "https://www.instagram.com/hokkaido_k_park/",
+    "https://www.tiktok.com/@hokkaido_k_park",
+    "https://x.com/hokkaido_k_park",
+    "https://youtube.com/channel/UC2xk0xmuuww2ocTXFsNghcw"
+   ],
+   "dept": [
+    "買取に関する相談",
+    "買取・下取査定のご相談"
+   ]
+  }
+ },
+ {
+  "name": "軽自動車専門店ダイキュー",
+  "url": "https://www.daiq-car.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.daiq-car.jp/",
+    "https://www.daiq-car.jp/shop/",
+    "https://www.daiq-car.jp/shop",
+    "https://www.daiq-car.jp/enquete/%ef%bd%93%e6%a7%98%e3%80%80%e3%83%af%e3%82%b4%e3%83%b3r/",
+    "https://www.daiq-car.jp/enquete/%ef%bd%8d%e6%a7%98%e3%80%80%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%90%e3%82%b9/"
+   ],
+   "est": {
+    "postal": 5,
+    "phrase": 0,
+    "links": 11,
+    "link_names": [
+     "いわき店",
+     "お近くの店舗",
+     "ダイキューいわき店",
+     "ダイキュー会津若松店",
+     "ダイキュー白河中央インター店",
+     "ダイキュー郡山店",
+     "ダイキュー飯坂店",
+     "会津若松店",
+     "白河中央インター店",
+     "郡山店",
+     "飯坂店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "福島県福島市本内字北古舘9",
+   "employees": "",
+   "tel": "024-542-1221",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.daiq-car.jp/contact",
+    "https://www.daiq-car.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.daiq-car.jp%2F&#038;format=xml",
+    "https://www.daiq-car.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.daiq-car.jp%2Fenquete%2F%25ef%25bd%258d%25e6%25a7%2598%25e3%2580%2580%25e3%2582%25ad%25e3%2583%25a3%25e3%2583%25b3%25e3%2583%2590%25e3%2582%25b9%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://twitter.com/DaiQ_motors",
+    "https://twitter.com/share",
+    "https://www.facebook.com/daiq.motors/",
+    "https://www.instagram.com/daiq_motors.official/",
+    "https://www.instagram.com/reel/Dd3R9KvO1Ya/",
+    "https://www.instagram.com/reel/Dd8boCKO5P3/",
+    "https://www.instagram.com/reel/DeBlOCsOJVo/",
+    "https://www.instagram.com/reel/DeL4Wujumwt/"
+   ],
+   "dept": []
+  }
+ }
+]

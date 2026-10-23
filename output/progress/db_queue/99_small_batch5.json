@@ -1,0 +1,133 @@
+[
+ {
+  "name": "くるまのマエバシ（群馬）",
+  "url": "https://kuruma-no-maebashi.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://kuruma-no-maebashi.com/",
+    "https://kuruma-no-maebashi.com/index.html",
+    "https://kuruma-no-maebashi.com/privacy-policy.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "027-212-0005",
+   "fax": "027-212-0007",
+   "mail": [
+    "kurumanomaebashi@gmail.com"
+   ],
+   "form": [],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "軽スタジアム（北陸）",
+  "url": "https://kei-stadium.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://kei-stadium.com/",
+    "403 https://kei-stadium.com/"
+   ]
+  }
+ },
+ {
+  "name": "リバーサイド（rs-riverside）",
+  "url": "https://www.rs-riverside.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.rs-riverside.com/",
+    "https://www.rs-riverside.com/shop/"
+   ],
+   "est": {
+    "postal": 7,
+    "phrase": 12,
+    "links": 6,
+    "link_names": [
+     "ANEX町田店",
+     "エルザ246号店",
+     "エルザ横浜店",
+     "カーコンビニ倶楽部エルザ108店",
+     "カーコンビニ倶楽部エルザ246号店",
+     "湘南店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "ショールーム",
+   "employees": "",
+   "tel": "046-237-3200",
+   "fax": "046-237-3223",
+   "mail": [
+    "info@coalaclub.com",
+    "rs-net@sage.ocn.ne.jp",
+    "rs101@rs-riverside.com"
+   ],
+   "form": [
+    "https://www.rs-riverside.com/contact/"
+   ],
+   "sns": [
+    "https://twitter.com/rs_riverside",
+    "https://www.facebook.com/rsnet101",
+    "https://www.instagram.com/riverside_kanagawa/"
+   ],
+   "dept": [
+    "クルマの買取",
+    "中古車 神奈川ならリバーサイド。中古車販売、中古車買取、車検、修理なども。",
+    "車買取専門店 買取王"
+   ]
+  }
+ },
+ {
+  "name": "カーライフステーション再確認",
+  "url": "https://344860.net/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://344860.net/",
+    "https://344860.net/about/",
+    "https://344860.net/shop/",
+    "https://344860.net/company/",
+    "https://344860.net/shop/1.php"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "上尾店",
+     "久喜店",
+     "岩槻インター店"
+    ]
+   },
+   "company": "",
+   "rep": "挨拶",
+   "addr": "埼玉県さいたま市見沼区宮ケ谷塔91-1",
+   "employees": "158人（2019年度）",
+   "tel": "0120-344-713",
+   "fax": "048-681-5088",
+   "mail": [],
+   "form": [
+    "https://344860.net/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売 で格安",
+    "大量仕入れ＋コスト削減",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです)",
+    "軽自動車を大量に仕入れることでコスト削減を実現しました。"
+   ]
+  }
+ }
+]

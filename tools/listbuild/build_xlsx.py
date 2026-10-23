@@ -3,7 +3,7 @@
 companies.json: list of dicts with keys matching COLS (except No), plus
   "stores": [{"name":..., "pref":...}], "status": "list" | "over30" | "under5" | "excluded_type"
 """
-import json, sys, re
+import json, sys, re, os
 from collections import Counter
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
@@ -63,9 +63,12 @@ def style(ws):
 
 def main(src, out):
     data = json.load(open(src, encoding="utf-8"))
-    listed = [c for c in data if c["status"] == "list"]
+    MIN = int(os.environ.get("MIN_STORES", "3"))  # 下限（当初は5、2026-10に3へ引き下げ）
+    def n(c): return c.get("count", len(c.get("stores", [])))
+    inlist = lambda c: c["status"] == "list" or (c["status"] == "under5" and n(c) >= MIN)
+    listed = [c for c in data if inlist(c)]
     listed.sort(key=lambda c: (-c.get("count", len(c.get("stores", []))), c["name"]))
-    excluded = [c for c in data if c["status"] != "list"]
+    excluded = [c for c in data if not inlist(c)]
     excluded.sort(key=lambda c: (-c.get("count", 0), c["name"]))
 
     wb = Workbook()
@@ -92,7 +95,7 @@ def main(src, out):
     s.append(["店舗数の分布"])
     s.append(["区分", "社数"])
     cnt = [c.get("count", len(c.get("stores", []))) for c in listed]
-    for lab, lo, hi in [("5〜9店舗", 5, 9), ("10〜19店舗", 10, 19), ("20〜30店舗", 20, 30)]:
+    for lab, lo, hi in [("3〜4店舗", 3, 4), ("5〜9店舗", 5, 9), ("10〜19店舗", 10, 19), ("20〜30店舗", 20, 30)]:
         s.append([lab, sum(lo <= n <= hi for n in cnt)])
     s.append(["合計", len(listed)])
     s.append([])
@@ -111,7 +114,7 @@ def main(src, out):
     e = wb.create_sheet("除外リスト")
     ecols = ["除外理由"] + COLS[1:]
     e.append(["No"] + ecols)
-    reason = {"over30": "31店舗以上", "under5": "4店舗以下", "excluded_type": "対象外の業態"}
+    reason = {"over30": "31店舗以上", "under5": "2店舗以下", "excluded_type": "対象外の業態"}
     for i, c in enumerate(excluded, 1):
         r = row_for(c)
         e.append([i, c.get("reason") or reason.get(c["status"], c["status"])] + [r[k] for k in COLS[1:]])

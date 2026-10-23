@@ -1,0 +1,76 @@
+[
+ {
+  "name": "HOPESTAR（ジムニー専門店）",
+  "url": "https://www.hopestar.info/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.hopestar.info/",
+    "https://www.hopestar.info/hp-parts.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.hopestar.info/form.html"
+   ],
+   "sns": [
+    "https://www.youtube.com/watch?v=aQqiOPeFBnc"
+   ],
+   "dept": [
+    "ジムニーの買取専門店",
+    "ジムニー買取 専門店",
+    "中古車販売・買取・カスタム",
+    "専門店だからこそ、高価買取が可能です。",
+    "買取（全国ショップ）"
+   ]
+  }
+ },
+ {
+  "name": "NEOカトウ自動車（三重）",
+  "url": "https://www.neo-katojidosha.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.neo-katojidosha.co.jp/",
+    "https://www.neo-katojidosha.co.jp/about/",
+    "https://www.neo-katojidosha.co.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社NEOカトウ自動車",
+   "rep": "あいさつ",
+   "addr": "〒513-0824 三重県鈴鹿市道伯町2599",
+   "employees": "",
+   "tel": "059-373-6333",
+   "fax": "059-373-6334",
+   "mail": [],
+   "form": [
+    "https://www.neo-katojidosha.co.jp/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/neokatojidosha"
+   ],
+   "dept": [
+    "NEOカトウ自動車は、車の仕入れから展示まで、まごころ込めてメンテナンスをいたします。",
+    "オークションや買取・下取車も含めて、入庫した車両はすぐに点検します。",
+    "仕入れ～展示までの流れ",
+    "厳選仕入れのクルマをベテランスタッフがしっかり整備。"
+   ]
+  }
+ }
+]

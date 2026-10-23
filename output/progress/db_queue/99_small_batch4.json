@@ -1,0 +1,178 @@
+[
+ {
+  "name": "オートプラネット名古屋",
+  "url": "https://www.auto-planet.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.auto-planet.jp/",
+    "https://www.auto-planet.jp/goal"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 1,
+    "link_names": [
+     "めざす店舗"
+    ]
+   },
+   "company": "",
+   "rep": "   TEL.0561-37-5333 点検・整備    TEL.0561-37-5444 買取    TEL.0120",
+   "addr": "",
+   "employees": "",
+   "tel": "0561-37-5333",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.auto-planet.jp/contact"
+   ],
+   "sns": [
+    "https://twitter.com/autoplanetstaff",
+    "https://www.facebook.com/auto.planet.nagoya",
+    "https://www.instagram.com/autoplanetnagoya/"
+   ],
+   "dept": [
+    "PURCHASE 買取",
+    "愛知で輸入中古車（外車）の販売・買取・車検ならオートプラネット名古屋",
+    "買取",
+    "買取強化中！輸入車・国産車問いません。プロ査定士が適正価格で査定します。",
+    "輸入中古車（外車）の販売・買取・車検ならオートプラネット名古屋"
+   ]
+  }
+ },
+ {
+  "name": "ユニバース（輸入車）",
+  "url": "https://www.universe-cars.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.universe-cars.jp/",
+    "https://www.universe-cars.jp/shop/",
+    "https://www.universe-cars.jp/about/",
+    "https://www.universe-cars.jp/shop/sapporo/",
+    "https://www.universe-cars.jp/shop/saitama_toda/"
+   ],
+   "est": {
+    "postal": 2,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "011-887-9880",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.universe-cars.jp/shop_contact/1090/",
+    "https://www.universe-cars.jp/shop_contact/1168/"
+   ],
+   "sns": [
+    "https://www.instagram.com/sekaino_kuruma/",
+    "https://www.youtube.com/user/Nextage196"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "9609.biz",
+  "url": "https://www.9609.biz/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.9609.biz/",
+    "https://www.9609.biz/company/",
+    "https://www.9609.biz/store/"
+   ],
+   "est": {
+    "postal": 6,
+    "phrase": 6,
+    "links": 7,
+    "link_names": [
+     "クルオク　カインズホーム半田店",
+     "クルオク　カインズモール蒲郡店",
+     "クルオク　カーマ21稲沢店",
+     "クルオク　レスパ岡崎店",
+     "クルオク　名古屋インター店",
+     "クルオク　豊田吉原店",
+     "名古屋インター店"
+    ]
+   },
+   "company": "株式会社メディアトラスト",
+   "rep": "鬼頭 宏彰",
+   "addr": "〒465-0054 愛知県名古屋市名東区高針台1-110",
+   "employees": "2025年12月現在 正社員 4名 パート・アルバイト 2名 役員 4名",
+   "tel": "0564-58-9609",
+   "fax": "",
+   "mail": [
+    "info@kuruma094.com"
+   ],
+   "form": [
+    "https://www.9609.biz/contact/",
+    "https://www.9609.biz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.9609.biz%2F&#038;format=xml",
+    "https://www.9609.biz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.9609.biz%2Fcompany%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://twitter.com/kuruma094",
+    "https://www.facebook.com/kuruoku/"
+   ],
+   "dept": [
+    "11月30日 「タイヤホイール買取王国大森インター店」を法人化し「株式会社タイヤホイール買取王国」を設立いたしました。",
+    "2月28日 「タイヤホイール買取王国」の全株式を売却し資本関係がなくなりました。（MBOによる売却）",
+    "4月1日 名古屋市守山区大森に「タイヤ販売店 タイヤホイール買取王国大森インター店」を出店",
+    "・国内での中古・新車の販売 ・国内の中古車の買取り",
+    "販売、仕入れ部門については代表取締役の鬼頭が、改革を進めているところでございます。"
+   ]
+  }
+ },
+ {
+  "name": "エスエスオート（愛媛）",
+  "url": "http://www.s-s-auto.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "http://www.s-s-auto.com/",
+    "403 http://www.s-s-auto.com/"
+   ]
+  }
+ },
+ {
+  "name": "カーバディ福岡（one-plus-one）",
+  "url": "https://car-buddy-fukuoka.one-plus-one.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://car-buddy-fukuoka.one-plus-one.jp/",
+    "https://car-buddy-fukuoka.one-plus-one.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "CAR BUDDY福岡",
+   "rep": "代表取締役 秋根 潤一",
+   "addr": "〒813-0017",
+   "employees": "73名（グループ計）",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://car-buddy-fukuoka.one-plus-one.jp/contact/",
+    "https://car-buddy-fukuoka.one-plus-one.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcar-buddy-fukuoka.one-plus-one.jp%2F&#038;format=xml",
+    "https://car-buddy-fukuoka.one-plus-one.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcar-buddy-fukuoka.one-plus-one.jp%2Fcompany%2F&#038;format=xml"
+   ],
+   "sns": [],
+   "dept": [
+    "【福岡市】中古車の購入から車検・板金・買取まで！CAR BUDDY福岡が愛車のトータルサポート",
+    "【福岡市で中古車を買うなら】車検・板金・買取まで対応｜CAR BUDDY福岡が選ばれる理由",
+    "理想の一台を、確かな品質でお届けします！高価買取も！",
+    "販売/買取",
+    "車の販売/買取"
+   ]
+  }
+ }
+]
