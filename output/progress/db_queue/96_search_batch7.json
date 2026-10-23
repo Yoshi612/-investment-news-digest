@@ -1,0 +1,42 @@
+[
+ {
+  "name": "JAC査定センター（関西）",
+  "url": "https://jacnet.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://jacnet.jp/",
+    "https://jacnet.jp/site/company/?pt=shop_list",
+    "https://jacnet.jp/site/custom/?pt=kaitori&about=2",
+    "https://jacnet.jp/site/custom/?pt=kaitori&about=3",
+    "https://jacnet.jp/site/custom/?pt=kaitori&about=4"
+   ],
+   "est": {
+    "postal": 6,
+    "phrase": 6,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "：",
+   "employees": "",
+   "tel": "",
+   "fax": "078-685-0066",
+   "mail": [],
+   "form": [
+    "https://jacnet.jp/site/inquiry/?pt=general",
+    "https://jacnet.jp/site/inquiry/?pt=kaitori&st=1",
+    "https://jacnet.jp/site/inquiry/?pt=kaitori&st=2"
+   ],
+   "sns": [],
+   "dept": [
+    "1994年創業以来20年以上一貫して関西エリアにて地域密着でお客様の愛車を買取させて頂いてまいりました。",
+    "TOP - 車買取 中古車査定 ジャック（ＪＡＣ）査定センター 大阪・兵庫・京都エリア｜JACクルマ買取専",
+    "ご紹介頂いたお客様の愛車を買取させて頂いたりと、地域のお客様に大変お世話になり、現在に至っております。",
+    "その教えを引き継ぎ現社長が中古車流通の不透明さに疑問を感じ査定価格の明確化をする一歩として「中古車買取サービス」",
+    "その結果、「中古車買取専門店」という新しい業態が大きく成長し、ユーザーの大きな支持を集めています。"
+   ]
+  }
+ }
+]
