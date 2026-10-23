@@ -7892,7 +7892,7 @@
     "pref": "神奈川県"
    },
    {
-    "name": "キングビッド札幌",
+    "name": "キングビッド 横浜",
     "pref": "神奈川県"
    }
   ],
@@ -7912,7 +7912,7 @@
    "https://autoc-one.jp/ullo/shop/2590/"
   ],
   "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
-  "memo": "車買取「車買取レンジャー」「キングビッド」。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+  "memo": "車買取「車買取レンジャー」「キングビッド」（厚木・伊勢原・横浜）。MOTA上の「キングビッド札幌」は横浜と同じ所在地のため別店舗に数えない。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
  },
  {
   "status": "under5",
@@ -8543,5 +8543,190 @@
   ],
   "confidence": "中：店舗名からの推定",
   "memo": "車買取・販売。MOTA掲載は福島・仙台の2拠点（運営欄で社名確認）。販売店コメントに「宮城県の他に福島県、山形県にもお店を構えて」とあり3店舗と推定。山形の店舗は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社松尾自動車（カーズ松尾自動車）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "小郡店（軽39.8万円専門店カーズ）",
+    "pref": "福岡県"
+   },
+   {
+    "name": "朝倉店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "宮崎店",
+    "pref": "宮崎県"
+   },
+   {
+    "name": "姶良市の店舗（店名未確認）",
+    "pref": "鹿児島県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "",
+  "sources": [
+   "https://www.kurumaerabi.com/shop/detail/31857/",
+   "https://www.kurumaerabi.com/shop/detail/31885/",
+   "https://www.kurumaerabi.com/shop/detail/31877/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "軽自動車中心の中古車販売。車選びドットコムの販売店ページに法人名「株式会社松尾自動車」（小郡市上岩田1186-7）、朝倉店ページに「福岡県小郡市・宮崎県小林市・鹿児島県姶良市に店舗を構える松尾自動車が4店舗目として福岡県朝倉市にオープン」。姶良の店舗名・住所は未確認。"
+ },
+ {
+  "status": "list",
+  "name": "ビッグウェーブホールディングス株式会社（BigWave）",
+  "count": 10,
+  "stores": [
+   {
+    "name": "富士宮店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "藤枝店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "掛川店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "浜松志都呂店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "浜松初生店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "浜松小豆餅店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "浜松和田店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "浜松内野店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "豊橋西店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "豊橋小松原店",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取が主（中古車買取専門店「ビッグウェーブ」）",
+  "employees": "",
+  "sources": [
+   "https://www.kurumaerabi.com/kaitori/company/detail/15/",
+   "https://www.kurumaerabi.com/kaitori/shop/静岡県/",
+   "https://www.kurumaerabi.com/kaitori/shop/愛知県/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古車買取専門店「BigWave」。車選びドットコムの買取業者ページに運営会社「ビッグウェーブホールディングス株式会社」、県別一覧に静岡8・愛知3店舗の記載（愛知の1店は店名が取れず、店名が確認できた10店舗で計上）。公式サイト未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社サンワイズ",
+  "count": 5,
+  "stores": [
+   {
+    "name": "サンワイズ札幌店（札幌本店）",
+    "pref": "北海道"
+   },
+   {
+    "name": "サンワイズ札幌北店",
+    "pref": "北海道"
+   },
+   {
+    "name": "サンワイズ帯広店",
+    "pref": "北海道"
+   },
+   {
+    "name": "サンワイズ青森店",
+    "pref": "青森県"
+   },
+   {
+    "name": "サンワイズ秋田店",
+    "pref": "秋田県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（買取直販）",
+  "employees": "",
+  "sources": [
+   "https://www.kurumaerabi.com/kaitori/shop/北海道/",
+   "https://www.kurumaerabi.com/kaitori/shop/青森県/",
+   "https://www.kurumaerabi.com/kaitori/shop/秋田県/",
+   "https://autoc-one.jp/ullo/shop/2310/",
+   "https://autoc-one.jp/ullo/shop/2966/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "車買取・中古車販売。車選びドットコムの県別買取店一覧に北海道3（札幌・札幌北・帯広）・青森・秋田の5店舗。MOTA店舗ページの運営欄で「株式会社サンワイズ」（札幌市西区発寒）を確認。公式サイト未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "ノースグラフィックオート（法人格未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "ノースグラフィックオート札幌本店",
+    "pref": "北海道"
+   },
+   {
+    "name": "ノースグラフィックオート旭川店",
+    "pref": "北海道"
+   },
+   {
+    "name": "ノースグラフィックオート青森店",
+    "pref": "青森県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり",
+  "employees": "",
+  "sources": [
+   "https://www.kurumaerabi.com/kaitori/shop/北海道/",
+   "https://www.kurumaerabi.com/kaitori/shop/青森県/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "車買取・販売。車選びドットコムの県別買取店一覧に札幌本店・旭川店・青森店の3店舗。運営会社の法人名・公式サイトは未確認。"
  }
 ]
