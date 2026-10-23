@@ -1,0 +1,36 @@
+[
+ {
+  "name": "カーポート佐々木グループ",
+  "url": "https://www.carport-sasaki.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.carport-sasaki.com/",
+    "https://www.carport-sasaki.com/stores/",
+    "https://www.carport-sasaki.com/company/"
+   ],
+   "est": {
+    "postal": 10,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "//www.youtube.com/embed/1DAbIcCSLW0?autoplay=1&loop=1&playlist=1DAbIcCSLW0",
+    "https://instagram.com/carport_sasaki/",
+    "https://www.instagram.com/cute___hybrid/",
+    "https://www.instagram.com/cute_fukuyama/",
+    "https://www.youtube.com/channel/UCoarcZUqE3ZFkQRJVY8jd_g"
+   ],
+   "dept": []
+  }
+ }
+]

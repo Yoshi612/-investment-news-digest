@@ -5237,13 +5237,17 @@
    }
   ],
   "hq": "千葉県千葉市美浜区中瀬（番地は未確認）",
-  "url": "",
+  "url": "https://www.tsc-jp.net/",
   "dept": "買取直販（買取車両を展示販売）",
   "sources": [
+   "https://www.tsc-jp.net/",
+   "https://www.tsc-jp.net/company.html",
    "https://job.rikunabi.com/job_descriptions/82de25d5815e8620/（検索結果の抜粋。現在は404）"
   ],
-  "confidence": "中：店舗名からの推定",
-  "memo": "公式サイト未確認。求人情報の勤務地一覧から5店舗。本社の美浜区中瀬・蘇我インター店の緑区古市場町が、KiND OUTLETのプライバシーポリシー記載会社（NEXTGATE MOTOR SOLUTIONS、美浜区中瀬）・同千葉コンパクトハイブリッド店（緑区古市場町）と近く、同一グループの可能性あり（未確認）。"
+  "confidence": "高：運営会社名で確認",
+  "memo": "【2026-10更新】公式サイト（くるま買取・直販の株式会社TSC）で大久保駅前店・千葉北インター店・蘇我インター店・つくば店の4店舗を確認。北本店は求人情報の勤務地一覧による（公式サイトでは未確認）。本社の美浜区中瀬・蘇我インター店の緑区古市場町が、KiND OUTLET（NEXTGATE MOTORSOLUTIONS、美浜区中瀬）と近く、同一グループの可能性あり（未確認）。",
+  "tel": "047-409-0147",
+  "fax": "047-409-0149"
  },
  {
   "status": "list",
@@ -7186,5 +7190,146 @@
   ],
   "confidence": "中：店舗名からの推定",
   "memo": "公式サイト未確認。中古車店舗数ランキング記事（2025年冬）で10店舗。中古車ディーラー「シティライト ジャック店」と買取専門店「シーボーイ」（中国地方中心に四国・近畿）を展開、オートオークション（LAA）運営も。本社は求人情報の記載。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社フリード",
+  "count": 3,
+  "stores": [
+   {
+    "name": "名古屋長久手本店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "トヨタインター店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "小牧インター店",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "愛知県長久手市井堀305",
+  "tel": "0561-63-9909",
+  "fax": "0561-63-9991",
+  "url": "https://www.freed.gr.jp/",
+  "employees": "35名（アルバイト・パート含む）",
+  "dept": "買取・中古車輸出あり",
+  "sources": [
+   "https://www.freed.gr.jp/company/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "会社概要の店舗欄で3店舗。検索結果の紹介文には「愛知県内5店舗」とあったが、公式サイトで確認できたのは3。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ABC",
+  "count": 6,
+  "stores": [
+   {
+    "name": "ABCcars（福山市津之郷町津之郷13-1）",
+    "pref": "広島県"
+   },
+   {
+    "name": "ビナンオート店",
+    "pref": "広島県"
+   },
+   {
+    "name": "TAX福山",
+    "pref": "広島県"
+   },
+   {
+    "name": "Small store",
+    "pref": "広島県"
+   },
+   {
+    "name": "働くクルマ専門店",
+    "pref": "広島県"
+   },
+   {
+    "name": "Self store",
+    "pref": "広島県"
+   }
+  ],
+  "hq": "広島県福山市津之郷町津之郷13-1",
+  "tel": "084-952-3003",
+  "email": "abc-soumu@abc-group.co.jp",
+  "rep": "佐藤 和伸",
+  "url": "https://www.abc-group.co.jp",
+  "employees": "47名（うち正社員40名）",
+  "sources": [
+   "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-01252.html"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "広島県の企業データベース「Go!ひろしま」で県内事業所6（福山市内）を確認。新車・未使用車・中古車販売、車検・整備。TAX福山はタックスFC加盟店。年商20億9千万円。"
+ },
+ {
+  "status": "list",
+  "name": "三島オート販売株式会社",
+  "count": 5,
+  "stores": [
+   {
+    "name": "本店（三島市、国道1号バイパス沿い）",
+    "pref": "静岡県"
+   },
+   {
+    "name": "八反畑店（民間車検工場併設）",
+    "pref": "静岡県"
+   },
+   {
+    "name": "沼津店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "富士店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "裾野店",
+    "pref": "静岡県"
+   }
+  ],
+  "hq": "",
+  "tel": "055-971-7743",
+  "fax": "055-971-7764",
+  "rep": "澤田 稔",
+  "url": "https://www.mishima-auto.jp/",
+  "sources": [
+   "https://www.mishima-auto.jp/shop/shopList.aspx",
+   "https://www.mishima-auto.jp/summary/summary.aspx"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "静岡県東部の中古車量販店（創業58年、展示車両600台）。サイトの表記は「静岡県東部に6店舗」だが、店舗一覧で確認できた中古車店は5（ほかに民間車検工場）。電話は本店。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社MIURA（エムステーション）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "エムステーション仙台本社店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "エムステーション盛岡支店",
+    "pref": "岩手県"
+   },
+   {
+    "name": "エムステーション山形支店",
+    "pref": "山形県"
+   }
+  ],
+  "hq": "宮城県仙台市泉区市名坂字鳥井原18-3",
+  "tel": "022-725-2717",
+  "fax": "022-725-2718",
+  "rep": "三浦 卓也",
+  "url": "https://m-station-tohoku.com/",
+  "dept": "車買取が主（中古車販売も）",
+  "sources": [
+   "https://m-station-tohoku.com/company/",
+   "https://m-station-tohoku.com/shop/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "車買取・中古車販売のエムステーション。仙台・盛岡・山形に各1店舗。"
  }
 ]

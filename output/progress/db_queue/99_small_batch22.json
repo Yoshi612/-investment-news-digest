@@ -1,0 +1,154 @@
+[
+ {
+  "name": "北日本自動車共販",
+  "url": "https://www.kitanihon-car.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.kitanihon-car.co.jp/",
+    "https://www.kitanihon-car.co.jp/tenpo.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "011-752-1313",
+   "fax": "011-704-4506",
+   "mail": [],
+   "form": [
+    "https://www.kitanihon-car.co.jp/m-form_sjis/inf5.cgi?mode=main&cno=10",
+    "https://www.kitanihon-car.co.jp/m-form_sjis/inf5.cgi?mode=main&cno=12",
+    "https://www.kitanihon-car.co.jp/m-form_sjis/inf5.cgi?mode=main&cno=3"
+   ],
+   "sns": [
+    "https://ja-jp.facebook.com/people/%E5%8C%97%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8B%95%E8%BB%8A%E5%85%B1%E8%B2%A9/100015480063256",
+    "https://www.youtube.com/channel/UCub141T3YFH4inpU6IJJQkg"
+   ],
+   "dept": [
+    "2021年 車検整備付 7.8万K ホワイト 自社ローン 信用回復ローン リース 仮審査 業販",
+    "2023年 車検整備付 3.5万K ネイビー 自社ローン 信用回復ローン リース 仮審査 業販",
+    "2023年 車検整備付 5.4万K シルバー 自社ローン 信用回復ローン リース 仮審査 業販",
+    "2025年 車検整備付 1.5万K ブラック 自社ローン 信用回復ローン リース 仮審査 業販",
+    "2025年 車検整備付 2.0万K ピュアホワイトパール 自社ローン 信用回復ローン リース 仮審査 業販"
+   ]
+  }
+ },
+ {
+  "name": "クルマン札幌",
+  "url": "https://curuman.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://curuman.com/",
+    "403 https://curuman.com/"
+   ]
+  }
+ },
+ {
+  "name": "札幌ワシダ",
+  "url": "https://washida-gr.co.jp/index.html",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://washida-gr.co.jp/index.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 1,
+    "link_names": [
+     "ニコニコレンタカー 札幌豊平店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "011-823-9381",
+   "fax": "011-823-9376",
+   "mail": [],
+   "form": [],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "フリード（愛知）",
+  "url": "https://www.freed.gr.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.freed.gr.jp/",
+    "https://www.freed.gr.jp/feature/corporatesales/",
+    "https://www.freed.gr.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 5,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社フリード（Freed Co.,Ltd）",
+   "rep": "からのメッセージ",
+   "addr": "〒480-1143 愛知県長久手市井堀305 TEL 0561-63-9909 FAX 0561-63-9991",
+   "employees": "35名（アルバイト・パート含む）",
+   "tel": "0561-63-9909",
+   "fax": "0561-63-9991",
+   "mail": [],
+   "form": [
+    "https://www.freed.gr.jp/contact/"
+   ],
+   "sns": [
+    "https://instagram.com/freed_komaki?igshid=hvntshflib4d",
+    "https://twitter.com/freed_nagakute",
+    "https://twitter.com/freed_toyota",
+    "https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89Freed-CoLtd-523644057714222/",
+    "https://www.instagram.com/freed_nagakute_servicefactory/",
+    "https://www.instagram.com/freed_service_factory/?hl=ja",
+    "https://www.instagram.com/freed_toyota/?hl=ja",
+    "https://www.instagram.com/freedgram/"
+   ],
+   "dept": [
+    "フリード | 名古屋の中古車販売・買取・車検 | 愛知5店舗【公式】",
+    "フリードでは、法人向けの中古車販売だけでなく、法人名義の車両の買取も強化中です。",
+    "中古車販売・買取を通じ、法人の方にメリットのあるアドバイスをさせていただきますので、",
+    "中古車販売店様向けの業者間取引に対応。業販・在庫売却のご相談は、お気軽にお問い合わせください。",
+    "新車・中古車販売、買取、中古車輸出、損害保険代理店、車検・点検整備、板金・塗装"
+   ]
+  }
+ },
+ {
+  "name": "井原自動車（is GROUP）",
+  "url": "https://www.is-group.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.is-group.jp/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0848-63-5959",
+   "fax": "0848-63-0593",
+   "mail": [],
+   "form": [
+    "https://www.is-group.jp/contact.html"
+   ],
+   "sns": [],
+   "dept": []
+  }
+ }
+]

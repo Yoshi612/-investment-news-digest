@@ -1,0 +1,161 @@
+[
+ {
+  "name": "三島オート販売",
+  "url": "https://www.mishima-auto.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.mishima-auto.jp/",
+    "https://www.mishima-auto.jp/shop/shopList.aspx",
+    "https://www.mishima-auto.jp/summary/summary.aspx"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 6,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "澤田 稔",
+   "addr": "",
+   "employees": "",
+   "tel": "055-971-7743",
+   "fax": "055-971-7764",
+   "mail": [],
+   "form": [
+    "https://www.mishima-auto.jp/contact/contact.aspx"
+   ],
+   "sns": [],
+   "dept": [
+    "お客様からのリクエストによるオークション仕入と販売",
+    "中古車の買取・査定業務",
+    "中古車買取",
+    "会員権買取・販売"
+   ]
+  }
+ },
+ {
+  "name": "AcrossAuto（長野）",
+  "url": "https://www.across-auto.net/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.across-auto.net/",
+    "https://www.across-auto.net/access.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 2,
+    "link_names": [
+     "塩尻店",
+     "長野店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "026-217-6044",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.across-auto.net/contact.html"
+   ],
+   "sns": [],
+   "dept": [
+    "中古車買取",
+    "中古車買取 長野市 アクロスオート長野店",
+    "中古車買取を詳しく",
+    "厳選した自社仕入車両",
+    "大切にお乗りいただいた愛車、どんな車も買取致します！"
+   ]
+  }
+ },
+ {
+  "name": "エムステーション（東北）",
+  "url": "https://m-station-tohoku.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://m-station-tohoku.com/",
+    "https://m-station-tohoku.com/company/",
+    "https://m-station-tohoku.com/about/",
+    "https://m-station-tohoku.com/shop/",
+    "https://m-station-tohoku.com/news/category/keeperproshop/"
+   ],
+   "est": {
+    "postal": 3,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "仙台本社店",
+     "山形支店",
+     "盛岡支店"
+    ]
+   },
+   "company": "株式会社MIURA",
+   "rep": "挨拶",
+   "addr": "〒981-3117 宮城県仙台市泉区市名坂字鳥井原18-3",
+   "employees": "",
+   "tel": "022-725-2717",
+   "fax": "022-725-2718",
+   "mail": [],
+   "form": [
+    "https://m-station-tohoku.com/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "About 良質の車販売と高額買取実績で",
+    "KeePerProshop - 車買取のエムステーション【仙台・盛岡・山形に店舗】",
+    "【公式】エムステーション - 車買取ならM station",
+    "エムステーションについて - 車買取のエムステーション【仙台・盛岡・山形に店舗】",
+    "エムステーションは、宮城（仙台）、岩手（盛岡）、山形を中心に高年式車の査定・買取・販売を行っています。"
+   ]
+  }
+ },
+ {
+  "name": "TSC（公式）",
+  "url": "https://www.tsc-jp.net/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.tsc-jp.net/",
+    "https://www.tsc-jp.net/company.html",
+    "https://www.tsc-jp.net/newsdetail.php?code=121"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 5,
+    "link_names": [
+     "・つくば店",
+     "・千葉北インター店",
+     "・大久保駅前店",
+     "・蘇我インター店",
+     "株式会社TSC　千葉北インター店"
+    ]
+   },
+   "company": "株式会社ＴＳＣ",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "047-409-0147",
+   "fax": "047-409-0149",
+   "mail": [],
+   "form": [
+    "https://www.tsc-jp.net/contact.php"
+   ],
+   "sns": [
+    "https://www.facebook.com/profile.php?id=100031961606334"
+   ],
+   "dept": [
+    "TSCは千葉県内、買取成約率54.8 パーセント！（2015.9 現在）",
+    "■買取営業部",
+    "「迅速な無料査定＆おどろきの買取価格」",
+    "【株式会社TSC 買取営業部】",
+    "くるま買取、直販の株式会社ＴＳＣ"
+   ]
+  }
+ }
+]
