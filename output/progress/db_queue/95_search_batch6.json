@@ -1,0 +1,266 @@
+[
+ {
+  "name": "オートベル（静岡）",
+  "url": "https://autobell.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://autobell.co.jp/",
+    "https://autobell.co.jp/company/index.html",
+    "https://autobell.co.jp/store/index.html",
+    "https://autobell.co.jp/store/kakegawa/index.html",
+    "https://autobell.co.jp/store/hamamatsu_wada/index.html"
+   ],
+   "est": {
+    "postal": 2,
+    "phrase": 13,
+    "links": 15,
+    "link_names": [
+     "なでしこ店",
+     "三島店",
+     "富士宮バイパス店",
+     "富士旧国一店",
+     "御殿場店",
+     "掛川店",
+     "沼津ぐるめ街道店",
+     "浜松入野店",
+     "浜松和田店",
+     "浜松西ケ崎店",
+     "浜松西ヶ崎店",
+     "清水インター店",
+     "藤枝店",
+     "静岡流通通り店",
+     "静岡見瀬店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0550-98-0077",
+   "fax": "0550-98-0040",
+   "mail": [],
+   "form": [
+    "https://autobell.co.jp/#informationBasic",
+    "https://autobell.co.jp/#informationMap",
+    "https://autobell.co.jp/#informationMovie"
+   ],
+   "sns": [
+    "https://www.facebook.com/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB-236532523042043/",
+    "https://www.youtube.com/channel/UC-MtP8XnyNFw2HBve6kV1XA"
+   ],
+   "dept": [
+    "【6月1日～6月31日】「夏前！高価買取強化キャンペーン」開催！ 雨の日ならさらに特典プレゼント！",
+    "【オートベル店舗情報】静岡県下13店舗で中古車査定・中古車買取のご相談受付中",
+    "【公式／オートベル掛川店】掛川の中古車査定・中古車買取",
+    "【公式／オートベル浜松和田店】浜松市東区の中古車査定・中古車買取",
+    "オートベル 車買取"
+   ]
+  }
+ },
+ {
+  "name": "KOYAMA（静岡）",
+  "url": "https://www.koyama-miraie.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.koyama-miraie.co.jp/",
+    "https://www.koyama-miraie.co.jp/shop/",
+    "https://www.koyama-miraie.co.jp/about/",
+    "https://www.koyama-miraie.co.jp/news/533/",
+    "https://www.koyama-miraie.co.jp/shop/numazu-ooka/"
+   ],
+   "est": {
+    "postal": 13,
+    "phrase": 13,
+    "links": 12,
+    "link_names": [
+     "富士宮店",
+     "富士平垣店",
+     "富士店",
+     "御前崎店",
+     "新富士店",
+     "柿田川店",
+     "浜松東店",
+     "浜松西店",
+     "藤枝店",
+     "袋井上山梨店",
+     "静岡中原店",
+     "静岡池田店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "055-916-3860",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.koyama-miraie.co.jp/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "KOYAMAの5つのこだわりと車買取の特徴 | クルマ、買います KOYAMA",
+    "スムーズな買取",
+    "リアルタイム相場を基に日本一の 買取価格を目指します！",
+    "沼津市で車買取・査定の新店舗が大岡にOPEN | クルマ、買います KOYAMA",
+    "車買取店として他にはできない仕事をし、 プロとして高価買取を実現しています。"
+   ]
+  }
+ },
+ {
+  "name": "カーライフステーション（埼玉）",
+  "url": "https://344860.net/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://344860.net/",
+    "https://344860.net/about/",
+    "https://344860.net/shop/",
+    "https://344860.net/company/",
+    "https://344860.net/shop/1.php"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "上尾店",
+     "久喜店",
+     "岩槻インター店"
+    ]
+   },
+   "company": "",
+   "rep": "挨拶",
+   "addr": "埼玉県さいたま市見沼区宮ケ谷塔91-1",
+   "employees": "158人（2019年度）",
+   "tel": "0120-344-713",
+   "fax": "048-681-5088",
+   "mail": [],
+   "form": [
+    "https://344860.net/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売 で格安",
+    "大量仕入れ＋コスト削減",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです)",
+    "軽自動車を大量に仕入れることでコスト削減を実現しました。"
+   ]
+  }
+ },
+ {
+  "name": "松下モータース",
+  "url": "https://www.ecar.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.ecar.co.jp/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 5,
+    "links": 1,
+    "link_names": [
+     "5つ星AS認定店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/matsushitamotors/",
+    "https://www.instagram.com/p/Da6yit4pER9/",
+    "https://www.instagram.com/p/DaXPvirnV5t/",
+    "https://www.instagram.com/p/DauYoLEHRRf/",
+    "https://www.instagram.com/p/DaziJ0jnR7t/",
+    "https://www.instagram.com/p/DbaKHEcHfvj/",
+    "https://www.instagram.com/p/DbuH6CrpvXA/",
+    "https://www.instagram.com/p/DcsjlGUHcLM/"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "新古車専科（トラック）",
+  "url": "https://shinkosenka.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://shinkosenka.com/",
+    "https://shinkosenka.com/page/about/",
+    "https://shinkosenka.com/page/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "アジアンウエイ株式会社 英名:AsianWay Inc.",
+   "rep": "加藤 孝明",
+   "addr": "（本社）",
+   "employees": "",
+   "tel": "03-6222-9026",
+   "fax": "03-6222-9048",
+   "mail": [],
+   "form": [
+    "https://shinkosenka.com/page/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "- 中古トラックの販売と買取 「 トラック流通センター 」",
+    "- 未使用車・特選車の販売と買取 「 新古車専科 」",
+    "- 業者専用中古トラック検索サービス 「 業販ネット 」",
+    "せんかの買取",
+    "中古トラック高額買取サービス"
+   ]
+  }
+ },
+ {
+  "name": "オニキス千葉",
+  "url": "https://unusedcar.onix-ns.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://unusedcar.onix-ns.com/",
+    "https://unusedcar.onix-ns.com/shop/",
+    "https://unusedcar.onix-ns.com/stock/details/?GM=CH2508250010&shop=ONIX船橋飯山満店",
+    "https://unusedcar.onix-ns.com/stock/details/?GM=CH2511280008&shop=ONIX八千代店",
+    "https://unusedcar.onix-ns.com/stock/details/?GM=CH2511240009&shop=ONIX成田店"
+   ],
+   "est": {
+    "postal": 3,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "047-485-7741",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://unusedcar.onix-ns.com/contact/"
+   ],
+   "sns": [
+    "https://www.instagram.com/onixfunabashi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "https://www.instagram.com/onixnaritaten?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "https://www.instagram.com/onixyachiyo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+   ],
+   "dept": [
+    "大量仕入でオトクに提供",
+    "未使用車を毎月大量仕入れするため、お客様にオトクにお車を提供できます。"
+   ]
+  }
+ }
+]
