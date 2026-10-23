@@ -1,0 +1,46 @@
+[
+ {
+  "name": "株式会社シンユウ（スリークロス加盟、四国）",
+  "url": "https://sinyu-car.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://sinyu-car.co.jp/",
+    "https://sinyu-car.co.jp/店舗案内/"
+   ],
+   "est": {
+    "postal": 5,
+    "phrase": 0,
+    "links": 4,
+    "link_names": [
+     "徳島本店",
+     "松山店",
+     "高松店",
+     "高知店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "徳島店が2018年1月より、毎週火曜日が定休日となります",
+   "employees": "",
+   "tel": "088-665-8150",
+   "fax": "088-665-0814",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "http://www.facebook.com/sharer.php?u=https://www.sinyu-car.co.jp/&amp;t=%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%B3%E3%83%A6%E3%82%A6",
+    "https://www.facebook.com/%E3%82%B7%E3%83%B3%E3%83%A6%E3%82%A6-1908070169409234/",
+    "https://www.instagram.com/reel/DJoM-hwBZmc/?utm_source=ig_embed&amp;utm_campaign=loading",
+    "https://www.youtube.com/watch?v=fDCyJ9O8uX0",
+    "https://x.com/share?text=%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%B3%E3%83%A6%E3%82%A6&amp;url=https%3A%2F%2Fwww.sinyu-car.co.jp%2F"
+   ],
+   "dept": [
+    "『車、全部買います！！』車買取りが熱いっ",
+    "国産車以外にもちろん外車も買取できます！！",
+    "大切に乗られてきた愛車、大切に買取り致します!!",
+    "軽自動車、普通車、最低買取保証額１ｃｃ５円～",
+    "１０年落ちや、走行１０万ｋｍ、傷や凹みがあっても大丈夫、ぜひ買取査定させてください。"
+   ]
+  }
+ }
+]

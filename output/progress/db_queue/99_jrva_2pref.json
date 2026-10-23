@@ -1,0 +1,582 @@
+[
+ {
+  "name": "有限会社かーいんてりあ高橋",
+  "url": "http://www.canp-inn-japan.com/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "有限会社かーいんてりあ高橋",
+   "url": "http://www.canp-inn-japan.com/",
+   "addr": "381-2204 長野県長野市真島町真島1551-1",
+   "tel": "026-285-6390",
+   "stores": "長野県 神奈川県",
+   "hand": "キャンピングカー トレーラー レンタルキャンピングカー JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "http://www.canp-inn-japan.com/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "株式会社ルートシックス",
+  "url": "http://www.route6.jp/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "株式会社ルートシックス",
+   "url": "http://www.route6.jp/",
+   "addr": "311-1112 茨城県水戸市川又町3451-1",
+   "tel": "029-291-6118",
+   "stores": "茨城県 福岡県",
+   "hand": "キャンピングカー JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "http://www.route6.jp/",
+    "https://route6.jp/about/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社ルートシックス",
+   "rep": "挨拶",
+   "addr": "事務所",
+   "employees": "",
+   "tel": "029-291-6118",
+   "fax": "029-291-6119",
+   "mail": [],
+   "form": [
+    "https://route6.jp/contact/",
+    "https://route6.jp/performance/"
+   ],
+   "sns": [
+    "https://instagram.com/route6_fukuoka?r=nametag",
+    "https://instagram.com/route6_kanagawa?r=nametag",
+    "https://www.facebook.com/profile.php?id=100057357373098",
+    "https://www.facebook.com/route6.camp",
+    "https://www.facebook.com/route6saitama",
+    "https://www.instagram.com/route6_official/",
+    "https://www.instagram.com/route6_saitama/",
+    "https://www.youtube.com/watch?v=1BIU3c9sQu8"
+   ],
+   "dept": [
+    "買取"
+   ]
+  }
+ },
+ {
+  "name": "株式会社エー・トゥ・ゼット",
+  "url": "https://atozcamp.com/",
+  "status": "needs_review",
+  "jrva": {
+   "name": "株式会社エー・トゥ・ゼット",
+   "url": "https://atozcamp.com/",
+   "addr": "339-0011 埼玉県さいたま市岩槻区長宮1062-4",
+   "tel": "048-792-1300",
+   "stores": "埼玉県 大阪府",
+   "hand": "キャンピングカー トレーラー その他"
+  },
+  "evidence": {
+   "pages": [
+    "https://atozcamp.com/",
+    "https://atozcamp.com/about",
+    "https://atozcamp.com/shop",
+    "https://atozcamp.com/shop-list",
+    "https://atozcamp.com/shop-list/"
+   ],
+   "est": {
+    "postal": 26,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "全国取扱店舗",
+     "大阪店",
+     "春日部店"
+    ]
+   },
+   "company": "株式会社エートゥゼット",
+   "rep": "曲 作軍",
+   "addr": "〒339-0011 埼玉県さいたま市岩槻区長宮1062-4",
+   "employees": "",
+   "tel": "048-792-1300",
+   "fax": "048-792-1301",
+   "mail": [],
+   "form": [
+    "https://atozcamp.com/best-shots-form/",
+    "https://atozcamp.com/contact-general",
+    "https://atozcamp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fatozcamp.com%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://twitter.com/atozcamp",
+    "https://www.facebook.com/AtoZ-1447532235355713/",
+    "https://www.instagram.com/atozcamp/",
+    "https://www.instagram.com/atozosaka/",
+    "https://www.youtube.com/@atozcamp/featured",
+    "https://www.youtube.com/channel/UCQu47m8DtEMlYey_5t8UNQA",
+    "https://www.youtube.com/channel/UCfyEi4TOQZTE-8SoXlxi5KA",
+    "https://www.youtube.com/watch?v=2XkaUDO-mcs"
+   ],
+   "dept": [
+    "キャンピングカー買取"
+   ]
+  }
+ },
+ {
+  "name": "日本特種ボディー株式会社",
+  "url": "https://ntbcamp.co.jp/",
+  "status": "needs_review",
+  "jrva": {
+   "name": "日本特種ボディー株式会社",
+   "url": "https://ntbcamp.co.jp/",
+   "addr": "343-0802 埼玉県越谷市小曽川568-1",
+   "tel": "050-1720-3062",
+   "stores": "埼玉県 三重県",
+   "hand": "キャンピングカー JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "https://ntbcamp.co.jp/",
+    "https://ntbcamp.co.jp/shop/",
+    "https://ntbcamp.co.jp/company/"
+   ],
+   "est": {
+    "postal": 19,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "日本特種ボディー株式会社",
+   "rep": "代表取締役 蜂谷愼吾",
+   "addr": "日",
+   "employees": "54人",
+   "tel": "050-1720-3062",
+   "fax": "048-970-1371",
+   "mail": [],
+   "form": [
+    "https://ntbcamp.co.jp/contact/",
+    "https://ntbcamp.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fntbcamp.co.jp%2F&#038;format=xml",
+    "https://ntbcamp.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fntbcamp.co.jp%2Fcompany%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://twitter.com/ntbcamper",
+    "https://www.facebook.com/ntb.camp",
+    "https://www.youtube.com/channel/UCRhy1-Wg3KBT6rdqzE_MTzg"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "ロータスRV販売株式会社",
+  "url": "https://www.rotas-rv.co.jp/",
+  "status": "needs_review",
+  "jrva": {
+   "name": "ロータスRV販売株式会社",
+   "url": "https://www.rotas-rv.co.jp/",
+   "addr": "354-0046 埼玉県入間郡三芳町竹間沢東2-2",
+   "tel": "049-274-3600",
+   "stores": "埼玉県 愛知県",
+   "hand": "キャンピングカー その他 JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "https://www.rotas-rv.co.jp/",
+    "https://www.rotas-rv.co.jp/company/",
+    "https://www.rotas-rv.co.jp/company/company-info/",
+    "https://www.rotas-rv.co.jp/company/shop-info/",
+    "https://www.rotas-rv.co.jp/company/shop-info/miyoshi/"
+   ],
+   "est": {
+    "postal": 6,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "ロータス・アールヴイ販売株式会社",
+   "rep": "松本 興太郎",
+   "addr": "三芳展示場/三芳工場",
+   "employees": "",
+   "tel": "049-274-3600",
+   "fax": "049-274-3601",
+   "mail": [],
+   "form": [
+    "https://www.rotas-rv.co.jp/contact/",
+    "https://www.rotas-rv.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rotas-rv.co.jp%2Fcompany%2Fcompany-info%2F&#038;format=xml",
+    "https://www.rotas-rv.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rotas-rv.co.jp%2Fcompany%2Fshop-info%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.facebook.com/MH.Service"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "アールブイ・ビックフット株式会社 東松山店",
+  "url": "https://rv-bigfoot.com/",
+  "status": "needs_review",
+  "jrva": {
+   "name": "アールブイ・ビックフット株式会社 東松山店",
+   "url": "https://rv-bigfoot.com/",
+   "addr": "355-0072 埼玉県東松山市石橋1570-1",
+   "tel": "0493-27-8115",
+   "stores": "埼玉県 北海道",
+   "hand": "キャンピングカー JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "https://rv-bigfoot.com/",
+    "https://rv-bigfoot.com/store/"
+   ],
+   "est": {
+    "postal": 2,
+    "phrase": 0,
+    "links": 4,
+    "link_names": [
+     "キャンピングカーステーション 新函館店",
+     "キャンピングロード 東松山店",
+     "新函館店",
+     "東松山店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0493-27-8115",
+   "fax": "0493-27-8155",
+   "mail": [],
+   "form": [
+    "https://rv-bigfoot.com/contact/",
+    "https://rv-bigfoot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frv-bigfoot.com%2F&#038;format=xml",
+    "https://rv-bigfoot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frv-bigfoot.com%2Fstore%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://twitter.com/rvbigfoot",
+    "https://www.facebook.com/RVBIGFOOTCCS/",
+    "https://www.instagram.com/rvbigfoot/",
+    "https://www.youtube.com/@rvbigfoot-PR",
+    "https://www.youtube.com/@rvbigfoot-cl"
+   ],
+   "dept": [
+    "資料請求・キャンピングカー買取・査定サービスなど、お気軽にご連絡ください。"
+   ]
+  }
+ },
+ {
+  "name": "ニュー オー・イー・エム・サプライ有限会社",
+  "url": "http://www.newoem.co.jp/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "ニュー オー・イー・エム・サプライ有限会社",
+   "url": "http://www.newoem.co.jp/",
+   "addr": "273-0031 千葉県船橋市西船1-12-32",
+   "tel": "047-495-0092",
+   "stores": "千葉県 埼玉県",
+   "hand": "キャンピングカー トレーラー その他"
+  },
+  "evidence": {
+   "pages": [
+    "http://www.newoem.co.jp/",
+    "http://www.newoem.co.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "ニュー オー・イー・エム・サプライ 有限会社",
+   "rep": "",
+   "addr": "変更のお知らせ",
+   "employees": "4名",
+   "tel": "080-4815-7094",
+   "fax": "0269-23-2218",
+   "mail": [
+    "info@newoem.co.jp"
+   ],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/newoemsupply/"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "株式会社グランドモーター 柏本店",
+  "url": "https://www.grandmotor.info/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "株式会社グランドモーター 柏本店",
+   "url": "https://www.grandmotor.info/",
+   "addr": "277-0872 千葉県柏市十余二１６４－１０７",
+   "tel": "04-7132-7557",
+   "stores": "千葉県 兵庫県",
+   "hand": "キャンピングカー"
+  },
+  "evidence": {
+   "pages": [
+    "https://www.grandmotor.info/",
+    "https://www.grandmotor.info/about",
+    "https://www.grandmotor.info/about/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社グランドモーター",
+   "rep": "加藤 公則",
+   "addr": "柏本店 〒277-0872 千葉県柏市十余二164-107",
+   "employees": "",
+   "tel": "078-907-3678",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.grandmotor.info/inquiry",
+    "https://www.grandmotor.info/inquiry/"
+   ],
+   "sns": [
+    "https://twitter.com/share",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.grandmotor.info%2F&amp;src=sdkpreparse",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.grandmotor.info%2Fcharacteristic%2F&amp;src=sdkpreparse",
+    "https://www.instagram.com/grandmotor.info/",
+    "https://www.tiktok.com/@grandmotor5",
+    "https://www.youtube.com/@grandmotor4652"
+   ],
+   "dept": [
+    "01 キャンピングカー買取",
+    "キャンピングカーの買取",
+    "キャンピングカーの買取のご相談もお気軽にご相談ください。",
+    "キャンピングカーの買取・販売のご相談ならグランドモーターにお問い合わせください。",
+    "キャンピングカーを中心に、中古車の買取を行っております。"
+   ]
+  }
+ },
+ {
+  "name": "株式会社Stage21",
+  "url": "https://stage21.co.jp/campdev/",
+  "status": "fetch_failed",
+  "jrva": {
+   "name": "株式会社Stage21",
+   "url": "https://stage21.co.jp/campdev/",
+   "addr": "252-0243 神奈川県相模原市中央区上溝2256-1",
+   "tel": "042-763-0061",
+   "stores": "神奈川県 愛知県",
+   "hand": "キャンピングカー キャンピングカー用品 JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "top": [
+    "https://stage21.co.jp/campdev/",
+    "000 https://stage21.co.jp/campdev/"
+   ]
+  }
+ },
+ {
+  "name": "有限会社ミスティック プランニング（M.Y.Sミスティック）",
+  "url": "http://www.mystic.ne.jp/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "有限会社ミスティック プランニング（M.Y.Sミスティック）",
+   "url": "http://www.mystic.ne.jp/",
+   "addr": "407-0005 山梨県韮崎市一ツ谷1840",
+   "tel": "0551-45-7654",
+   "stores": "山梨県 神奈川県",
+   "hand": "キャンピングカー トレーラー JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "http://www.mystic.ne.jp/",
+    "http://www.mystic.ne.jp/shop_info",
+    "http://www.mystic.ne.jp/company"
+   ],
+   "est": {
+    "postal": 3,
+    "phrase": 0,
+    "links": 2,
+    "link_names": [
+     "【終了】アンコールフェアin湘南店",
+     "湘南店"
+    ]
+   },
+   "company": "有限会社ミスティックプランニング",
+   "rep": "メッセージ",
+   "addr": " 〒407-0005 山梨県韮崎市一ツ谷1840 TEL 0551-45-7654",
+   "employees": "30名 (2026年1月現在)",
+   "tel": "0551-45-7654",
+   "fax": "0551-45-7655",
+   "mail": [],
+   "form": [
+    "http://www.mystic.ne.jp/company#company_information",
+    "http://www.mystic.ne.jp/contact",
+    "http://www.mystic.ne.jp/shop_info#shop_information"
+   ],
+   "sns": [
+    "https://www.facebook.com/%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E5%8F%8C%E8%91%89%E5%BA%97-1057007217664885/?ref=aymt_homepage_panel",
+    "https://www.facebook.com/%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%B9%98%E5%8D%97%E5%BA%97-169177113591418/",
+    "https://www.facebook.com/ミスティック湘南店-169177113591418/ ",
+    "https://www.instagram.com/mystic12018/?igsh=eXl5bDM3MmRnbDZt",
+    "https://x.com/mystic_camper?s=03",
+    "https://youtube.com/@mysticplanning?si=GESAcQVkEnjnH2IUr"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "株式会社レクビィ",
+  "url": "https://recvee.jp/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "株式会社レクビィ",
+   "url": "https://recvee.jp/",
+   "addr": "480-1207 愛知県瀬戸市品野町3丁目3番地",
+   "tel": "0561-41-3613",
+   "stores": "愛知県 神奈川県",
+   "hand": "キャンピングカー トレーラー レンタルキャンピングカー キャンピングカー用品 JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "https://recvee.jp/",
+    "https://recvee.jp/shop/",
+    "https://recvee.jp/shopping/terms.html",
+    "https://recvee.jp/shopping/",
+    "https://recvee.jp/shopping/cart.cgi"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0561-41-3613",
+   "fax": "0561-41-3614",
+   "mail": [],
+   "form": [
+    "https://recvee.jp/inquiry/",
+    "https://recvee.jp/inquiry/?G_COMM=lbgVbv⏤iɊւ邨₢",
+    "https://recvee.jp/inquiry/sp.cgi?G_COMM=lbgVbv⏤iɊւ邨₢"
+   ],
+   "sns": [
+    "https://twitter.com/recvee",
+    "https://www.facebook.com/campingcar.recvee",
+    "https://www.instagram.com/campingcar.recvee",
+    "https://www.instagram.com/campingcar.recvee/",
+    "https://www.youtube.com/@CAMPINGCARRECVEE",
+    "https://www.youtube.com/user/CAMPINGCARRECVEE",
+    "https://www.youtube.com/user/CAMPINGCARRECVEE#g/u",
+    "https://x.com/recvee"
+   ],
+   "dept": [
+    "買取相談"
+   ]
+  }
+ },
+ {
+  "name": "有限会社マリナアールヴィ",
+  "url": "http://www.marina-rv.co.jp/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "有限会社マリナアールヴィ",
+   "url": "http://www.marina-rv.co.jp/",
+   "addr": "601-0252 京都府京都市右京区京北五本松町東里18-1",
+   "tel": "075-852-5750",
+   "stores": "京都府 滋賀県",
+   "hand": "キャンピングカー トレーラー その他"
+  },
+  "evidence": {
+   "pages": [
+    "http://www.marina-rv.co.jp/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "077-589-5725",
+   "fax": "077-589-8177",
+   "mail": [
+    "info@campingcar-factory.jp"
+   ],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/marinarv.campingcarfactory/",
+    "https://www.youtube.com/@C-Marina-RV/featured",
+    "https://www.youtube.com/watch?v=UZcYXfW1lhg",
+    "https://www.youtube.com/watch?v=n0cAA2hwkeU"
+   ],
+   "dept": [
+    "●キャンピングカーの買取！",
+    "キャンピングカー、車中泊車、中古車の買取・委託販売承ります"
+   ]
+  }
+ },
+ {
+  "name": "株式会社RVトラスト",
+  "url": "https://rvtrust.com/",
+  "status": "likely_under5",
+  "jrva": {
+   "name": "株式会社RVトラスト",
+   "url": "https://rvtrust.com/",
+   "addr": "811-1201 福岡県那珂川市片縄5-2",
+   "tel": "092-952-8600",
+   "stores": "福岡県 秋田県",
+   "hand": "キャンピングカー レンタルキャンピングカー JRVA安心サービス登録店"
+  },
+  "evidence": {
+   "pages": [
+    "https://rvtrust.com/",
+    "https://rvtrust.com/company",
+    "https://rvtrust.com/about/",
+    "https://rvtrust.com/lineup/dealer/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "RVトラスト",
+   "rep": "代表取締役 河邉 誠一郎",
+   "addr": "福岡市博多区博多駅南5丁目15番18号",
+   "employees": "14名うちスタッフ1名（2024年6月30日現在）",
+   "tel": "092-952-8600",
+   "fax": "092-954-0800",
+   "mail": [],
+   "form": [
+    "https://rvtrust.com/contact/",
+    "https://rvtrust.com/customize/contact/",
+    "https://rvtrust.com/lineup/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "買取"
+   ]
+  }
+ }
+]

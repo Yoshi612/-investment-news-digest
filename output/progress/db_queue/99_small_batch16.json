@@ -1,0 +1,103 @@
+[
+ {
+  "name": "くるまのチャンス",
+  "url": "https://www.chance-car.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.chance-car.jp/",
+    "https://www.chance-car.jp/stores-list/",
+    "https://www.chance-car.jp/stores-list/tomisato/",
+    "https://www.chance-car.jp/stores-list/yachimata/",
+    "https://www.chance-car.jp/stores-list/mobara/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 13,
+    "links": 26,
+    "link_names": [
+     "つくば店",
+     "チャンスつくば店",
+     "チャンス佐倉店",
+     "チャンス佐原店",
+     "チャンス八街店",
+     "チャンス千葉大宮I.C店",
+     "チャンス四街道51号店",
+     "チャンス大網店",
+     "チャンス富里店",
+     "チャンス神栖2号店",
+     "チャンス神栖店",
+     "チャンス船橋店",
+     "チャンス茂原店",
+     "チャンス酒々井店",
+     "佐倉店",
+     "佐原店",
+     "八街店",
+     "千葉大宮I.C店",
+     "四街道51号店",
+     "大網店",
+     "富里店",
+     "神栖2号店",
+     "神栖店",
+     "船橋店",
+     "茂原店",
+     "酒々井店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "千葉県富里市七栄４５１−６ Google Map",
+   "employees": "",
+   "tel": "0476-91-3471",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.chance-car.jp/contact/",
+    "https://www.chance-car.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chance-car.jp%2F&#038;format=xml",
+    "https://www.chance-car.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chance-car.jp%2Fstores-list%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.facebook.com/people/%E3%81%8F%E3%82%8B%E3%81%BE%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9/100064616053116/",
+    "https://www.instagram.com/chance_car.jp/",
+    "https://www.youtube.com/channel/UCNEznIZKMQJNf0mBCf4pQbA",
+    "https://www.youtube.com/embed/4Elk94GIYoI?si=57S2baLrgwgOmU8l"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "軽スマイル（株式会社ネクスト）",
+  "url": "https://keismile.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://keismile.jp/",
+    "https://keismile.jp/company/",
+    "https://keismile.jp/company"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社ネクスト",
+   "rep": "渡部 雅孝",
+   "addr": "〒806-0041 福岡県北九州市八幡西区皇后崎町１６−５",
+   "employees": "",
+   "tel": "093-644-9000",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://keismile.jp/contact",
+    "https://keismile.jp/contact/",
+    "https://keismile.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkeismile.jp%2F&#038;format=xml"
+   ],
+   "sns": [],
+   "dept": [
+    "- 厳選した良質なお車のみを仕入れ！",
+    "- 大量仕入れにより、低価格化を実現！"
+   ]
+  }
+ }
+]

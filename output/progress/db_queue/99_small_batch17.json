@@ -1,0 +1,86 @@
+[
+ {
+  "name": "NOAS（守山、コンパクトカー専門店）",
+  "url": "https://www.noas.site/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.noas.site/",
+    "https://www.noas.site/company/",
+    "https://www.noas.site/about/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "寺田商事株式会社",
+   "rep": "あいさつ",
+   "addr": "〒524-0053 滋賀県守山市横江町161",
+   "employees": "23名",
+   "tel": "077-518-6820",
+   "fax": "077-582-8670",
+   "mail": [],
+   "form": [
+    "https://www.noas.site/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/%E5%AF%BA%E7%94%B0%E5%95%86%E4%BA%8B%E3%82%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E5%AE%88%E5%B1%B1SS-363162953713388/"
+   ],
+   "dept": [
+    "purchase 買取査定",
+    "大量仕入れ＆薄利多売で格安",
+    "高価買取可能です"
+   ]
+  }
+ },
+ {
+  "name": "ナイスミニバン滋賀",
+  "url": "https://nice-minivan-shiga.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://nice-minivan-shiga.com/",
+    "https://nice-minivan-shiga.com/shopinfo.html"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 1,
+    "link_names": [
+     "守山店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "〒524-0102",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://nice-minivan-shiga.com/#popup_contact",
+    "https://nice-minivan-shiga.com/yoyaku/#mitsumori_form"
+   ],
+   "sns": [],
+   "dept": [
+    "6 --> 査定・買取も当社で！",
+    "また、下取り・買取りした車の店頭での再販売も行っておりますので、他店よりも高額の査定・買取りが可能です！",
+    "愛車の買取だけをご希望の場合、お預かり後、一週間程度でお振込みが可能です！",
+    "査定・買取も当社で！"
+   ]
+  }
+ },
+ {
+  "name": "Kランド鹿児島",
+  "url": "https://www.k-land.jp/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.k-land.jp/",
+    "403 https://www.k-land.jp/"
+   ]
+  }
+ }
+]

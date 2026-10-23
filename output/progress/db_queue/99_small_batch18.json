@@ -1,0 +1,85 @@
+[
+ {
+  "name": "つしまオート（尾張）",
+  "url": "https://www.tsushima-auto.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.tsushima-auto.com/",
+    "https://www.tsushima-auto.com/company",
+    "https://www.tsushima-auto.com/about/",
+    "https://www.tsushima-auto.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "つしまオート株式会社",
+   "rep": "代表取締役社長 村上 直之",
+   "addr": "愛知県津島市又吉町4丁目16番地 (本社)",
+   "employees": "54名",
+   "tel": "0567-26-1351",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/tsushima_auto_ootubo/",
+    "https://www.tiktok.com/@tsushimaauto",
+    "https://www.tiktok.com/music/original-sound-6808177173342571269",
+    "https://www.tiktok.com/tag/%E3%81%82%E3%81%92%E3%81%AA%E3%81%8A%E3%81%97",
+    "https://www.tiktok.com/tag/%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84",
+    "https://www.tiktok.com/tag/%E3%81%A4%E3%81%97%E3%81%BE%E3%82%AA%E3%83%BC%E3%83%88",
+    "https://www.tiktok.com/tag/%E3%83%91%E3%83%B3%E3%82%AF%E4%BF%AE%E7%90%86",
+    "https://www.tiktok.com/tag/%E5%AE%9F%E3%81%AF%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%82%84%E3%81%A3%E3%81%9F"
+   ],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安"
+   ]
+  }
+ },
+ {
+  "name": "フジカーランド（長野東信）",
+  "url": "https://www.fujicar.info/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.fujicar.info/",
+    "https://www.fujicar.info/shop",
+    "https://www.fujicar.info/shop/ueda",
+    "https://www.fujicar.info/shop/saku",
+    "https://www.fujicar.info/shop/one"
+   ],
+   "est": {
+    "postal": 5,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "ONE!店",
+     "上田店",
+     "佐久店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0120-225-190",
+   "fax": "0268-27-2280",
+   "mail": [],
+   "form": [
+    "https://www.fujicar.info/contact",
+    "https://www.fujicar.info/contact/?shop=one",
+    "https://www.fujicar.info/contact/?shop=saku"
+   ],
+   "sns": [],
+   "dept": [
+    "中古タイヤ・ホイール／カー用品の買取・販売／新品タイヤも取扱い",
+    "車の買取専門店 ラビット上田18号店",
+    "車査定・買取の専門店"
+   ]
+  }
+ }
+]
