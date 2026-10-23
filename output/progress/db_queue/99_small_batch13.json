@@ -1,0 +1,39 @@
+[
+ {
+  "name": "松下モータース（ecar）",
+  "url": "https://www.ecar.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.ecar.co.jp/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 5,
+    "links": 1,
+    "link_names": [
+     "5つ星AS認定店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/matsushitamotors/",
+    "https://www.instagram.com/p/Da6yit4pER9/",
+    "https://www.instagram.com/p/DaXPvirnV5t/",
+    "https://www.instagram.com/p/DauYoLEHRRf/",
+    "https://www.instagram.com/p/DaziJ0jnR7t/",
+    "https://www.instagram.com/p/DbaKHEcHfvj/",
+    "https://www.instagram.com/p/DbuH6CrpvXA/",
+    "https://www.instagram.com/p/DcsjlGUHcLM/"
+   ],
+   "dept": []
+  }
+ }
+]

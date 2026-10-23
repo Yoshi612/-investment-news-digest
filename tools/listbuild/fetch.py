@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Polite fetcher: serial, >=3s between requests (tracked across runs), cached on disk.
+"""Polite fetcher: serial, >=3s between requests (tracked across runs), robots.txt Crawl-delay
+honoured per host, cached on disk.
 usage: fetch.py URL [URL...]  -> prints cache path + status; text dump with --text"""
 import sys, os, time, hashlib, re, html, subprocess, json
 BASE = os.environ.get("LISTBUILD_WORK") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -42,6 +43,14 @@ def fetch(url):
     except Exception:
         last = 0
     wait = 3.2 - (time.time() - last)
+    host = urllib.parse.urlsplit(url).netloc
+    hstamp = os.path.join(BASE, "cache", ".last_" + re.sub(r"[^\w.-]", "_", host))
+    rp = _rp.get(f"{urllib.parse.urlsplit(url).scheme}://{host}")
+    delay = (rp.crawl_delay("*") if rp and not url.endswith("/robots.txt") else None) or 0
+    try:
+        wait = max(wait, float(delay) - (time.time() - float(open(hstamp).read())))
+    except Exception:
+        pass
     if wait > 0:
         time.sleep(wait)
     r = subprocess.run(["curl", "-sS", "-L", "-m", "40", "--compressed", "-A",
@@ -49,6 +58,7 @@ def fetch(url):
                         "-o", p, "-w", "%{http_code} %{url_effective}", url],
                        capture_output=True, text=True)
     open(STAMP, "w").write(str(time.time()))
+    open(hstamp, "w").write(str(time.time()))
     status = (r.stdout or r.stderr).strip()
     with open(LOG, "a") as f:
         f.write(f"{time.strftime('%F %T')}\t{url}\t{status}\n")

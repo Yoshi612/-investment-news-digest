@@ -1,0 +1,207 @@
+[
+ {
+  "name": "クルマテラス",
+  "url": "https://kuruma-terrace.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://kuruma-terrace.com/",
+    "https://kuruma-terrace.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "クルマテラス株式会社",
+   "rep": "社長 渡邊 誠",
+   "addr": "",
+   "employees": "110名",
+   "tel": "03-6434-9295",
+   "fax": "03-6434-9296",
+   "mail": [
+    "info@kuruma-terrace.co.jp"
+   ],
+   "form": [
+    "https://kuruma-terrace.com/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "提携信販会社ローンの取次・自動車販売・中古車買取・オークション代行車両仕入れ代行・保険代理店"
+   ]
+  }
+ },
+ {
+  "name": "RVランド",
+  "url": "https://www.rvland.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.rvland.co.jp/",
+    "https://www.rvland.co.jp/about/gaiyou.php",
+    "https://www.rvland.co.jp/about/link.php",
+    "https://www.rvland.co.jp/about/policy.php"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 1,
+    "link_names": [
+     "イオンモールつくば店"
+    ]
+   },
+   "company": "",
+   "rep": "阿部和英",
+   "addr": "（茨城県：常総市）",
+   "employees": "社員67名、パート28名",
+   "tel": "0297-27-6767",
+   "fax": "0297-27-6768",
+   "mail": [],
+   "form": [
+    "https://www.rvland.co.jp/mailform/contact.php"
+   ],
+   "sns": [
+    "https://www.youtube.com/channel/UCT2h-W_t3mHeDb_XdoLnlrw/videos"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "Car Collection 45",
+  "url": "https://cc45.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://cc45.jp/",
+    "https://cc45.jp/premium/index.php",
+    "https://cc45.jp/next/index.php",
+    "https://cc45.jp/service/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0120-45-0050",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://cc45.jp/contact.php"
+   ],
+   "sns": [
+    "https://www.tiktok.com/@45.life8",
+    "https://www.youtube.com/channel/UC9y5izbCvKyVa4UeAXRICxA",
+    "https://www.youtube.com/shorts/FVFPYpP8Jxo",
+    "https://www.youtube.com/watch?v=-PPOxqtxOsg",
+    "https://www.youtube.com/watch?v=0r5nekg851Y",
+    "https://www.youtube.com/watch?v=36VhC3Fqa68",
+    "https://www.youtube.com/watch?v=6P8Udi2iRj4",
+    "https://www.youtube.com/watch?v=82S40K3c9RM"
+   ],
+   "dept": [
+    "・高額買取",
+    "大手車買取・販売業者で11年勤務。車の査定・鑑定、車の販売を行い「全国....",
+    "高額買取"
+   ]
+  }
+ },
+ {
+  "name": "カーバンクライト",
+  "url": "https://www.right.co.jp/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.right.co.jp/",
+    "000 https://www.right.co.jp/"
+   ]
+  }
+ },
+ {
+  "name": "BOND（福岡）",
+  "url": "https://www.bond666.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.bond666.com/",
+    "https://www.bond666.com/company.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "株式会社BOND",
+   "employees": "",
+   "tel": "",
+   "fax": "092-477-7741",
+   "mail": [
+    "bond666order@gmail.com",
+    "info@bond666.com"
+   ],
+   "form": [],
+   "sns": [
+    "https://www.facebook.com/profile.php?id=100054287240798",
+    "https://www.instagram.com/bond666usedcar/",
+    "https://www.tiktok.com/@bond8874",
+    "https://www.youtube.com/channel/UCdg5PJicUV3YPJQ_4_grP-g",
+    "https://x.com/BOND_fukuoka"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "トラック王国",
+  "url": "https://www.55truck.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.55truck.com/",
+    "https://www.55truck.com/company.html",
+    "https://www.55truck.com/company/",
+    "https://www.55truck.com/about.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "津島一夫",
+   "addr": "",
+   "employees": "",
+   "tel": "0120-653-034",
+   "fax": "0120-363-526",
+   "mail": [
+    "info@55truck.com"
+   ],
+   "form": [
+    "https://www.55truck.com/inquiry/",
+    "https://www.55truck.com/lease_back/form_download/step2.php"
+   ],
+   "sns": [
+    "https://ja-jp.facebook.com/truck.oukoku/",
+    "https://twitter.com/55_truck",
+    "https://www.instagram.com/55truckkingdom/",
+    "https://www.youtube.com/@truckoukoku",
+    "https://www.youtube.com/channel/UCGwSoR4X_X8eaj3tCr82g4A?sub_confirmation=1"
+   ],
+   "dept": [
+    "「トラック王国」なら他社では買取の難しい条件の中古トラックも 高価買取・高額査定 が可能です！",
+    "お電話で査定・買取の申込み",
+    "よくある質問（買取）",
+    "より高い買取",
+    "オンライン買取査定申込みフォーム"
+   ]
+  }
+ }
+]
