@@ -1,0 +1,61 @@
+[
+ {
+  "name": "ジーアフター",
+  "url": "https://www.g-after.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.g-after.co.jp/",
+    "https://www.g-after.co.jp/company",
+    "https://www.g-after.co.jp/shop/"
+   ],
+   "est": {
+    "postal": 10,
+    "phrase": 0,
+    "links": 9,
+    "link_names": [
+     "G-BORDER千葉北インター店",
+     "MEGA仙台新港店",
+     "MEGA佐野厄除大師店",
+     "MEGA千葉北インター店",
+     "MEGA新潟店",
+     "MEGA東岡山店",
+     "MEGA越谷レイクタウン店",
+     "成田店",
+     "木更津店"
+    ]
+   },
+   "company": "買取車両情報の入力",
+   "rep": "社長",
+   "addr": "〒103-0027 東京都中央区日本橋2-12-6高島屋THビル北館4階",
+   "employees": "210名（2023年6月期実績）",
+   "tel": "022-781-8792",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.g-after.co.jp/#sateiform"
+   ],
+   "sns": [
+    "https://www.instagram.com/gafter1515/"
+   ],
+   "dept": [
+    "2025.06.28 6/26 買取ご成約NEWS✨",
+    "2025.06.30 6/29 買取ご成約NEWS✨",
+    "2025.07.10 7/9 買取ご成約NEWS✨",
+    "ジーアフターでの車買取査定額アップ方法を公開中。将来の売却を検討中の方も必見。",
+    "不動車・故障車でも喜んで買取します"
+   ]
+  }
+ },
+ {
+  "name": "Car Shop IKKI",
+  "url": "https://www.carshop-ikki.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.carshop-ikki.com/",
+    "000 https://www.carshop-ikki.com/"
+   ]
+  }
+ }
+]
