@@ -2505,10 +2505,46 @@
   "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
  },
  {
-  "status": "under5",
+  "status": "list",
   "name": "株式会社メーカーズ",
-  "count": 2,
+  "count": 11,
   "stores": [
+   {
+    "name": "ケイカフェ おおのじょう店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ しんぐう店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ こくらみなみ店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ くるめ店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ ちくしの店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ いいづか店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ やはた店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ ふくおかにし店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ケイカフェ とす店",
+    "pref": "佐賀県"
+   },
    {
     "name": "アップル福岡東店",
     "pref": "福岡県"
@@ -2518,12 +2554,26 @@
     "pref": "福岡県"
    }
   ],
+  "hq": "福岡県福岡市西区石丸4丁目5-53",
+  "tel": "092-753-6611",
+  "fax": "092-753-6622",
+  "rep": "代表取締役社長 白井剛",
+  "url": "https://www.k-cafe.com/",
+  "form": "https://www.k-cafe.com/contact/",
+  "sns": [
+   "https://twitter.com/kcafe_official",
+   "https://www.facebook.com/kcarandcafe",
+   "https://www.instagram.com/kcafe_car_fukuoka/",
+   "https://www.tiktok.com/@k_cafe.fukuoka?lang=ja-JP",
+   "https://www.youtube.com/@kcafe_fukuoka/videos"
+  ],
   "sources": [
-   "https://www.applenet.co.jp/shop/0238/",
-   "https://www.applenet.co.jp/shop/0255/"
+   "https://www.k-cafe.com/company/",
+   "https://www.k-cafe.com/",
+   "https://www.applenet.co.jp/shop/"
   ],
   "confidence": "高：運営会社名で確認",
-  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+  "memo": "軽自動車専門店ケイカフェ9店舗（公式サイトの店舗情報）と、アップル加盟店2店舗（本部サイトで運営会社を確認）の合計。ONIXフランチャイズにも加盟（沿革）。"
  },
  {
   "status": "under5",
@@ -2598,9 +2648,9 @@
   "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
  },
  {
-  "status": "under5",
+  "status": "list",
   "name": "株式会社ダブルツリー",
-  "count": 4,
+  "count": 6,
   "stores": [
    {
     "name": "アップル岡山店",
@@ -2617,15 +2667,24 @@
    {
     "name": "アップル丸亀店",
     "pref": "香川県"
+   },
+   {
+    "name": "軽自動車専門店 ハヤシ 高松店",
+    "pref": "香川県"
+   },
+   {
+    "name": "軽自動車専門店 ハヤシ 丸亀店",
+    "pref": "香川県"
    }
   ],
+  "rep": "代表取締役 林和樹",
   "sources": [
-   "https://www.applenet.co.jp/shop/0288/",
-   "https://www.applenet.co.jp/shop/0300/",
-   "https://www.applenet.co.jp/shop/0309/"
+   "https://www.applenet.co.jp/shop/",
+   "https://www.r-agent.com/company/86071/（求人情報、検索結果の抜粋）",
+   "https://www.kurumaerabi.com/shop/detail/40023836/（検索結果の抜粋）"
   ],
-  "confidence": "高：運営会社名で確認",
-  "memo": "アップルの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+  "confidence": "中：店舗名からの推定",
+  "memo": "アップル加盟店4店舗（本部サイトで運営会社を確認）に加え、軽自動車専門店「くるまのハヤシ」（1972年創業、年間販売約6,100台と求人情報に記載）を運営。ハヤシの店舗は検索結果で高松店・丸亀店を確認。求人情報には倉敷・東岡山の勤務地もあり、実際の店舗数はこれより多い可能性。公式サイト未確認。 注意：別の掲載では「株式会社ハヤシ 倉敷店（本社）」とあり、ハヤシの店舗は別法人（株式会社ハヤシ）の運営の可能性がある。その場合ダブルツリー単体はアップル4店舗で4店舗以下になる。"
  },
  {
   "status": "under5",
@@ -2676,7 +2735,7 @@
    "https://www.applenet.co.jp/shop/0298/"
   ],
   "confidence": "高：運営会社名で確認",
-  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。 社名の正式表記は「サコダ車輌」の可能性。本社は広島市中区舟入南、売上高158億円・従業員240名（求人情報）。自社店舗の海田店（軽自動車専門）と佐伯区五日市の拠点もあり、合計4か所以上。自社サイト未確認のため境界扱い。"
  },
  {
   "status": "under5",
@@ -2790,7 +2849,7 @@
    "https://www.u-pohs.co.jp/katuragi/"
   ],
   "confidence": "高：運営会社名で確認",
-  "memo": "ユーポスの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+  "memo": "ユーポスの加盟店として4店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。 スズキ・ダイハツの新車販売店（D-shop橿原など）が本業のため、中古車主業か要確認。"
  },
  {
   "status": "under5",
@@ -3038,5 +3097,392 @@
   ],
   "confidence": "中：店舗名からの推定",
   "memo": "届出済未使用車専門店。確認できたのは2店舗だけだが、売上高107億円（採用サイト）の規模から、ほかに店舗がある可能性あり。公式サイト未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社フジカーズジャパン",
+  "stores": [
+   {
+    "name": "札幌店",
+    "pref": "北海道"
+   },
+   {
+    "name": "仙台店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "新潟店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "茨城店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "つくば店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "柏店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "狭山店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "寄居店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "厚木店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "石川店",
+    "pref": "石川県"
+   },
+   {
+    "name": "浜松店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "岐阜店",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "神戸西宮店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "広島店",
+    "pref": "広島県"
+   },
+   {
+    "name": "高松店",
+    "pref": "香川県"
+   },
+   {
+    "name": "鳥栖店",
+    "pref": "佐賀県"
+   }
+  ],
+  "hq": "東京都江戸川区西小岩2丁目11番6号",
+  "tel": "0120-007-560",
+  "url": "https://www.campnofuji.jp/",
+  "employees": "220名",
+  "dept": "車両全般の買取事業・買取専門店「カープライスセンター」あり",
+  "sources": [
+   "https://www.campnofuji.jp/company/",
+   "https://www.campnofuji.jp/shop/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "ブランドは「キャンピングカーのフジ」。キャンピングカーの新車・中古車の販売と買取が中心で、一般の中古車販売店とは業態がやや異なる（対象に含めるか要判断）。店舗数はキャンピングカー販売店16店舗で、買取専門店カープライスセンターは含めていない。店舗名はURLから付けた。電話はフリーダイヤル。",
+  "count": 16
+ },
+ {
+  "status": "list",
+  "name": "株式会社川内自動車",
+  "stores": [
+   {
+    "name": "ケイバッカ新津本店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ 軽4WD新津インター店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ佐渡店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ北新発田店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ新発田店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ姥ヶ山店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ村上店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ空港通り店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ長岡店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ケイバッカ駅南店",
+    "pref": "新潟県"
+   }
+  ],
+  "url": "https://k-bacca.com/",
+  "sns": [
+   "https://www.instagram.com/k_bacca_kawauchi/"
+  ],
+  "sources": [
+   "https://k-bacca.com/contents/store/index.html",
+   "https://compalyze.co.jp/company/2110001007114（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "ブランドは軽自動車専門店ケイバッカ（KAWAUCHI GROUP）。店舗名は公式サイトの店舗一覧のリンク名（10店舗）。運営会社名は企業情報サイトの抜粋で、公式サイト上の会社表記は未確認。福島県郡山市にも店舗があるとの情報あり（未確認）。新車販売も行う。",
+  "count": 10
+ },
+ {
+  "status": "list",
+  "name": "日免オートシステム株式会社",
+  "count": 10,
+  "stores": [
+   {
+    "name": "美使用軽専門店 江別店",
+    "pref": "北海道"
+   },
+   {
+    "name": "美使用軽専門店 静内店（新ひだか）",
+    "pref": "北海道"
+   },
+   {
+    "name": "美使用軽専門店 小樽店",
+    "pref": "北海道"
+   },
+   {
+    "name": "美使用軽専門店 旭川店",
+    "pref": "北海道"
+   },
+   {
+    "name": "美使用軽専門店 十勝音更店",
+    "pref": "北海道"
+   },
+   {
+    "name": "美使用軽専門店 イオンスーパーセンター三笠店",
+    "pref": "北海道"
+   },
+   {
+    "name": "美使用軽専門店 スーパーアークス新琴似店",
+    "pref": "北海道"
+   },
+   {
+    "name": "カーセブン札幌北店",
+    "pref": "北海道"
+   },
+   {
+    "name": "カーセブン北見店",
+    "pref": "北海道"
+   },
+   {
+    "name": "カーセブン十勝音更店",
+    "pref": "北海道"
+   }
+  ],
+  "hq": "北海道札幌市北区東茨戸1条1丁目8番5号",
+  "tel": "011-774-3111",
+  "fax": "011-775-8906",
+  "rep": "代表取締役社長 安部直人",
+  "url": "https://www.nichimen-g.co.jp/",
+  "form": "https://www.nichimen-g.co.jp/company/contact/",
+  "sns": [
+   "https://www.instagram.com/nichimen_mishiyou/",
+   "https://www.youtube.com/channel/UC-iuDCLbQ6px8P3WISQrLdg"
+  ],
+  "employees": "210名（グループ全体・パート含む）",
+  "dept": "ニチメン買取（買取・査定）あり",
+  "sources": [
+   "https://www.nichimen-g.co.jp/company/",
+   "https://www.nichimen-g.co.jp/company/stores/",
+   "https://www.nichimen-g.co.jp/mishiyou/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "ニチメングループ。会社概要の「総店舗数31店舗（北海道内グループ全体）」には、スズキ販売店・レンタカー・整備工場・板金・建機なども含まれる。中古車の販売・買取の店舗として、美使用軽専門店7店舗とカーセブン加盟店3店舗を数えた。新琴似本店・札幌本店の位置づけは未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ロイヤルオートサービス",
+  "count": 5,
+  "stores": [
+   {
+    "name": "ロイヤルカーステーション 松本村井店",
+    "pref": "長野県"
+   },
+   {
+    "name": "ロイヤルカーステーション 松本出川店（39.8専門店）",
+    "pref": "長野県"
+   },
+   {
+    "name": "ロイヤルカーステーション 佐久インター店",
+    "pref": "長野県"
+   },
+   {
+    "name": "ロイヤルカーステーション 茅野店",
+    "pref": "長野県"
+   },
+   {
+    "name": "ロイヤルカーステーション 諏訪インター店",
+    "pref": "長野県"
+   }
+  ],
+  "hq": "長野県松本市村井町南2-1-5",
+  "tel": "0120-107-817",
+  "rep": "代表取締役 中田忠章",
+  "url": "https://carstation.royal-auto.jp/",
+  "form": "https://carstation.royal-auto.jp/contact/",
+  "sns": [
+   "https://twitter.com/royal_auto_",
+   "https://www.instagram.com/royal_auto_service/?hl=ja",
+   "https://www.youtube.com/channel/UCNsrLCF0b44NckH-YN-fH0g/videos"
+  ],
+  "employees": "187名",
+  "sources": [
+   "https://carstation.royal-auto.jp/company/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "軽自動車専門店ロイヤルカーステーション。店舗は会社の沿革と検索結果から集めたもので、茅野店と諏訪インター店が同じ店かどうかは未確認（4店舗の可能性）。スズキアリーナ（新車）・車検のコバック・鈑金のモドーリーも運営。"
+ },
+ {
+  "status": "under5",
+  "name": "ポケットカーズ（運営会社未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "女池店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "三条店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "長岡店",
+    "pref": "新潟県"
+   }
+  ],
+  "url": "https://www.pocketcars.jp/",
+  "sources": [
+   "https://www.pocketcars.jp/shop/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "軽未使用車専門店。公式の店舗一覧は3店舗（検索結果では4店舗とも）。運営会社名は公式サイトで確認できず（車検のコバックも運営する会社の可能性）。"
+ },
+ {
+  "status": "under5",
+  "name": "Dash（運営会社未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "名古屋本店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "西三河店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "三重鈴鹿店",
+    "pref": "三重県"
+   }
+  ],
+  "url": "https://www.car-dash.jp/",
+  "sources": [
+   "https://www.car-dash.jp/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "自社ローン専門店。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ナオイオート",
+  "count": 16,
+  "stores": [
+   {
+    "name": "牛久店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "戸頭店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "守谷店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "つくば吉瀬店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "下館店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "下妻店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "6号取手店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "ひたちなか店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "水戸吉田店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "土浦中貫店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "サンキュッパ下妻店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "龍ヶ岡店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "坂東店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "ラビットイオンタウン水戸南店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "ラビットつくば吉瀬",
+    "pref": "茨城県"
+   },
+   {
+    "name": "GarageTricolore（ガレージトリコロール）",
+    "pref": "茨城県"
+   }
+  ],
+  "hq": "茨城県取手市桑原680-1",
+  "tel": "029-874-2233",
+  "fax": "029-874-2363",
+  "rep": "代表取締役 直井清正",
+  "url": "https://sale.naoiauto.jp/",
+  "form": "https://sale.naoiauto.jp/contact/",
+  "sns": [
+   "https://www.facebook.com/naoiauto/",
+   "https://www.instagram.com/naoiauto_car/",
+   "https://www.youtube.com/channel/UCqkEz6s5HrxxnCPQPsME1FA"
+  ],
+  "employees": "354名",
+  "sources": [
+   "https://sale.naoiauto.jp/company/",
+   "https://sale.naoiauto.jp/store/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "軽未使用車・39.8万円車専門店。公式の店舗一覧16件で、ラビット（買取FC）2店舗とGarageTricolore（業態未確認）を含む。"
  }
 ]

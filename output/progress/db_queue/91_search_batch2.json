@@ -1,0 +1,265 @@
+[
+ {
+  "name": "ナオイオート",
+  "url": "https://sale.naoiauto.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://sale.naoiauto.jp/",
+    "https://sale.naoiauto.jp/store/",
+    "https://sale.naoiauto.jp/company/",
+    "https://sale.naoiauto.jp/company/staff.php",
+    "https://sale.naoiauto.jp/store/2.php"
+   ],
+   "est": {
+    "postal": 14,
+    "phrase": 30,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社ナオイオート",
+   "rep": "代表取締役 直井清正",
+   "addr": "茨城県取手市桑原680-1",
+   "employees": "354 名",
+   "tel": "029-874-2233",
+   "fax": "029-874-2363",
+   "mail": [],
+   "form": [
+    "https://sale.naoiauto.jp/contact/",
+    "https://sale.naoiauto.jp/coupon/form.php"
+   ],
+   "sns": [
+    "https://www.facebook.com/naoiauto/",
+    "https://www.instagram.com/naoiauto_car/",
+    "https://www.instagram.com/naoiushiku/",
+    "https://www.youtube.com/channel/UCqkEz6s5HrxxnCPQPsME1FA"
+   ],
+   "dept": [
+    "【安心の高価買取・下取り】",
+    "お車のことはもちろん、自動車保険や買取などそのほかプライベートな事ても何でもご相談ください！龍ヶ岡店でお待ちしてます！",
+    "買取査定はお任せください！",
+    "車買取り",
+    "車買取り PURCHASE"
+   ]
+  }
+ },
+ {
+  "name": "太陽自動車",
+  "url": "https://taiyo-ota.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://taiyo-ota.com/",
+    "https://taiyo-ota.com/access/",
+    "https://taiyo-ota.com/shop/"
+   ],
+   "est": {
+    "postal": 2,
+    "phrase": 0,
+    "links": 2,
+    "link_names": [
+     "前橋店",
+     "太田店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://taiyo-ota.com/contact/",
+    "https://taiyo-ota.com/contact/?id=visit",
+    "https://taiyo-ota.com/information/"
+   ],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "くるまのマエバシ",
+  "url": "https://kuruma-no-maebashi.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://kuruma-no-maebashi.com/",
+    "https://kuruma-no-maebashi.com/index.html",
+    "https://kuruma-no-maebashi.com/privacy-policy.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "027-212-0005",
+   "fax": "027-212-0007",
+   "mail": [
+    "kurumanomaebashi@gmail.com"
+   ],
+   "form": [],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "ケイカフェ",
+  "url": "https://www.k-cafe.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.k-cafe.com/",
+    "https://www.k-cafe.com/store/",
+    "https://www.k-cafe.com/about/",
+    "https://www.k-cafe.com/about/reason.php",
+    "https://www.k-cafe.com/about/price.php"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "挨拶",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.k-cafe.com/contact/",
+    "https://www.k-cafe.com/information/category/news/",
+    "https://www.k-cafe.com/information/news/13688/"
+   ],
+   "sns": [
+    "https://twitter.com/kcafe_official",
+    "https://www.facebook.com/kcarandcafe",
+    "https://www.instagram.com/kcafe_car_fukuoka/",
+    "https://www.tiktok.com/@k_cafe.fukuoka?lang=ja-JP",
+    "https://www.youtube.com/@kcafe_fukuoka/videos"
+   ],
+   "dept": [
+    "大量一括仕入れ + コスト削減",
+    "大量一括仕入れにより、コスト削減で低価格を実現しています。",
+    "大量一括仕入れ大量販売により、コスト削減で低価格を実現！",
+    "大量仕入れにより車両価格が割安・重量税は払い込み済みなので、新車に比べてお得なんです。",
+    "未使用車は売却したときも、まだまだ高価買取可能です。（新しいクルマだからです）"
+   ]
+  }
+ },
+ {
+  "name": "ヒカリノ（光野自動車）",
+  "url": "https://hikarino.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://hikarino.com/",
+    "https://hikarino.com/about/",
+    "https://hikarino.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社光野自動車",
+   "rep": "矢野 良輔",
+   "addr": "福岡県朝倉市古賀505-1",
+   "employees": "30名",
+   "tel": "0120-589-178",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/hikarino.insta/"
+   ],
+   "dept": [
+    "まだまだ高価買取可能です",
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安"
+   ]
+  }
+ },
+ {
+  "name": "BOOBOO",
+  "url": "https://www.a-booboo.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.a-booboo.com/",
+    "https://www.a-booboo.com/access.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0795-23-6010",
+   "fax": "0795-23-6449",
+   "mail": [],
+   "form": [
+    "http://www.a-booboo.com/contact.html",
+    "https://www.a-booboo.com/contact.html"
+   ],
+   "sns": [
+    "http://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEPEEKABOO-%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AC%E3%83%AC%E3%83%BC%E3%82%B8booboo-531360630287773/"
+   ],
+   "dept": [
+    "3 クルマ高額買取 | 西脇市の軽自動車専門店"
+   ]
+  }
+ },
+ {
+  "name": "軽ハウス",
+  "url": "https://k-house2016.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://k-house2016.com/",
+    "https://k-house2016.com/about/",
+    "https://k-house2016.com/company/",
+    "https://k-house2016.com/blog/news/421/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社轟自動車",
+   "rep": "津田 剛",
+   "addr": "広島県広島市西区南観音町22-2",
+   "employees": "",
+   "tel": "082-208-0558",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://k-house2016.com/contact/"
+   ],
+   "sns": [
+    "https://www.instagram.com/khouse2016todoroki/",
+    "https://www.youtube.com/@todoroki_channel_hiroshima"
+   ],
+   "dept": [
+    "こだわり仕入れ！",
+    "仕入れ～展示まで の流れ",
+    "仕入～展示までの流れ",
+    "厳選仕入れのクルマをベテランスタッフがしっかり整備。価格はお手頃ですが品質は最高の中古車を集めました。",
+    "軽ハウスは、車の仕入れから展示まで、スタッフ一丸となってまごころ込めてメンテナンスをいたします。"
+   ]
+  }
+ }
+]

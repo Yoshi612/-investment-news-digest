@@ -1,0 +1,419 @@
+[
+ {
+  "name": "新生オートプラザグループ",
+  "url": "https://www.shinsei-hanno.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.shinsei-hanno.co.jp/",
+    "https://www.shinsei-hanno.co.jp/about/",
+    "https://www.shinsei-hanno.co.jp/shop/",
+    "https://www.shinsei-hanno.co.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 2,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社新生オート飯能",
+   "rep": "代表取締役 浅原 直",
+   "addr": "埼玉県飯能市中居62-2",
+   "employees": "22名",
+   "tel": "0120-717-536",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.shinsei-hanno.co.jp/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "人気と需要が高いので高価買取が可能となります。買い替え時の下取り価格が普通車よりも割高です。",
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "大量仕入れ＋コスト削減",
+    "新車販売・中古車販売・自動車買取・自動車車検整備・自動車鈑金塗装・自動車保険"
+   ]
+  }
+ },
+ {
+  "name": "オートギャラリー新生",
+  "url": "https://www.shinsei-auto-plaza.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.shinsei-auto-plaza.com/",
+    "https://www.shinsei-auto-plaza.com/about/",
+    "https://www.shinsei-auto-plaza.com/shop/",
+    "https://www.shinsei-auto-plaza.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社 オートギャラリー新生",
+   "rep": "挨拶",
+   "addr": "埼玉県坂戸市厚川151-1",
+   "employees": "28名",
+   "tel": "0120-348-471",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.shinsei-auto-plaza.com/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "大量仕入れ＋コスト削減",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです)",
+    "軽自動車を大量に仕入れることでコスト削減を実現しました。"
+   ]
+  }
+ },
+ {
+  "name": "パレット（本庄）",
+  "url": "https://palet.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://palet.jp/",
+    "https://palet.jp/about/",
+    "https://palet.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "有限会社 土屋整備工場",
+   "rep": "挨拶",
+   "addr": "埼玉県本庄市本庄3-8-16",
+   "employees": "24名",
+   "tel": "0495-21-8880",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://palet.jp/contact/"
+   ],
+   "sns": [
+    "https://www.youtube.com/watch?v=nH-S34wCjqc&t=2s"
+   ],
+   "dept": [
+    "人気と需要が高いので高価買取が可能となります。買い替え時の下取り価格が普通車よりも割高です。",
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです)",
+    "自動車の販売、買取、自動車整備、鈑金、塗装、軽未使用車を主に取り扱っています"
+   ]
+  }
+ },
+ {
+  "name": "ソーサン",
+  "url": "https://sousan-amj.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://sousan-amj.com/",
+    "403 https://sousan-amj.com/"
+   ]
+  }
+ },
+ {
+  "name": "ニチメングループ（美使用軽専門店）",
+  "url": "https://www.nichimen-g.co.jp/mishiyou/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.nichimen-g.co.jp/mishiyou/",
+    "https://www.nichimen-g.co.jp/company/line/",
+    "https://www.nichimen-g.co.jp/company/card//",
+    "https://www.nichimen-g.co.jp/company/card/",
+    "https://www.nichimen-g.co.jp/chirashi/157527/?b=mishiyou"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 10,
+    "links": 21,
+    "link_names": [
+     "BOSCH CAR SERVICE  札幌北店",
+     "イオンスーパーセンター三笠店",
+     "スーパーアークス新琴似店",
+     "・美使用軽専門店 イオンスーパーセンター三笠店",
+     "・美使用軽専門店 スーパーアークス新琴似店",
+     "・美使用軽専門店 十勝音更店",
+     "・美使用軽専門店 小樽店",
+     "・美使用軽専門店 旭川店",
+     "・美使用軽専門店 江別店",
+     "・美使用軽専門店 静内店",
+     "北見店",
+     "十勝音更店",
+     "小樽営業所",
+     "小樽店",
+     "新ひだか店",
+     "新琴似本店",
+     "旭川店",
+     "札幌北店",
+     "札幌本店",
+     "江別店",
+     "静内店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "サービス工場",
+   "employees": "",
+   "tel": "011-774-3111",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.nichimen-g.co.jp/company/contact/",
+    "https://www.nichimen-g.co.jp/mishiyou/asahikawa/#mailform",
+    "https://www.nichimen-g.co.jp/mishiyou/ebetsu/#mailform"
+   ],
+   "sns": [
+    "https://www.instagram.com/carseven_mishiyou.otofuke/",
+    "https://www.instagram.com/nichimen_mishiyou/",
+    "https://www.youtube.com/channel/UC-iuDCLbQ6px8P3WISQrLdg"
+   ],
+   "dept": [
+    "ニチメン買取",
+    "買取・査定",
+    "買取査定"
+   ]
+  }
+ },
+ {
+  "name": "ロイヤルカーステーション",
+  "url": "https://carstation.royal-auto.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://carstation.royal-auto.jp/",
+    "https://carstation.royal-auto.jp/company/",
+    "https://carstation.royal-auto.jp/about/",
+    "https://carstation.royal-auto.jp/stock/?mode=shopping",
+    "https://carstation.royal-auto.jp/company/staff.php"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 11,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社ロイヤルオートサービス",
+   "rep": "代表取締役 中田忠章",
+   "addr": "長野県松本市村井町南2-1-5",
+   "employees": "187名",
+   "tel": "0120-107-817",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://carstation.royal-auto.jp/contact/",
+    "https://carstation.royal-auto.jp/contact/stock.php?store=1&cname=%E2%96%A0%E5%9C%A8%E5%BA%AB%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%EF%BC%9A%E3%82%A2%E3%83%AB%E3%83%88%E3%83%A9%E3%83%91%E3%83%B3%E3%80%80HYBRID+G%E3%80%80%E6%94%AF%E6%89%95%E7%B7%8F%E9%A1%8D164.9%E4%B8%87%E5%86%86%E3%80%80%E6%95%B4%E7%90%86%E7%95%AA%E5%8F%B7161108",
+    "https://carstation.royal-auto.jp/contact/stock.php?store=1&cname=%E2%96%A0%E5%9C%A8%E5%BA%AB%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%EF%BC%9A%E3%82%A2%E3%83%AB%E3%83%88%E3%83%A9%E3%83%91%E3%83%B3%E3%80%80HYBRID+L%E3%80%80%E6%94%AF%E6%89%95%E7%B7%8F%E9%A1%8D159.9%E4%B8%87%E5%86%86%E3%80%80%E6%95%B4%E7%90%86%E7%95%AA%E5%8F%B7161110"
+   ],
+   "sns": [
+    "https://twitter.com/royal_auto_",
+    "https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-417032942002766/?ref=bookmarks",
+    "https://www.instagram.com/royal_auto_service/?hl=ja",
+    "https://www.youtube.com/channel/UCNsrLCF0b44NckH-YN-fH0g/videos"
+   ],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです)"
+   ]
+  }
+ },
+ {
+  "name": "ケイバッカ（川内自動車）",
+  "url": "https://k-bacca.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://k-bacca.com/",
+    "https://k-bacca.com/contents/sale/data/261024/oshirase.html",
+    "https://k-bacca.com/contents/store/index.html"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 10,
+    "link_names": [
+     "ケイバッカ 軽4WD新津インター店",
+     "ケイバッカ佐渡店",
+     "ケイバッカ北新発田店",
+     "ケイバッカ姥ヶ山店",
+     "ケイバッカ新津本店",
+     "ケイバッカ新発田店",
+     "ケイバッカ村上店",
+     "ケイバッカ空港通り店",
+     "ケイバッカ長岡店",
+     "ケイバッカ駅南店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/k_bacca_kawauchi/",
+    "https://www.youtube.com/playlist?list=PLrOKms1IqdOlO_MZrTFA7_49IvJfCtbma"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "ポケットカーズ",
+  "url": "https://www.pocketcars.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.pocketcars.jp/",
+    "https://www.pocketcars.jp/shop/",
+    "https://www.pocketcars.jp/shop/sanjo/",
+    "https://www.pocketcars.jp/shop/meike/",
+    "https://www.pocketcars.jp/shop/nagaoka/"
+   ],
+   "est": {
+    "postal": 5,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "三条店",
+     "女池店",
+     "長岡店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.pocketcars.jp/contact_guide/",
+    "https://www.pocketcars.jp/contact_guide/#mainte",
+    "https://www.pocketcars.jp/p_blog/formula/"
+   ],
+   "sns": [
+    "https://twitter.com/maruyama_kobac",
+    "https://www.instagram.com/pocketcars_niigata/"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "フォーラムムラタ",
+  "url": "https://www.sf-murata.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.sf-murata.com/",
+    "https://www.sf-murata.com/about/",
+    "https://www.sf-murata.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社フォーラムムラタ",
+   "rep": "あいさつ",
+   "addr": "〒945-0811 新潟県柏崎市岩上23-12",
+   "employees": "25名",
+   "tel": "0257-24-3283",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.sf-murata.com/contact/",
+    "https://www.sf-murata.com/coupon/form.php"
+   ],
+   "sns": [],
+   "dept": [
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです）"
+   ]
+  }
+ },
+ {
+  "name": "株式会社浅野商会",
+  "url": "https://www.asanocar.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.asanocar.com/",
+    "https://www.asanocar.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社浅野商会",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0258-32-7711",
+   "fax": "0258-32-6711",
+   "mail": [],
+   "form": [
+    "https://www.asanocar.com/contact/",
+    "https://www.asanocar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.asanocar.com%2F&#038;format=xml",
+    "https://www.asanocar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.asanocar.com%2Fcompany%2F&#038;format=xml"
+   ],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "Dash（自社ローン）",
+  "url": "https://www.car-dash.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.car-dash.jp/",
+    "https://www.car-dash.jp/about/",
+    "https://www.car-dash.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 2,
+    "link_names": [
+     "三重鈴鹿店",
+     "名古屋本店"
+    ]
+   },
+   "company": "",
+   "rep": "社長",
+   "addr": "",
+   "employees": "",
+   "tel": "052-901-8008",
+   "fax": "052-901-8009",
+   "mail": [
+    "info@car-dash.jp"
+   ],
+   "form": [],
+   "sns": [
+    "https://www.instagram.com/dash_mycar_official/",
+    "https://www.youtube.com/@carlifedash"
+   ],
+   "dept": [
+    "販売から車検修理・板金塗装、買取から保険・事故対応までお客様のカーライフをトータルサポート。"
+   ]
+  }
+ }
+]
