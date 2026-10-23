@@ -2895,7 +2895,7 @@
  {
   "status": "under5",
   "name": "株式会社クインオート",
-  "count": 2,
+  "count": 3,
   "stores": [
    {
     "name": "ユーポス亀岡店",
@@ -2904,14 +2904,19 @@
    {
     "name": "ユーポス三田店",
     "pref": "兵庫県"
+   },
+   {
+    "name": "クインオート名古屋中川店",
+    "pref": "愛知県"
    }
   ],
   "sources": [
    "https://www.u-pohs.co.jp/kameoka",
-   "https://www.u-pohs.co.jp/sanda/"
+   "https://www.u-pohs.co.jp/sanda/",
+   "https://autoc-one.jp/ullo/shop/3366/"
   ],
   "confidence": "高：運営会社名で確認",
-  "memo": "ユーポスの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+  "memo": "ユーポス加盟店2店舗（亀岡・三田）＋自社名義のクインオート名古屋中川店（MOTA掲載、運営欄「株式会社クインオート」・古物商許可は兵庫県公安委員会の番号）で3店舗。"
  },
  {
   "status": "under5",
@@ -7331,5 +7336,1212 @@
   ],
   "confidence": "高：運営会社名で確認",
   "memo": "車買取・中古車販売のエムステーション。仙台・盛岡・山形に各1店舗。"
+ },
+ {
+  "status": "list",
+  "name": "GTNET株式会社",
+  "count": 8,
+  "stores": [
+   {
+    "name": "GTNET・スポーツカー専門全国出張買取本部",
+    "pref": "大阪府"
+   },
+   {
+    "name": "GT-R 買取・スポーツカー専門店  GTNET埼玉",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "GT-R 買取・スポーツカー専門店  GTNET福岡",
+    "pref": "福岡県"
+   },
+   {
+    "name": "輸入車専門ゼロサン西宮（GTNET西宮）",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "GT-R買取・スポーツカー専門店GTNET西宮",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "GT-R 買取・スポーツカー専門店  GTNET 横浜",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "GT-R 買取・スポーツカー専門店  GTNET 群馬",
+    "pref": "群馬県"
+   },
+   {
+    "name": "GT-R 買取・スポーツカー専門店  GTNET 愛知",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/372/",
+   "https://autoc-one.jp/ullo/shop/1127/",
+   "https://autoc-one.jp/ullo/shop/1266/",
+   "https://autoc-one.jp/ullo/shop/1268/",
+   "https://autoc-one.jp/ullo/shop/1644/",
+   "https://autoc-one.jp/ullo/shop/1975/",
+   "https://autoc-one.jp/ullo/shop/1979/",
+   "https://autoc-one.jp/ullo/shop/2225/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "国産・輸入スポーツカー専門の販売・買取「GTNET」。 店舗数はMOTA車買取に掲載の拠点数（8、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社トライアルカーズ",
+  "count": 7,
+  "stores": [
+   {
+    "name": "株式会社トライアルカーズ多の津店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "トライアルカーズ飯塚店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "トライアルカーズ新宮店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "トライアルカーズ田川川崎店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "トライアルカーズ須恵店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "トライアルカーズ買取センター",
+    "pref": "福岡県"
+   },
+   {
+    "name": "トライアルカーズ白鳥買取センター",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/3343/",
+   "https://autoc-one.jp/ullo/shop/3496/",
+   "https://autoc-one.jp/ullo/shop/3497/",
+   "https://autoc-one.jp/ullo/shop/3498/",
+   "https://autoc-one.jp/ullo/shop/3499/",
+   "https://autoc-one.jp/ullo/shop/3500/",
+   "https://autoc-one.jp/ullo/shop/3501/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "福岡県で中古車販売・買取「トライアルカーズ」。 店舗数はMOTA車買取に掲載の拠点数（7、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ガレージアール",
+  "count": 5,
+  "stores": [
+   {
+    "name": "株式会社ガレージアール",
+    "pref": "千葉県"
+   },
+   {
+    "name": "株式会社ガレージアール 買取事業部名古屋営業所",
+    "pref": "愛知県"
+   },
+   {
+    "name": "ラビット町田駅前通り店（ガレージアール町田店）",
+    "pref": "東京都"
+   },
+   {
+    "name": "ガレージ・アール藤沢店【BUDDICA（バディカ）グループ会社】",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "ガレージアールインポート浦安店",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/302/",
+   "https://autoc-one.jp/ullo/shop/1429/",
+   "https://autoc-one.jp/ullo/shop/1472/",
+   "https://autoc-one.jp/ullo/shop/1473/",
+   "https://autoc-one.jp/ullo/shop/2570/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "輸入車販売・買取。MOTA上でBUDDICAグループ会社・ラビット町田駅前通り店（FC）の表記あり。 店舗数はMOTA車買取に掲載の拠点数（5、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社トップランク",
+  "count": 8,
+  "stores": [
+   {
+    "name": "トップランク本店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "トップランク中央",
+    "pref": "東京都"
+   },
+   {
+    "name": "トップランク杉並",
+    "pref": "東京都"
+   },
+   {
+    "name": "トップランク神戸 ROKKO i PARK",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "トップランク クラシックスペシャリティーズ",
+    "pref": "千葉県"
+   },
+   {
+    "name": "最強買取 市川店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "最強買取 船橋店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "最強買取 福岡オフィス",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "東京都中央区新川1丁目3-3 グリーンオーク茅場町2階",
+  "tel": "03-6222-8338",
+  "fax": "03-6222-8339",
+  "rep": "五十嵐 真一",
+  "url": "https://toprank.co.jp/",
+  "form": "https://toprank.co.jp/contact/",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "209名（2025年5月現在）",
+  "sources": [
+   "https://toprank.co.jp/company/outline/",
+   "https://autoc-one.jp/ullo/shop/412/",
+   "https://autoc-one.jp/ullo/shop/2429/",
+   "https://autoc-one.jp/ullo/shop/3259/",
+   "https://autoc-one.jp/ullo/shop/3260/",
+   "https://autoc-one.jp/ullo/shop/3326/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "輸入車中心の中古車販売・買取。公式「国内拠点 ショールーム」掲載のうち販売・買取拠点8（整備工場・PDIセンター・千葉サービスファクトリー・静岡テクニカルファクトリーは除外、西宮は2026年10月31日開業予定のため除外）。自動車輸出・人材事業も。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社T.Tカーズ",
+  "count": 5,
+  "stores": [
+   {
+    "name": "クルマ買取りのお店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "クルマ買取りのお店 イオン秋田中央店",
+    "pref": "秋田県"
+   },
+   {
+    "name": "クルマ買取りのお店イオン柏店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "クルマ買取りのお店イオン鎌ケ谷店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "クルマ買取りのお店イオン市川店",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/2503/",
+   "https://autoc-one.jp/ullo/shop/3214/",
+   "https://autoc-one.jp/ullo/shop/3307/",
+   "https://autoc-one.jp/ullo/shop/3308/",
+   "https://autoc-one.jp/ullo/shop/3309/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "イオン内の買取店「クルマ買取りのお店」。 店舗数はMOTA車買取に掲載の拠点数（5、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "道央自動車株式会社",
+  "count": 4,
+  "stores": [
+   {
+    "name": "道央自動車株式会社帯広出張買取センター",
+    "pref": "北海道"
+   },
+   {
+    "name": "道央自動車株式会社函館出張買取センター",
+    "pref": "北海道"
+   },
+   {
+    "name": "道央自動車株式会社千歳出張買取センター",
+    "pref": "北海道"
+   },
+   {
+    "name": "道央自動車株式会社 雁来インター店",
+    "pref": "北海道"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/24/",
+   "https://autoc-one.jp/ullo/shop/25/",
+   "https://autoc-one.jp/ullo/shop/1252/",
+   "https://autoc-one.jp/ullo/shop/1981/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "北海道の中古車販売・買取。出張買取センターを含む。 店舗数はMOTA車買取に掲載の拠点数（4、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社タイドウェイジャパン",
+  "count": 4,
+  "stores": [
+   {
+    "name": "トリデックス1",
+    "pref": "茨城県"
+   },
+   {
+    "name": "トリデックス2",
+    "pref": "茨城県"
+   },
+   {
+    "name": "トリデックス3",
+    "pref": "宮城県"
+   },
+   {
+    "name": "トリデックス宇都宮店",
+    "pref": "栃木県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/325/",
+   "https://autoc-one.jp/ullo/shop/327/",
+   "https://autoc-one.jp/ullo/shop/1624/",
+   "https://autoc-one.jp/ullo/shop/3055/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "車買取「トリデックス」。 店舗数はMOTA車買取に掲載の拠点数（4、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社トーサイ",
+  "count": 4,
+  "stores": [
+   {
+    "name": "株式会社トーサイ",
+    "pref": "岩手県"
+   },
+   {
+    "name": "カーセブン足立平野店",
+    "pref": "東京都"
+   },
+   {
+    "name": "カーセブン有明出張センター",
+    "pref": "東京都"
+   },
+   {
+    "name": "カーセブンMEGA三郷店",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/432/",
+   "https://autoc-one.jp/ullo/shop/950/",
+   "https://autoc-one.jp/ullo/shop/1094/",
+   "https://autoc-one.jp/ullo/shop/1823/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "カーセブン加盟店（足立平野・有明出張センター・MEGA三郷）＋岩手本社。 店舗数はMOTA車買取に掲載の拠点数（4、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社HKC（HKC AUTO）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "京都山科店（本店）",
+    "pref": "京都府"
+   },
+   {
+    "name": "草津店",
+    "pref": "滋賀県"
+   },
+   {
+    "name": "神戸店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "大阪店",
+    "pref": "大阪府"
+   }
+  ],
+  "hq": "京都府京都市山科区四ノ宮奈良野町32",
+  "tel": "075-366-9410",
+  "fax": "075-366-9411",
+  "rep": "佐藤 颯",
+  "url": "https://hkc-auto.com/",
+  "form": "https://hkc-auto.com/contact/",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://hkc-auto.com/company/",
+   "https://autoc-one.jp/ullo/shop/1352/",
+   "https://autoc-one.jp/ullo/shop/2098/",
+   "https://autoc-one.jp/ullo/shop/2428/",
+   "https://autoc-one.jp/ullo/shop/3507/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "中古車販売・買取「HKC AUTO」。公式会社概要に営業所4（山科・草津・神戸・大阪）＋栗東ヤード。TEL/FAXは山科店（本社所在地）の番号。"
+ },
+ {
+  "status": "under5",
+  "name": "リッチハート株式会社",
+  "count": 3,
+  "stores": [
+   {
+    "name": "リッチハート株式会社",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "リッチ東京絆トレード",
+    "pref": "東京都"
+   },
+   {
+    "name": "リッチ東京絆トレード八王子店",
+    "pref": "東京都"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1719/",
+   "https://autoc-one.jp/ullo/shop/2794/",
+   "https://autoc-one.jp/ullo/shop/3231/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "車買取「リッチハート」「リッチ東京絆トレード」。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "Bgroup株式会社",
+  "count": 3,
+  "stores": [
+   {
+    "name": "B-garage",
+    "pref": "岐阜県"
+   },
+   {
+    "name": "AUTO DEALER TOKYO 輸入車専門店",
+    "pref": "東京都"
+   },
+   {
+    "name": "オートディーラー福岡/輸入車専門店",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/2130/",
+   "https://autoc-one.jp/ullo/shop/2709/",
+   "https://autoc-one.jp/ullo/shop/2741/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "輸入車販売・買取「B-garage」「オートディーラー東京/福岡」。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "合同会社クリアスペース",
+  "count": 3,
+  "stores": [
+   {
+    "name": "車買取専門店 合同会社クリアスペース",
+    "pref": "福岡県"
+   },
+   {
+    "name": "クリアスペース久留米店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "クリアスペース古賀店",
+    "pref": "福岡県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/507/",
+   "https://autoc-one.jp/ullo/shop/2036/",
+   "https://autoc-one.jp/ullo/shop/3466/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "車買取専門店（那珂川・久留米・古賀）。直販・業販・輸出も。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "合同会社ENDLESS",
+  "count": 3,
+  "stores": [
+   {
+    "name": "車買取レンジャー",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "キングビッド",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "キングビッド札幌",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/550/",
+   "https://autoc-one.jp/ullo/shop/1099/",
+   "https://autoc-one.jp/ullo/shop/2590/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "車買取「車買取レンジャー」「キングビッド」。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社スタイルウォーク",
+  "count": 3,
+  "stores": [
+   {
+    "name": "株式会社スタイルウォーク",
+    "pref": "山梨県"
+   },
+   {
+    "name": "COAZ",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "スタイルウォーク湘南平塚店",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/564/",
+   "https://autoc-one.jp/ullo/shop/2498/",
+   "https://autoc-one.jp/ullo/shop/3271/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "中古車販売・買取（山梨本社・川口COAZ・湘南平塚）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社インフィックス",
+  "count": 3,
+  "stores": [
+   {
+    "name": "MINI中古車専門店 iR イール",
+    "pref": "東京都"
+   },
+   {
+    "name": "輸入車出張買取専門店ザ・カービー",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "ランドローバー専門店ザ・グッドネイバーカーズ",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/618/",
+   "https://autoc-one.jp/ullo/shop/1851/",
+   "https://autoc-one.jp/ullo/shop/2949/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "輸入車専門店（MINI専門iR・ランドローバー専門ザ・グッドネイバーカーズ・出張買取ザ・カービー）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社渥美モータース（アツミモータース）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "アツミモータース買取事業部",
+    "pref": "愛知県"
+   },
+   {
+    "name": "アツミモータース浜松船越店",
+    "pref": "静岡県"
+   },
+   {
+    "name": "アツミモータース名古屋茶屋店",
+    "pref": "愛知県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/777/",
+   "https://autoc-one.jp/ullo/shop/778/",
+   "https://autoc-one.jp/ullo/shop/3384/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "愛知・静岡で中古車販売・買取「アツミモータース」。中古車情報サイトでは岡崎一番店・豊川インター店・浜北インター店・田原店も掲載、「愛知・静岡エリアに6〜7店舗」との記載あり（未確認）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社T-three famille",
+  "count": 3,
+  "stores": [
+   {
+    "name": "T-three famille",
+    "pref": "千葉県"
+   },
+   {
+    "name": "T-three famille 愛知店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "T-threefamille松山店",
+    "pref": "愛媛県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1290/",
+   "https://autoc-one.jp/ullo/shop/2370/",
+   "https://autoc-one.jp/ullo/shop/2593/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "中古車販売・買取（千葉・愛知・愛媛）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "ネクストカーズプロ（法人格未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "ネクストカーズプロ",
+    "pref": "千葉県"
+   },
+   {
+    "name": "ネクストカーズプロ取手店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "ネクストカーズプロ岩槻インター店",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1411/",
+   "https://autoc-one.jp/ullo/shop/1428/",
+   "https://autoc-one.jp/ullo/shop/1437/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "中古車買取・販売（野田・取手・岩槻）。MOTA上の運営者表記に法人格なし。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社One For All",
+  "count": 3,
+  "stores": [
+   {
+    "name": "株式会社One For All",
+    "pref": "栃木県"
+   },
+   {
+    "name": "株式会社One For All 栃木店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "OneForAll③",
+    "pref": "栃木県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1619/",
+   "https://autoc-one.jp/ullo/shop/3414/",
+   "https://autoc-one.jp/ullo/shop/3503/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "栃木県で車買取（宇都宮・栃木・大田原）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "ONE&PEACE株式会社",
+  "count": 3,
+  "stores": [
+   {
+    "name": "ラビット燕三条店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ラビットながおか花火館前店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "ラビット新潟小新インター店",
+    "pref": "新潟県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1709/",
+   "https://autoc-one.jp/ullo/shop/2555/",
+   "https://autoc-one.jp/ullo/shop/2556/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "ラビット加盟店（燕三条・長岡・新潟小新）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社スマイルカンパニー（スマイルカーズ）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "スマイルカーズ宇都宮店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "スマイルカーズ千葉市原店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "スマイルカーズ庄内鶴岡店",
+    "pref": "山形県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1714/",
+   "https://autoc-one.jp/ullo/shop/2576/",
+   "https://autoc-one.jp/ullo/shop/2824/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "車買取「スマイルカーズ」（宇都宮・市原・鶴岡）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社STEPs（VALUSE）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "VALUSEバリュース",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "VALUSE西東京支店",
+    "pref": "東京都"
+   },
+   {
+    "name": "VALUSEアクア・プリウス専門店",
+    "pref": "神奈川県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1754/",
+   "https://autoc-one.jp/ullo/shop/2984/",
+   "https://autoc-one.jp/ullo/shop/2985/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "車買取・販売「VALUSE」。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ドライブステージ",
+  "count": 3,
+  "stores": [
+   {
+    "name": "大阪（八尾）店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "奈良店",
+    "pref": "奈良県"
+   },
+   {
+    "name": "神戸店",
+    "pref": "兵庫県"
+   }
+  ],
+  "hq": "大阪府大阪市平野区長吉出戸8丁目4番17号",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "https://www.drivestage.com/",
+  "form": "https://www.drivestage.com/contact",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://www.drivestage.com/company",
+   "https://autoc-one.jp/ullo/shop/1826/",
+   "https://autoc-one.jp/ullo/shop/3316/",
+   "https://autoc-one.jp/ullo/shop/3317/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "中古車販売・買取・車検・整備。公式会社概要に大阪（八尾）・奈良・神戸の3店舗（香芝店はOPEN準備中のため除外）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社レッツ",
+  "count": 3,
+  "stores": [
+   {
+    "name": "株式会社レッツ　四街道インター店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "株式会社レッツ千葉店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "株式会社レッツ千葉北店",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1894/",
+   "https://autoc-one.jp/ullo/shop/1895/",
+   "https://autoc-one.jp/ullo/shop/3380/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "千葉県で中古車買取・販売（四街道・千葉・千葉北）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "有限会社夢形（オーパーツ）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "オーパーツ115号店",
+    "pref": "福島県"
+   },
+   {
+    "name": "オーパーツ那須塩原店",
+    "pref": "栃木県"
+   },
+   {
+    "name": "オーパーツ古川店",
+    "pref": "宮城県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/2946/",
+   "https://autoc-one.jp/ullo/shop/2962/",
+   "https://autoc-one.jp/ullo/shop/2963/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "中古車販売「オーパーツ」（福島・栃木・宮城）。ガリバー加盟店も運営との情報あり（未確認）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社高見澤",
+  "count": 3,
+  "stores": [
+   {
+    "name": "カーセブン長野店",
+    "pref": "長野県"
+   },
+   {
+    "name": "カーセブン中野店",
+    "pref": "長野県"
+   },
+   {
+    "name": "カーセブン佐久塚原店",
+    "pref": "長野県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/3143/",
+   "https://autoc-one.jp/ullo/shop/3144/",
+   "https://autoc-one.jp/ullo/shop/3219/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "カーセブン加盟店（長野・中野・佐久塚原）。 店舗数はMOTA車買取に掲載の拠点数（3、所在地の重複は除外）で、MOTA非掲載店舗は含まない下限値。"
+ },
+ {
+  "status": "under5",
+  "name": "Wohl株式会社（ウォール中古車買取センター）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "ウォール中古車買取センター",
+    "pref": "東京都"
+   },
+   {
+    "name": "ウォールGR千葉北インター店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "ウォール中古車買取センター甲府昭和インター店",
+    "pref": "山梨県"
+   },
+   {
+    "name": "ウォール中古車買取センター東名清水インター店",
+    "pref": "静岡県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/1565/",
+   "https://autoc-one.jp/ullo/shop/1684/",
+   "https://autoc-one.jp/ullo/shop/1320/",
+   "https://autoc-one.jp/ullo/shop/1842/"
+  ],
+  "confidence": "高：運営会社名で確認（MOTA店舗ページの「運営」欄）",
+  "memo": "車買取「ウォール中古車買取センター」（西東京・千葉北・甲府昭和・清水）。店舗数はMOTA掲載拠点数（4）の下限値。"
+ },
+ {
+  "status": "list",
+  "name": "有限会社オートショップ道央（オートボーイ）",
+  "count": 6,
+  "stores": [
+   {
+    "name": "オートボーイ下手稲店",
+    "pref": "北海道"
+   },
+   {
+    "name": "オートボーイ西店",
+    "pref": "北海道"
+   },
+   {
+    "name": "オートボーイ旭川店",
+    "pref": "北海道"
+   },
+   {
+    "name": "オートボーイ北見店",
+    "pref": "北海道"
+   },
+   {
+    "name": "オートボーイ帯広店",
+    "pref": "北海道"
+   },
+   {
+    "name": "オートボーイ函館店",
+    "pref": "北海道"
+   }
+  ],
+  "hq": "北海道札幌市西区発寒14条14丁目2-10",
+  "tel": "011-676-2000",
+  "fax": "011-676-2001",
+  "rep": "徳増 徹",
+  "url": "https://autoboy-cars.com/",
+  "form": "https://autoboy-cars.com/contact/",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（「クルマ買取専門店オートボーイ」）",
+  "employees": "",
+  "sources": [
+   "https://autoboy-cars.com/aboutus/",
+   "https://autoboy-cars.com/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "新車・中古車販売、車買取、リース「オートボーイ」。公式会社案内に6店舗（札幌2・旭川・北見・帯広・函館）。"
+ },
+ {
+  "status": "under5",
+  "name": "東自動車商会（法人格未確認）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "本社",
+    "pref": "新潟県"
+   },
+   {
+    "name": "カーハウス・上越インター店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "大学前店",
+    "pref": "新潟県"
+   },
+   {
+    "name": "清里店",
+    "pref": "新潟県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "",
+  "sources": [
+   "https://www.kurumaerabi.com/shop/detail/40009046/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "上越市の軽自動車中心の中古車販売。車選びドットコムの販売店コメントに「上越エリアで本社&カーハウス・上越インター店・大学前店・清里店の4拠点展開」。民間車検場あり。法人格・本社所在地は未確認。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ラフテル",
+  "count": 3,
+  "stores": [
+   {
+    "name": "福島店",
+    "pref": "福島県"
+   },
+   {
+    "name": "仙台支店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "山形県内店舗（店名未確認）",
+    "pref": "山形県"
+   }
+  ],
+  "hq": "",
+  "tel": "",
+  "fax": "",
+  "rep": "",
+  "url": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（MOTA車買取加盟）",
+  "employees": "",
+  "sources": [
+   "https://autoc-one.jp/ullo/shop/3280/",
+   "https://www.kurumaerabi.com/shop/detail/34762/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "車買取・販売。MOTA掲載は福島・仙台の2拠点（運営欄で社名確認）。販売店コメントに「宮城県の他に福島県、山形県にもお店を構えて」とあり3店舗と推定。山形の店舗は未確認。"
  }
 ]

@@ -25,8 +25,8 @@ def allowed(url):
                 rp.parse(open(rp_path, encoding="utf-8", errors="ignore").read().splitlines())
             except Exception:
                 rp.allow_all = True
-        elif st[:1] == "5" or not st[:1].isdigit():
-            rp.disallow_all = True   # robots.txt unreachable (5xx/network): RFC 9309 says assume full disallow
+        elif st[:1] in ("0", "5") or not st[:1].isdigit():
+            rp.disallow_all = True   # robots.txt unreachable (5xx/network/000): RFC 9309 says assume full disallow
         else:
             rp.allow_all = True   # 4xx/no robots.txt = no restriction
         _rp[root] = rp
