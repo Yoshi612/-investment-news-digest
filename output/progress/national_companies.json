@@ -2728,10 +2728,26 @@
   "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。 社名の正式表記は「サコダ車輌」の可能性。本社は広島市中区舟入南、売上高158億円・従業員240名（求人情報）。自社店舗の海田店（軽自動車専門）と佐伯区五日市の拠点もあり、合計4か所以上。自社サイト未確認のため境界扱い。"
  },
  {
-  "status": "under5",
+  "status": "list",
   "name": "株式会社トータス",
-  "count": 2,
+  "count": 6,
   "stores": [
+   {
+    "name": "トータス 大和店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "トータス 厚木店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "トータス 相模原店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "トータス 平塚店",
+    "pref": "神奈川県"
+   },
    {
     "name": "アップル大和店",
     "pref": "神奈川県"
@@ -2741,12 +2757,13 @@
     "pref": "神奈川県"
    }
   ],
+  "url": "https://www.tortoise-k-carlife.com/",
   "sources": [
-   "https://www.applenet.co.jp/shop/0306/",
-   "https://www.applenet.co.jp/shop/0340/"
+   "https://www.tortoise-k-carlife.com/（接続できず。検索結果の抜粋）",
+   "https://www.applenet.co.jp/shop/"
   ],
-  "confidence": "高：運営会社名で確認",
-  "memo": "アップルの加盟店として2店舗。自社ブランドなど他の店舗があれば5店舗以上になる可能性あり（未確認）。"
+  "confidence": "中：店舗名からの推定",
+  "memo": "軽自動車の中古車・未使用車専門店「トータス」4店舗（検索結果に表示された公式サイトの店舗一覧）と、アップル加盟店2店舗（本部サイトで運営会社「株式会社トータス」を確認）の合計。専門店トータスの運営会社がアップル加盟店と同じ法人かは、公式サイトに接続できず未確認。"
  },
  {
   "status": "under5",
@@ -3578,9 +3595,11 @@
     "pref": "石川県"
    }
   ],
+  "hq": "富山県高岡市二塚425番地",
+  "tel": "0120-540-118",
   "url": "https://www.kojyo-motors.com/",
   "sources": [
-   "https://www.kojyo-motors.com/（検索結果の抜粋）"
+   "https://www.kojyo-motors.com/"
   ],
   "confidence": "中：店舗名からの推定"
  },
@@ -3790,5 +3809,313 @@
   ],
   "confidence": "中：店舗名からの推定",
   "memo": "軽自動車39.8万円専門店ほか。確認できたのは2店舗と新店舗（みどり市笠懸町、オープン予定）。公式サイト未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社ユー・パーク",
+  "stores": [
+   {
+    "name": "本店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "ギャラリア店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "スクウェアー店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アリーナ店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "プラザ店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "スタイル店",
+    "pref": "埼玉県"
+   }
+  ],
+  "hq": "埼玉県さいたま市岩槻区釣上新田329-1",
+  "tel": "048-798-9566",
+  "fax": "048-798-9590",
+  "url": "https://www.u-parknet.com/",
+  "dept": "買取無料査定あり",
+  "sources": [
+   "https://www.u-parknet.com/about-us/",
+   "https://www.u-parknet.com/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "国産車・輸入車（メルセデス・BMW等）の中古車販売。店舗は公式サイトの店舗情報6店舗（ほかに整備工場2か所）。各店舗の所在県は本社と同じ埼玉県と推定（未確認）。",
+  "count": 6
+ },
+ {
+  "status": "under5",
+  "name": "GARIREO（ガリレオ、愛媛）",
+  "count": 1,
+  "stores": [
+   {
+    "name": "軽自動車専門店 ガリレオケイランド",
+    "pref": "愛媛県"
+   }
+  ],
+  "tel": "0800-200-3440",
+  "url": "https://garireo.co.jp/",
+  "sources": [
+   "https://garireo.co.jp/shops/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "「松山市と東温市に5店舗」の表記だが、販売店はケイランドで、ほかは整備工場（サービステラス）とコバック併設店（谷町・余戸・重信）。コバック併設店で販売もしていれば5店舗になる。運営会社の正式名称は未確認（GARIREO Corporation）。"
+ },
+ {
+  "status": "under5",
+  "name": "月原自動車株式会社",
+  "count": 2,
+  "stores": [
+   {
+    "name": "ハピット 今治",
+    "pref": "愛媛県"
+   },
+   {
+    "name": "ハピット 新居浜",
+    "pref": "愛媛県"
+   }
+  ],
+  "hq": "愛媛県今治市小泉4丁目1-2",
+  "tel": "0898-35-4488",
+  "rep": "月原正志",
+  "url": "https://hapit-car.com/",
+  "sources": [
+   "https://hapit-car.com/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "ハピット軽未使用車専門店。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社world of star",
+  "count": 1,
+  "stores": [
+   {
+    "name": "軽ワールド 和歌山湊店",
+    "pref": "和歌山県"
+   }
+  ],
+  "hq": "和歌山県和歌山市湊1820-160",
+  "tel": "073-488-9199",
+  "rep": "中谷和弘",
+  "url": "https://kworld.jp/",
+  "sources": [
+   "https://kworld.jp/"
+  ],
+  "confidence": "中：店舗名からの推定"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社ユアーズ",
+  "count": 2,
+  "stores": [
+   {
+    "name": "森町店",
+    "pref": "大分県"
+   },
+   {
+    "name": "下郡店",
+    "pref": "大分県"
+   }
+  ],
+  "hq": "大分県大分市森437-1",
+  "tel": "097-578-9499",
+  "url": "https://kei-mishiyousya.com/",
+  "sources": [
+   "https://kei-mishiyousya.com/"
+  ],
+  "confidence": "中：店舗名からの推定"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社カーボ",
+  "count": 2,
+  "stores": [
+   {
+    "name": "開発店",
+    "pref": "福井県"
+   },
+   {
+    "name": "鯖江店",
+    "pref": "福井県"
+   }
+  ],
+  "hq": "福井県福井市開発町6-15",
+  "tel": "0776-52-7515",
+  "url": "https://www.cavo-kei.jp/",
+  "sources": [
+   "https://www.cavo-kei.jp/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "グループ全体の従業員141名（グループ会社の店舗は未確認）。"
+ },
+ {
+  "status": "under5",
+  "name": "株式会社サンアイク",
+  "count": 1,
+  "stores": [
+   {
+    "name": "茂原店",
+    "pref": "千葉県"
+   }
+  ],
+  "hq": "千葉県茂原市腰当526-1",
+  "url": "https://www.sunaiku.com/",
+  "sources": [
+   "https://www.sunaiku.com/"
+  ],
+  "confidence": "中：店舗名からの推定"
+ },
+ {
+  "status": "list",
+  "name": "株式会社サークルエム",
+  "count": 9,
+  "stores": [
+   {
+    "name": "カートルズ越谷店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "カートルズ鶴ヶ島店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "カートルズ草加店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "カートルズ青梅インター店",
+    "pref": "東京都"
+   },
+   {
+    "name": "カートルズ相模原店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "カートルズ千葉店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "カートルズ岡崎店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "カートルズ名古屋店",
+    "pref": "愛知県"
+   },
+   {
+    "name": "カートルズ北九州店",
+    "pref": "福岡県"
+   }
+  ],
+  "tel": "048-970-2444",
+  "url": "https://1190.jp/",
+  "sources": [
+   "https://1190.jp/shop/",
+   "求人情報（検索結果の抜粋：カートルズ草加店【株式会社サークルエム】）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "自社ローン専門店「カートルズ」。公式サイトの店舗一覧で販売店9店舗（ほかに整備工場とBlackbunny）。求人では「直営13店舗」とも。運営会社名は草加店の求人表記によるもので、全店が同じ法人かは未確認。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社アビックスコーポレーション",
+  "count": 15,
+  "stores": [
+   {
+    "name": "AVIX IMPORT 府中店",
+    "pref": "東京都"
+   },
+   {
+    "name": "AVIX IMPORT 多摩センター店",
+    "pref": "東京都"
+   },
+   {
+    "name": "AVIX IMPORT 川崎生田店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "AVIX IMPORT 木更津金田インター店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "ほか関東9店舗",
+    "pref": ""
+   },
+   {
+    "name": "仙台東インター店",
+    "pref": "宮城県"
+   },
+   {
+    "name": "名古屋北店",
+    "pref": "愛知県"
+   }
+  ],
+  "url": "https://www.avix.co.jp/",
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/9510200（検索結果の抜粋）",
+   "https://www.goo-net.com/user_review/0500520/（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "輸入車専門店AVIX IMPORT。店舗紹介文の「関東地区13店舗＆関西地区3店舗＆仙台東インター＆名古屋北店」から、関西3店舗（アビックス大阪株式会社の運営）を除いて15店舗とした。仙台・名古屋の運営会社は未確認。公式サイトは接続できず。"
+ },
+ {
+  "status": "under5",
+  "name": "アビックス大阪株式会社",
+  "count": 3,
+  "stores": [
+   {
+    "name": "AVIX IMPORT 宝塚インター店ほか関西3店舗",
+    "pref": "兵庫県"
+   }
+  ],
+  "sources": [
+   "https://car.motor-fan.jp/ucar/shop/9700321（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "アビックスコーポレーションのグループ会社とみられる。"
+ },
+ {
+  "status": "list",
+  "name": "株式会社AOZORA COMPANY",
+  "count": 6,
+  "stores": [
+   {
+    "name": "オーシャンデザイン 新潟本社",
+    "pref": "新潟県"
+   },
+   {
+    "name": "オーシャンデザイン 八王子店",
+    "pref": "東京都"
+   },
+   {
+    "name": "オーシャンデザイン 大阪和泉店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "オーシャンデザイン 行橋店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "ほか2店舗",
+    "pref": ""
+   }
+  ],
+  "hq": "新潟県新潟市西区黒鳥5243番地1",
+  "sources": [
+   "https://voix.jp/life/news/74929/（検索結果の抜粋）",
+   "厚生労働省公開PDFの企業リスト（検索結果の抜粋）"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "ブランドはオーシャンデザイン（自社ローン対応の中古車販売、レンタカーも運営）。新潟本社の案内に「6店舗合わせてグループ総在庫600台」とある一方、「全国60店舗営業中」との掲載もあり、店舗数の食い違いが大きい（60店舗なら31店舗以上で除外対象）。公式サイト未確認。"
  }
 ]

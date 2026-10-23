@@ -1,0 +1,276 @@
+[
+ {
+  "name": "ガリレオ（愛媛）",
+  "url": "https://garireo.co.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://garireo.co.jp/",
+    "https://garireo.co.jp/shops/",
+    "https://garireo.co.jp/shops/keiland.php",
+    "https://garireo.co.jp/shops/serviceterrace.php",
+    "https://garireo.co.jp/shops/tanimachi.php"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 5,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "0800-200-3440",
+   "fax": "089-990-3442",
+   "mail": [],
+   "form": [
+    "https://garireo.co.jp/contact/",
+    "https://garireo.co.jp/information/",
+    "https://garireo.co.jp/information/4595/"
+   ],
+   "sns": [
+    "https://www.facebook.com/garireogroup/",
+    "https://www.instagram.com/garireo.corp/",
+    "https://www.youtube.com/watch?v=FIerRFoO2Hk"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "ハピット（愛媛）",
+  "url": "https://hapit-car.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://hapit-car.com/",
+    "https://hapit-car.com/about/",
+    "https://hapit-car.com/company/",
+    "https://hapit-car.com/blog/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/1720/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 3,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "月原自動車株式会社",
+   "rep": "月原 正志",
+   "addr": "〒794-0064 愛媛県今治市小泉4丁目1-2",
+   "employees": "67名（2018年2月）",
+   "tel": "0898-35-4488",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://hapit-car.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhapit-car.com%2Fblog%2F%25e3%2581%258a%25e7%259f%25a5%25e3%2582%2589%25e3%2581%259b%2F1720%2F&#038;format=xml",
+    "https://hapit-car.com/contact/private_form.php"
+   ],
+   "sns": [
+    "//www.instagram.com/tsukihara_kobac_hapit/"
+   ],
+   "dept": [
+    "2022.06.01 軽未使用車専門店ハピット買取強化フェア開催",
+    "まだまだ高価買取可能です",
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "車買取専門店「カーチェンジA1」をオープン"
+   ]
+  }
+ },
+ {
+  "name": "軽ワールド（和歌山）",
+  "url": "https://kworld.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://kworld.jp/",
+    "https://kworld.jp/about/",
+    "https://kworld.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社world of star",
+   "rep": "中谷 和弘",
+   "addr": "〒640-8404 和歌山市湊1820-160",
+   "employees": "50名",
+   "tel": "073-488-9199",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://kworld.jp/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/398ecott/",
+    "https://www.instagram.com/k_world_wos/"
+   ],
+   "dept": [
+    "■車輌販売・買取業務・修理・点検・車検整備業務",
+    "人気と需要が高いので高価買取が可能となります。買い替え時の下取り価格が普通車よりも割高です。",
+    "仕入れ～展示までの流れ",
+    "仕入～展示までの流れ",
+    "厳選仕入れのクルマをベテランスタッフがしっかり整備。価格はお手頃ですが品質は最高の中古車を集めました。"
+   ]
+  }
+ },
+ {
+  "name": "ユアーズ（大分）",
+  "url": "https://kei-mishiyousya.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://kei-mishiyousya.com/",
+    "https://kei-mishiyousya.com/about/",
+    "https://kei-mishiyousya.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社ユアーズ",
+   "rep": "あいさつ",
+   "addr": "〒870-0128 大分県大分市森437-1",
+   "employees": "40人",
+   "tel": "097-578-9499",
+   "fax": "097-578-9498",
+   "mail": [],
+   "form": [
+    "https://kei-mishiyousya.com/contact/"
+   ],
+   "sns": [
+    "https://mobile.twitter.com/yoursmorimachi",
+    "https://www.facebook.com/profile.php?id=100051315455124",
+    "https://www.instagram.com/yours_morimachi/"
+   ],
+   "dept": [
+    "大分市森町にて車買取ラビット森町店移転オープン",
+    "大分市津留にて車買取ラビット津留店をオープン",
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安",
+    "届出済未使用車は売却した時もまだまだ高価買取可能です(新しいクルマだからです)"
+   ]
+  }
+ },
+ {
+  "name": "カーボ（福井）",
+  "url": "https://www.cavo-kei.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.cavo-kei.jp/",
+    "https://www.cavo-kei.jp/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 3,
+    "link_names": [
+     "株式会社カーボ　開発店",
+     "開発店",
+     "鯖江店"
+    ]
+   },
+   "company": "株式会社カーボ",
+   "rep": "あいさつ",
+   "addr": "〒910-0841 福井県福井市開発町6-15",
+   "employees": "80人（グループ全体では141名）",
+   "tel": "0776-52-7515",
+   "fax": "0776-52-7516",
+   "mail": [],
+   "form": [],
+   "sns": [
+    "https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%BC%E3%83%9C-%E9%96%8B%E7%99%BA%E5%BA%97-290171498441237/",
+    "https://www.youtube.com/channel/UCxDgN3q4pMTGrsYSE4tvuKg/"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "古城モータース",
+  "url": "https://www.kojyo-motors.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.kojyo-motors.com/",
+    "https://www.kojyo-motors.com/shop/",
+    "https://www.kojyo-motors.com/shop/takaoka.php",
+    "https://www.kojyo-motors.com/shop/toyama.php",
+    "https://www.kojyo-motors.com/shop/hakusan.php"
+   ],
+   "est": {
+    "postal": 3,
+    "phrase": 3,
+    "links": 3,
+    "link_names": [
+     "富山店",
+     "石川白山店",
+     "高岡本店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "〒933-0816 富山県高岡市二塚425番地",
+   "employees": "",
+   "tel": "0120-540-118",
+   "fax": "0766-21-1652",
+   "mail": [],
+   "form": [
+    "https://www.kojyo-motors.com/contact/"
+   ],
+   "sns": [
+    "https://www.instagram.com/kojyomotors/"
+   ],
+   "dept": [
+    "査定・買取"
+   ]
+  }
+ },
+ {
+  "name": "サンアイク",
+  "url": "https://www.sunaiku.com/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.sunaiku.com/",
+    "https://www.sunaiku.com/about/",
+    "https://www.sunaiku.com/company/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 1,
+    "link_names": [
+     "茂原店"
+    ]
+   },
+   "company": "株式会社サンアイク",
+   "rep": "挨拶",
+   "addr": "千葉県茂原市腰当526-1",
+   "employees": "34名",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.sunaiku.com/contact/"
+   ],
+   "sns": [
+    "https://www.facebook.com/Sunaiku",
+    "https://www.instagram.com/sun.aiku?igsh=MTRwZTNpbjIxNG9tcg==",
+    "https://www.youtube.com/channel/UCfgnm9g0BLvUkXM0CX8w-gQ",
+    "https://x.com/sunaiku_319"
+   ],
+   "dept": [
+    "お車の買取希望の方",
+    "お車の買取希望の方 -->",
+    "人気と需要が高いので高価買取が可能となります。買い替え時の下取り価格が普通車よりも割高です。",
+    "大量仕入れすることにより、ロープライスが実現します！自動車は時間と共に価値が下がってしまいます。",
+    "大量仕入れ＆薄利多売で格安"
+   ]
+  }
+ }
+]

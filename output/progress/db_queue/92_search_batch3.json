@@ -1,0 +1,104 @@
+[
+ {
+  "name": "株式会社ユー・パーク",
+  "url": "https://www.u-parknet.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.u-parknet.com/",
+    "https://www.u-parknet.com/purchase-support/land_transport_company/",
+    "https://www.u-parknet.com/store_guide/",
+    "https://www.u-parknet.com/store_guide/head_office/",
+    "https://www.u-parknet.com/store_guide/galleria/"
+   ],
+   "est": {
+    "postal": 3,
+    "phrase": 6,
+    "links": 11,
+    "link_names": [
+     "-アリーナ店",
+     "-ギャラリア店",
+     "-スクウェアー店",
+     "-スタイル店",
+     "-プラザ店",
+     "-本店",
+     "アリーナ店",
+     "ギャラリア店",
+     "スクウェアー店",
+     "スタイル店",
+     "プラザ店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "048-798-9566",
+   "fax": "048-798-9590",
+   "mail": [
+    "arena@u-parknet.com",
+    "galleria@u-parknet.com",
+    "honsha@u-parknet.com"
+   ],
+   "form": [
+    "https://www.u-parknet.com/contact",
+    "https://www.u-parknet.com/contact/"
+   ],
+   "sns": [],
+   "dept": [
+    "-買取無料査定",
+    "買取無料査定"
+   ]
+  }
+ },
+ {
+  "name": "トータス（神奈川）",
+  "url": "https://www.tortoise-k-carlife.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.tortoise-k-carlife.com/",
+    "403 https://www.tortoise-k-carlife.com/"
+   ]
+  }
+ },
+ {
+  "name": "GTNET",
+  "url": "https://www.gt-net.co.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "https://www.gt-net.co.jp/"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "03-6915-3645",
+   "fax": "03-6915-3652",
+   "mail": [],
+   "form": [
+    "https://www.gt-net.co.jp/contact"
+   ],
+   "sns": [],
+   "dept": []
+  }
+ },
+ {
+  "name": "軽プラザサンライズ",
+  "url": "https://www.sunrise-motors.co.jp/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.sunrise-motors.co.jp/",
+    "000 https://www.sunrise-motors.co.jp/"
+   ]
+  }
+ }
+]
