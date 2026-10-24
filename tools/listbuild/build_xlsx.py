@@ -103,6 +103,11 @@ def main(src, out):
     s.append(["確度", "社数"])
     for k, v in sorted(Counter(c.get("confidence", "") for c in listed).items()):
         s.append([k, v])
+    s.append([])
+    s.append(["要判断（メモ欄が【要判断】で始まる会社）", sum(str(c.get("memo", "")).startswith("【要判断】") for c in listed)])
+    s.append(["電話番号に店舗番号等を入れた会社（番号の後ろに注記あり）", sum("（" in str(c.get("tel") or "") for c in listed)])
+    s.append([])
+    s.append(["出典：国税庁法人番号公表サイト（国税庁）（https://www.houjin-bangou.nta.go.jp/）を加工して作成（本社所在地の一部）"])
     s.column_dimensions["A"].width = 40
     s.column_dimensions["B"].width = 10
     for r in s.iter_rows():
