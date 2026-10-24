@@ -1,0 +1,224 @@
+[
+ {
+  "name": "カーメル",
+  "url": "https://carmelonline.jp/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://carmelonline.jp/",
+    "https://carmelonline.jp/shop/",
+    "https://carmelonline.jp/archives/shop-blog",
+    "https://carmelonline.jp/company/"
+   ],
+   "est": {
+    "postal": 4,
+    "phrase": 0,
+    "links": 1,
+    "link_names": [
+     "お近くの店舗"
+    ]
+   },
+   "company": "合同会社アイズ",
+   "rep": "挨拶",
+   "addr": "〒979-0204 福島県いわき市四倉町細谷字大町１番",
+   "employees": "",
+   "tel": "050-1793-5554",
+   "fax": "050-3142-9733",
+   "mail": [],
+   "form": [
+    "https://carmelonline.jp/contact-form/",
+    "https://carmelonline.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcarmelonline.jp%2F&#038;format=xml",
+    "https://carmelonline.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcarmelonline.jp%2Fcompany&#038;format=xml"
+   ],
+   "sns": [],
+   "dept": [
+    "新車・中古車販売、リース、ローン相談、保険、買取まで、"
+   ]
+  }
+ },
+ {
+  "name": "アースジャパン（DIBLE）",
+  "url": "http://www.dible.jp/",
+  "status": "likely_under5",
+  "evidence": {
+   "pages": [
+    "http://www.dible.jp/",
+    "https://www.dible.jp/company",
+    "https://www.dible.jp/shop1",
+    "https://www.dible.jp/shop2",
+    "https://www.dible.jp/shop6",
+    "https://www.dible.jp/shop12"
+   ],
+   "est": {
+    "postal": 1,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "株式会社ディブル・ジャパン",
+   "rep": "メッセージ",
+   "addr": "〒344-0059 埼玉県春日部市西八木崎３丁目９－１５",
+   "employees": "47名(グループ総数)",
+   "tel": "048-812-4890",
+   "fax": "048-812-4891",
+   "mail": [],
+   "form": [
+    "https://www.dible.jp/category/information",
+    "https://www.dible.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dible.jp%2Fcompany%2F&#038;format=xml",
+    "https://www.dible.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dible.jp%2Fshop1%2F&#038;format=xml"
+   ],
+   "sns": [
+    "https://www.facebook.com/diblejp/",
+    "https://www.instagram.com/sunnysidepark2023/",
+    "https://www.instagram.com/uramarl_kasukabe_pizza/",
+    "https://www.youtube.com/channel/UC3ua-s3JTbyHf1xfX44qrSA"
+   ],
+   "dept": [
+    "DIBLE CARS PURCHASE ～高価買取～",
+    "R35 GT-R 高価買取",
+    "ディブルジャパンは、厳選中古車の販売と高価買取で、お客様のカーライフを豊かにします。",
+    "ピッタリの一台探しから買取まで、初めての方も安心の丁寧サポートで対応します。",
+    "下取り・買取り査定申込フォーム"
+   ]
+  }
+ },
+ {
+  "name": "クイックモーション",
+  "url": "https://www.quick-motion.biz/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.quick-motion.biz/",
+    "https://www.quick-motion.biz/店舗情報"
+   ],
+   "est": {
+    "postal": 0,
+    "phrase": 0,
+    "links": 4,
+    "link_names": [
+     "オールジャンル/浦和本店",
+     "富士見店",
+     "川越店",
+     "浦和本店"
+    ]
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [
+    "quick_motion612@yahoo.co.jp"
+   ],
+   "form": [],
+   "sns": [
+    "https://instagram.com/wix/",
+    "https://www.facebook.com/search/top?q=ｑｕｉｃｋ%E3%80%80ｍｏｔｉｏｎ%E3%80%80クイックモーション"
+   ],
+   "dept": []
+  }
+ },
+ {
+  "name": "トラストカーズ",
+  "url": "https://trust-cars.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://trust-cars.com/",
+    "https://trust-cars.com/shop/",
+    "https://trust-cars.com/aboutus/",
+    "https://trust-cars.com/shop/kishiwada.html",
+    "https://trust-cars.com/shop/osaka.html",
+    "https://trust-cars.com/shop/takaishi.html"
+   ],
+   "est": {
+    "postal": 4,
+    "phrase": 5,
+    "links": 5,
+    "link_names": [
+     "ひまわりガーデン エコールいずみ店",
+     "ひまわりガーデン エコール・いずみ店",
+     "大阪店",
+     "岸和田店",
+     "高石店"
+    ]
+   },
+   "company": "",
+   "rep": "土井 健",
+   "addr": "・連絡先",
+   "employees": "",
+   "tel": "072-430-1666",
+   "fax": "072-430-1667",
+   "mail": [],
+   "form": [
+    "https://trust-cars.com/contact/"
+   ],
+   "sns": [
+    "https://www.instagram.com/trustholdings_/"
+   ],
+   "dept": [
+    "ひまわりガーデン エコール・いずみ店 車買取・販売",
+    "ネットでおおよその買取価格のお見積りや無料出張査定のお申込みも受付けております！",
+    "ネットで買取価格を見積り",
+    "中古車・新車のお問い合わせ・車の買取・車検や整備などお気軽にお問い合わせください。",
+    "中古車・新車・トラックの買取及び販売"
+   ]
+  }
+ },
+ {
+  "name": "イマミル",
+  "url": "https://www.ima-miru.jp/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.ima-miru.jp/",
+    "ROBOTS_DISALLOWED"
+   ]
+  }
+ },
+ {
+  "name": "株式会社A.M.D",
+  "url": "https://www.amd-car.com/",
+  "status": "fetch_failed",
+  "evidence": {
+   "top": [
+    "https://www.amd-car.com/",
+    "ROBOTS_DISALLOWED"
+   ]
+  }
+ },
+ {
+  "name": "株式会社U-CAR（smart.）",
+  "url": "https://www.smart-ucar.com/",
+  "status": "needs_review",
+  "evidence": {
+   "pages": [
+    "https://www.smart-ucar.com/"
+   ],
+   "est": {
+    "postal": 6,
+    "phrase": 0,
+    "links": 0,
+    "link_names": []
+   },
+   "company": "",
+   "rep": "",
+   "addr": "",
+   "employees": "",
+   "tel": "",
+   "fax": "",
+   "mail": [],
+   "form": [
+    "https://www.smart-ucar.com/contact.html"
+   ],
+   "sns": [],
+   "dept": [
+    "【smart.買取】であなたの車を高価買取！無料査定ですぐに現金化！",
+    "中古車 販売 買取 車検 U-CAR",
+    "中古車販売・買取・車検 U-CARグループ 福岡 八女 飯塚",
+    "愛車の売却をお考えなら、【smart.買取】にお任せください！販売専門店だからできる高価買取を体験してください！"
+   ]
+  }
+ }
+]

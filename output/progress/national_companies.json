@@ -4682,19 +4682,28 @@
   "count": 3,
   "stores": [
    {
-    "name": "カラーズKawagoe（川越）",
+    "name": "浦和本店",
     "pref": "埼玉県"
    },
    {
-    "name": "ほか2店舗",
+    "name": "富士見店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "川越店（カラーズKawagoe）",
     "pref": "埼玉県"
    }
   ],
   "sources": [
+   "https://www.quick-motion.biz/店舗情報",
+   "https://www.kurumaerabi.com/shop/detail/25249/",
+   "https://www.kurumaerabi.com/shop/detail/25251/",
+   "https://www.kurumaerabi.com/shop/detail/25250/",
    "https://ucar.carview.yahoo.co.jp/shop/saitama/214637003/（検索結果の抜粋）"
   ],
   "confidence": "中：店舗名からの推定",
-  "memo": "4WD・SUV専門店。「埼玉県を中心に3店舗」との掲載による。"
+  "memo": "4WD・SUVなど中古車販売。公式サイト「各店舗情報」に浦和本店・富士見店・川越店の3店舗（車選びドットコムの関連販売店でも同じ3店舗）。法人名は公式サイトで未確認。",
+  "url": "https://www.quick-motion.biz/"
  },
  {
   "status": "list",
@@ -8728,5 +8737,344 @@
   ],
   "confidence": "中：店舗名からの推定",
   "memo": "車買取・販売。車選びドットコムの県別買取店一覧に札幌本店・旭川店・青森店の3店舗。運営会社の法人名・公式サイトは未確認。"
+ },
+ {
+  "fax": "050-3142-9733",
+  "rep": "吉田 一平",
+  "form": "https://carmelonline.jp/contact-form/",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "",
+  "hq": "福島県いわき市四倉町細谷字大町1番",
+  "tel": "050-1793-5554",
+  "url": "https://carmelonline.jp/",
+  "status": "under5",
+  "name": "合同会社アイズ（カーメル）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "カーメル（いわき）",
+    "pref": "福島県"
+   },
+   {
+    "name": "カーメル千葉店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "カーメル小田原店",
+    "pref": "神奈川県"
+   },
+   {
+    "name": "カーメル山梨店",
+    "pref": "山梨県"
+   }
+  ],
+  "sources": [
+   "https://carmelonline.jp/company/",
+   "https://carmelonline.jp/shop/",
+   "https://www.kurumaerabi.com/shop/detail/24221/",
+   "https://www.kurumaerabi.com/shop/detail/27442/",
+   "https://www.kurumaerabi.com/shop/detail/28028/",
+   "https://www.kurumaerabi.com/shop/detail/31031/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古車販売「カーメル」（ローン・リース審査に不安のある方向けの販売を掲げる）。2022年設立。公式会社概要で社名、車選びドットコムの関連販売店で4店舗を確認。"
+ },
+ {
+  "fax": "048-812-4891",
+  "rep": "森高 祥幸",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "47名（グループ総数）",
+  "hq": "埼玉県春日部市西八木崎3丁目9-15",
+  "tel": "048-812-4890",
+  "url": "https://www.dible.jp/",
+  "status": "list",
+  "name": "株式会社ディブル・ジャパン（DIBLE CARS／アースジャパン）",
+  "count": 7,
+  "stores": [
+   {
+    "name": "MARC-ONE（春日部市西八木崎・本社）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "GLOBAL CREST 幸手店",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "DIBLE CARS GT-R SPORTS（春日部市下柳）",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "春日部市南中曽根の店舗",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "さいたま市岩槻区大野島の店舗",
+    "pref": "埼玉県"
+   },
+   {
+    "name": "アースジャパン つくば店",
+    "pref": "茨城県"
+   },
+   {
+    "name": "品川区西中延の店舗",
+    "pref": "東京都"
+   }
+  ],
+  "sources": [
+   "https://www.dible.jp/company",
+   "https://www.kurumaerabi.com/shop/detail/19315/",
+   "https://www.kurumaerabi.com/shop/detail/19312/",
+   "https://www.kurumaerabi.com/shop/detail/19309/",
+   "https://www.kurumaerabi.com/shop/detail/19308/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "輸入車・GT-R・スポーツカーなどの中古車販売。公式会社概要の「店舗所在地」7か所で計上（店名が分からない3か所は所在地で表記）。つくば店は「アースジャパン」名義だが車選びドットコムで関連販売店・同一公式サイト。"
+ },
+ {
+  "fax": "072-430-1667",
+  "rep": "土井 健",
+  "form": "https://trust-cars.com/contact/",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（中古車・トラックの買取及び販売）",
+  "employees": "",
+  "hq": "大阪府岸和田市上野町東5-5",
+  "tel": "072-430-1666",
+  "url": "https://trust-cars.com/",
+  "status": "under5",
+  "name": "株式会社トラストホールディングス（トラストカーズ）",
+  "count": 4,
+  "stores": [
+   {
+    "name": "岸和田店（本社）",
+    "pref": "大阪府"
+   },
+   {
+    "name": "大阪店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "高石店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "ひまわりガーデン エコール・いずみ店",
+    "pref": "大阪府"
+   }
+  ],
+  "sources": [
+   "https://trust-cars.com/aboutus/",
+   "https://trust-cars.com/shop/",
+   "https://www.kurumaerabi.com/shop/detail/22431/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古車・新車・トラックの買取・販売、車検整備・板金、レンタカー。2007年設立。公式会社案内に販売店4（岸和田車検センターは除外）。"
+ },
+ {
+  "fax": "",
+  "rep": "",
+  "form": "https://www.smart-ucar.com/contact.html",
+  "email": "",
+  "sns": [],
+  "dept": "車買取あり（smart.買取）",
+  "employees": "",
+  "hq": "",
+  "tel": "",
+  "url": "https://www.smart-ucar.com/",
+  "status": "list",
+  "name": "株式会社U-CAR（smart.）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "smart.八女店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "smart.久留米店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "smart.飯塚店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "smart.outlet 志免店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "smart.custom style須恵店",
+    "pref": "福岡県"
+   }
+  ],
+  "sources": [
+   "https://www.smart-ucar.com/",
+   "https://www.kurumaerabi.com/shop/detail/20002935/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古車販売・買取「smart.」。公式サイトの店舗一覧に福岡県内5店舗＋岸和田店（新規OPEN準備中のため除外）。sport styleは八女店と同住所のため別店舗に数えない。"
+ },
+ {
+  "fax": "",
+  "rep": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "",
+  "hq": "",
+  "tel": "",
+  "url": "",
+  "status": "under5",
+  "name": "株式会社A.M.D",
+  "count": 3,
+  "stores": [
+   {
+    "name": "株式会社A.M.D（松山市保免西4丁目）",
+    "pref": "愛媛県"
+   },
+   {
+    "name": "アウトレットA.M.D",
+    "pref": "愛媛県"
+   },
+   {
+    "name": "A.M.D 東京支店",
+    "pref": "東京都"
+   }
+  ],
+  "sources": [
+   "https://www.kurumaerabi.com/shop/detail/29629/",
+   "https://www.kurumaerabi.com/shop/detail/29773/",
+   "https://www.kurumaerabi.com/shop/detail/29774/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古車販売。車選びドットコムの販売店名「株式会社A.M.D」と関連販売店で3拠点（松山2・東京江戸川1）。公式サイト（amd-car.com）はrobots.txtが取得できずアクセスしていない。"
+ },
+ {
+  "fax": "",
+  "rep": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "",
+  "hq": "",
+  "tel": "",
+  "url": "",
+  "status": "under5",
+  "name": "ビジレンネクスト株式会社",
+  "count": 4,
+  "stores": [
+   {
+    "name": "枚方店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "堺店",
+    "pref": "大阪府"
+   },
+   {
+    "name": "宝塚店",
+    "pref": "兵庫県"
+   },
+   {
+    "name": "神戸西店",
+    "pref": "兵庫県"
+   }
+  ],
+  "sources": [
+   "https://www.kurumaerabi.com/shop/detail/32777/",
+   "https://www.kurumaerabi.com/shop/detail/27116/",
+   "https://www.kurumaerabi.com/shop/detail/25923/",
+   "https://www.kurumaerabi.com/shop/detail/29947/"
+  ],
+  "confidence": "高：運営会社名で確認",
+  "memo": "中古車販売。車選びドットコムの販売店名「ビジレンネクスト株式会社 ○○店」の関連販売店4店舗。公式サイト未確認。"
+ },
+ {
+  "fax": "",
+  "rep": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "",
+  "hq": "",
+  "tel": "",
+  "url": "",
+  "status": "under5",
+  "name": "イマミル（運営会社未確認）",
+  "count": 5,
+  "stores": [
+   {
+    "name": "イマミル 広島店",
+    "pref": "広島県"
+   },
+   {
+    "name": "イマミル 福岡店",
+    "pref": "福岡県"
+   },
+   {
+    "name": "イマミル 熊本店",
+    "pref": "熊本県"
+   },
+   {
+    "name": "イマミル 鹿児島店",
+    "pref": "鹿児島県"
+   },
+   {
+    "name": "イマミル 沖縄店",
+    "pref": "沖縄県"
+   }
+  ],
+  "sources": [
+   "https://www.kurumaerabi.com/shop/detail/20001011/",
+   "https://www.kurumaerabi.com/shop/detail/20000915/",
+   "https://www.kurumaerabi.com/shop/detail/20001036/",
+   "https://www.kurumaerabi.com/shop/detail/20001510/",
+   "https://www.kurumaerabi.com/shop/detail/20001012/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "中古車販売「イマミル」。車選びドットコムの関連販売店で5店舗。公式サイト（ima-miru.jp）はrobots.txtが取得できずアクセスしていないため運営会社名は未確認。沖縄店のホームページ欄は別ドメイン（txtgarage-nishinihon.jp）。"
+ },
+ {
+  "fax": "",
+  "rep": "",
+  "form": "",
+  "email": "",
+  "sns": [],
+  "dept": "",
+  "employees": "",
+  "hq": "",
+  "tel": "",
+  "url": "",
+  "status": "under5",
+  "name": "カーグレイス（法人格未確認）",
+  "count": 3,
+  "stores": [
+   {
+    "name": "カーグレイス流山街道店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "カーグレイス野田境大橋店",
+    "pref": "千葉県"
+   },
+   {
+    "name": "カーグレイス野田岩名店",
+    "pref": "千葉県"
+   }
+  ],
+  "sources": [
+   "https://www.kurumaerabi.com/shop/detail/29679/",
+   "https://www.kurumaerabi.com/shop/detail/29771/",
+   "https://www.kurumaerabi.com/shop/detail/29770/"
+  ],
+  "confidence": "中：店舗名からの推定",
+  "memo": "野田市の中古車販売。車選びドットコムの関連販売店で3店舗（いずれも野田市内の別住所）。運営会社名・公式サイトは未確認。"
  }
 ]
